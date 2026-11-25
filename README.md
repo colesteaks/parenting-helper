@@ -60,7 +60,11 @@ Observations influence preferences, never automatically mark development or rewr
 - `scripts/family_briefing.py`: deterministic calendar normalization, age progression, preference-based selection, agenda rendering and caregiver feedback capture.
 - `schemas/`: profile, calendar-snapshot and observation contracts; semantic validation supplements JSON Schema.
 - `tests/`: calendar correctness, age/source scope, feedback, reproducibility and public-path privacy checks.
-- `references/`: evidence policy, calendar contract, selection methodology and maintenance.
+- `references/`: evidence policy, [skill-area framing](references/skill-areas.md), calendar contract, selection methodology and maintenance.
+
+## Skill areas to investigate
+
+[Skill-area framing](references/skill-areas.md) lists thirteen areas a caregiver may want children to explore, from cooking through an optional second language. For each area it records open questions: milestones by age band, evidence-based activities, materials, and how progress can be noticed from infancy through elementary age. Use that list to choose the next reviewed addition. The agenda is wider than today's nine activity domains. It does not change card selection, household profiles, or the line between monitoring checklists and play.
 
 Age bands organize options, not readiness standards. The engine does not interpret free-text access notes; the host/caregiver must adapt. Unknown interests stay unknown. Approximate ages are projected by completed calendar months from their report date and are always labeled approximate. A supplied leap-day birthday uses completed calendar months. Calendar snapshots are not continuous sync and completeness only describes what the connected account can see.
 

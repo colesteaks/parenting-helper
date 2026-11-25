@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add `references/skill-areas.md`, a research framing for thirteen caregiver skill areas from infancy through elementary age. Linked from the README, the skill workflow, and maintenance. No schema, activity-id, or selection change.
+
 ## 0.1.0
 
 - Initial portable parenting-helper skill with a scoped first-party guidance graph and original age-adapted caregiver ideas.
