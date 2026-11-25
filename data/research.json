@@ -1,0 +1,3346 @@
+{
+  "version": 1,
+  "checked_on": "2026-11-25",
+  "note": "Each citation (authors, year, title, venue) was confirmed to exist by web search on the check date. Volume and page numbers are omitted throughout. On the same date the abstract or summary page of as many sources as possible was fetched and the stored finding was corrected against it; the field finding_checked_against says, per source, whether that check was against the paper's own abstract or text, against a secondary summary, or not done. No full text was read end to end, so read the source before relying on a specific number.",
+  "sources": [
+    {
+      "id": "bailey-2020",
+      "citation": "Bailey, D. H., Duncan, G. J., Cunha, F., Foorman, B. R., & Yeager, D. S. (2020). Persistence and fade-out of educational-intervention effects: Mechanisms and potential solutions. Psychological Science in the Public Interest.",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7787577/",
+      "design": "narrative-review",
+      "areas": [
+        "cross-cutting"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 216,
+      "finding": "Effects of early interventions on the skills they target usually shrink after the intervention ends. Persistence is more likely when later environments keep building on the skill, or when the intervention changes something that would not have developed anyway.",
+      "limits": "A review of mechanisms, and the explanation for fade-out is still debated. It concerns programs, not a parent's sustained routine.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "alfieri-2011",
+      "citation": "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? Journal of Educational Psychology.",
+      "year": 2011,
+      "url": "https://eric.ed.gov/?id=EJ933606",
+      "design": "meta-analysis",
+      "areas": [
+        "cross-cutting",
+        "science"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 216,
+      "finding": "Across 164 studies, explicit instruction beat unassisted discovery (d = 0.38), and enhanced discovery with guidance, feedback or worked examples beat other forms of instruction (d = 0.30).",
+      "limits": "Most studies involved older children and adults, not preschoolers.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "weisberg-2016",
+      "citation": "Weisberg, D. S., Hirsh-Pasek, K., Golinkoff, R. M., Kittredge, A. K., & Klahr, D. (2016). Guided play: Principles and practices. Current Directions in Psychological Science.",
+      "year": 2016,
+      "url": "https://journals.sagepub.com/doi/10.1177/0963721416645512",
+      "design": "narrative-review",
+      "areas": [
+        "cross-cutting",
+        "science",
+        "building"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 96,
+      "finding": "Guided play keeps the child in control of the action while an adult chooses the materials and steers attention toward a learning goal with questions and hints.",
+      "limits": "A short position review by proponents of the approach.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "skene-2022",
+      "citation": "Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. Child Development.",
+      "year": 2022,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35018635/",
+      "design": "meta-analysis",
+      "areas": [
+        "cross-cutting",
+        "math",
+        "building",
+        "science"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 96,
+      "finding": "Compared with direct instruction, guided play gave better results for early maths, shape knowledge and task switching. Compared with free play, it gave better spatial vocabulary.",
+      "limits": "39 studies with few per outcome, mostly in classrooms. Direct instruction was not worse on most outcomes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "lillard-2013",
+      "citation": "Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. Psychological Bulletin.",
+      "year": 2013,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22905949/",
+      "design": "systematic-review",
+      "areas": [
+        "cross-cutting",
+        "social-emotional"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 96,
+      "finding": "Existing evidence does not support strong causal claims that pretend play drives creativity, intelligence, problem solving, theory of mind or self-regulation. It may be one of several routes to those outcomes, or a by-product.",
+      "limits": "The conclusion is about the weakness of the evidence, not proof that pretend play does nothing. A later trial of structured drama games found a specific benefit (`goldstein-2018`).",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "romeo-2018",
+      "citation": "Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. E. (2018). Beyond the 30-million-word gap: Children's conversational exposure is associated with language-related brain function. Psychological Science.",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5945324",
+      "design": "cross-sectional",
+      "areas": [
+        "cross-cutting",
+        "reading"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 83,
+      "finding": "In 36 children aged 4-6, the number of adult-child conversational turns, not the number of adult words heard, was related to verbal scores and to activation in language areas, independent of family income and education.",
+      "limits": "Small and correlational. Talkative children may draw more turns from adults.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "nelp-2008",
+      "citation": "National Early Literacy Panel. (2008). Developing early literacy: Report of the National Early Literacy Panel. National Institute for Literacy.",
+      "year": 2008,
+      "url": "https://www.nichd.nih.gov/publications/pubs/Documents/NELPReport09.pdf",
+      "design": "meta-analysis",
+      "areas": [
+        "reading",
+        "writing"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 71,
+      "finding": "Across roughly 300 studies, the strongest preschool predictors of later decoding, spelling and comprehension were alphabet knowledge, phonological awareness, rapid naming, writing or name writing, and phonological memory. Code-focused teaching improved those skills. Shared reading mainly improved oral language.",
+      "limits": "The predictors are correlational. Most intervention studies were short and school based.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "castles-2018",
+      "citation": "Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest.",
+      "year": 2018,
+      "url": "https://www.psychologicalscience.org/publications/ending-the-reading-wars-reading-acquisition-from-novice-to-expert.html",
+      "design": "narrative-review",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 216,
+      "finding": "Systematic phonics is necessary for learning to decode an alphabetic script but is not sufficient. Fluent word reading also needs a large amount of reading experience, and comprehension depends on vocabulary and knowledge of the world.",
+      "limits": "A narrative review, mostly about school instruction.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "ies-foundational-2016",
+      "citation": "Foorman, B., Beyler, N., Borradaile, K., Coyne, M., Denton, C. A., Dimino, J., et al. (2016). Foundational skills to support reading for understanding in kindergarten through 3rd grade (NCEE 2016-4008). What Works Clearinghouse, Institute of Education Sciences.",
+      "year": 2016,
+      "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/21",
+      "design": "evidence-guide",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 107,
+      "finding": "Four recommendations: teach academic language (minimal evidence), teach awareness of speech sounds and letter-sound links (strong), teach decoding and word analysis (strong), and have children read connected text every day for accuracy, fluency and comprehension (moderate).",
+      "limits": "Written for kindergarten to grade 3 classrooms. A younger child who already decodes is outside the studied population by age, though not by skill.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "share-1995",
+      "citation": "Share, D. L. (1995). Phonological recoding and self-teaching: Sine qua non of reading acquisition. Cognition.",
+      "year": 1995,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7789090/",
+      "design": "theory",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 144,
+      "finding": "Self-teaching hypothesis: each time a child successfully sounds out a new word, that is a learning trial that builds the word-specific memory needed for fluent reading. Decoding skill plus reading volume drives growth.",
+      "limits": "A theoretical review. Later experiments support it, but it does not prescribe a home routine.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "ehri-2014",
+      "citation": "Ehri, L. C. (2014). Orthographic mapping in the acquisition of sight word reading, spelling memory, and vocabulary learning. Scientific Studies of Reading.",
+      "year": 2014,
+      "url": "https://www.readingrockets.org/research-by-topic/orthographic-mapping-acquisition-sight-word-reading-spelling-memory-and-vocabulary",
+      "design": "theory",
+      "areas": [
+        "reading",
+        "writing"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 144,
+      "finding": "Words become readable at sight when their spellings are bonded to their pronunciations and meanings. That bonding needs phonemic awareness and letter-sound knowledge, and spelling and reading draw on the same knowledge.",
+      "limits": "A theory paper summarising the author's research program.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "mol-2008",
+      "citation": "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. Early Education and Development.",
+      "year": 2008,
+      "url": "https://www.scinapse.io/papers/2088476022",
+      "design": "meta-analysis",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 71,
+      "finding": "Across 16 studies, training parents in dialogic reading improved children's expressive vocabulary more than ordinary reading aloud. The effect was clearly smaller for 4-5-year-olds than for 2-3-year-olds, and smaller for children at risk.",
+      "limits": "Short-term vocabulary outcomes. For a child near 5, the gain from questioning style alone is modest.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "senechal-2002",
+      "citation": "Senechal, M., & LeFevre, J.-A. (2002). Parental involvement in the development of children's reading skill: A five-year longitudinal study. Child Development.",
+      "year": 2002,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11949902",
+      "design": "longitudinal",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 107,
+      "finding": "In 168 children followed from kindergarten to grade 3, storybook exposure predicted vocabulary and listening comprehension, which predicted grade 3 reading. Parents teaching letters and words predicted early literacy skills and grade 1 reading. The two paths were largely separate.",
+      "limits": "Correlational, in middle-class Canadian families.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "wwc-prek-2022",
+      "citation": "What Works Clearinghouse. (2022). Preparing young children for school (WWC 2022009). Institute of Education Sciences.",
+      "year": 2022,
+      "url": "https://ies.ed.gov/ncee/wwc/practiceguide/30",
+      "design": "evidence-guide",
+      "areas": [
+        "reading",
+        "math",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 71,
+      "finding": "Seven recommendations for preschool programs covering social-emotional skills, executive function, mathematical ideas and math talk, letters and sounds, shared book reading and vocabulary.",
+      "limits": "The recommendation list is summarised from memory and was not re-read on the check date. Evidence levels differ by recommendation. Classroom setting.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "ouellette-2017",
+      "citation": "Ouellette, G., & Senechal, M. (2017). Invented spelling in kindergarten as a predictor of reading and spelling in Grade 1: A new pathway to literacy, or just the same road, less known? Developmental Psychology.",
+      "year": 2017,
+      "url": "https://www.readingrockets.org/research-by-topic/invented-spelling-kindergarten-predictor-reading-and-spelling-grade-1",
+      "design": "longitudinal",
+      "areas": [
+        "writing",
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 84,
+      "finding": "In about 170 kindergartners, how sophisticated a child's invented spellings were predicted grade 1 reading and spelling over and above phonological awareness and letter knowledge.",
+      "limits": "Longitudinal, not experimental. The authors' separate training studies are not reviewed here.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "ies-writers-2012",
+      "citation": "Graham, S., Bollinger, A., Booth Olson, C., D'Aoust, C., MacArthur, C., McCutchen, D., & Olinghouse, N. (2012). Teaching elementary school students to be effective writers (NCEE 2012-4058). What Works Clearinghouse, Institute of Education Sciences.",
+      "year": 2012,
+      "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/17",
+      "design": "evidence-guide",
+      "areas": [
+        "writing"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 143,
+      "finding": "Provide daily time to write (minimal evidence). Teach the writing process and writing for different purposes (strong). Teach handwriting, spelling, sentence construction and typing until fluent (moderate). Build a community of writers (minimal).",
+      "limits": "Elementary classrooms. Preschool is out of scope.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "santangelo-2016",
+      "citation": "Santangelo, T., & Graham, S. (2016). A comprehensive meta-analysis of handwriting instruction. Educational Psychology Review.",
+      "year": 2016,
+      "url": "https://doi.org/10.1007/s10648-015-9335-1",
+      "design": "meta-analysis",
+      "areas": [
+        "writing"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 216,
+      "finding": "Explicit handwriting instruction improved legibility and fluency, and also improved the quality and length of what students wrote.",
+      "limits": "School-age samples, starting at kindergarten.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "puranik-2011",
+      "citation": "Puranik, C. S., & Lonigan, C. J. (2011). From scribbles to scrabble: Preschool children's developing knowledge of written language. Reading and Writing.",
+      "year": 2011,
+      "url": "https://link.springer.com/doi/10.1007/s11145-009-9220-8",
+      "design": "cross-sectional",
+      "areas": [
+        "writing"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 71,
+      "finding": "In 372 preschoolers, writing knowledge developed in a consistent order: general features of writing first, then letters and name writing, then spelling. Name writing was the most advanced skill at each age.",
+      "limits": "Descriptive. It shows a typical order, not what teaching changes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "grissmer-2010",
+      "citation": "Grissmer, D., Grimm, K. J., Aiyer, S. M., Murrah, W. M., & Steele, J. S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. Developmental Psychology.",
+      "year": 2010,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20822219/",
+      "design": "longitudinal",
+      "areas": [
+        "writing",
+        "art",
+        "cross-cutting"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 132,
+      "finding": "Across three large longitudinal datasets, fine motor skill and general knowledge at kindergarten entry predicted later math and reading over and above early math, reading and attention.",
+      "limits": "Correlational. It does not show that training fine motor skill raises achievement.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "duncan-2007",
+      "citation": "Duncan, G. J., Dowsett, C. J., Claessens, A., Magnuson, K., Huston, A. C., Klebanov, P., et al. (2007). School readiness and later achievement. Developmental Psychology.",
+      "year": 2007,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18020822/",
+      "design": "longitudinal",
+      "areas": [
+        "math",
+        "reading",
+        "cross-cutting"
+      ],
+      "studied_min_months": 54,
+      "studied_max_months": 168,
+      "finding": "Across six longitudinal datasets, math skill at school entry was the strongest predictor of later achievement, followed by reading and attention. Social-emotional behaviour at entry did not predict later achievement.",
+      "limits": "Correlational with extensive controls. The causal effect of boosting early math is likely smaller than the correlation (see bailey-2020).",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "siegler-2008",
+      "citation": "Siegler, R. S., & Ramani, G. B. (2008). Playing linear numerical board games promotes low-income children's numerical development. Developmental Science.",
+      "year": 2008,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18801120/",
+      "design": "rct",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 71,
+      "finding": "Low-income preschoolers who played a linear number board game for four 15-minute sessions caught up with more affluent peers in number-line estimation; a version with colours instead of numbers did not help.",
+      "limits": "Head Start samples. A child with strong number knowledge may already be at ceiling on a 1-10 board.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "ramani-2008",
+      "citation": "Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. Child Development.",
+      "year": 2008,
+      "url": "https://drum.lib.umd.edu/handle/1903/10061",
+      "design": "rct",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 71,
+      "finding": "Replicated the board-game effect on four tasks: number-line estimation, magnitude comparison, counting and numeral identification. Gains were still present nine weeks later. Children's reported board-game play at home was related to their number knowledge.",
+      "limits": "Head Start samples and a short follow-up.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "ies-math-2013",
+      "citation": "Frye, D., Baroody, A. J., Burchinal, M., Carver, S. M., Jordan, N. C., & McDowell, J. (2013). Teaching math to young children (NCEE 2014-4005). What Works Clearinghouse, Institute of Education Sciences.",
+      "year": 2013,
+      "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/18",
+      "design": "evidence-guide",
+      "areas": [
+        "math",
+        "building"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 83,
+      "finding": "Teach number and operations along a developmental progression (moderate evidence). Teach geometry, patterns, measurement and data (minimal). Monitor progress (minimal). Teach children to describe their world mathematically (minimal). Give math dedicated time each day and weave it through the day (minimal).",
+      "limits": "Classroom guide for ages 3-6. Only the first recommendation has more than minimal evidence.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "berkowitz-2015",
+      "citation": "Berkowitz, T., Schaeffer, M. W., Maloney, E. A., Peterson, L., Gregor, C., Levine, S. C., & Beilock, S. L. (2015). Math at home adds up to achievement in school. Science.",
+      "year": 2015,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26450209/",
+      "design": "rct",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 90,
+      "finding": "In 587 first-graders, families given an app of short math story problems to do together saw more math growth across the school year than families given a reading app, most of all when the parents were anxious about math.",
+      "limits": "First grade, not preschool. A published comment questioned the analysis; it appeared in search results and was not reviewed.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "levine-2010",
+      "citation": "Levine, S. C., Suriyakham, L. W., Rowe, M. L., Huttenlocher, J., & Gunderson, E. A. (2010). What counts in the development of young children's number knowledge? Developmental Psychology.",
+      "year": 2010,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2998540",
+      "design": "longitudinal",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 14,
+      "studied_max_months": 46,
+      "finding": "The amount of number talk parents used between 14 and 30 months predicted children's understanding of cardinal number at 46 months, controlling for socioeconomic status and other talk.",
+      "limits": "44 families, correlational, toddler years.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "clements-2011",
+      "citation": "Clements, D. H., & Sarama, J. (2011). Early childhood mathematics intervention. Science.",
+      "year": 2011,
+      "url": "https://researchconnect.buffalo.edu/en/publications/early-childhood-mathematics-intervention/",
+      "design": "narrative-review",
+      "areas": [
+        "math",
+        "building"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 83,
+      "finding": "Preschool math programs built on learning trajectories raise math achievement, including for low-income children. Early math is broader than counting and includes space, shape and pattern.",
+      "limits": "A review written by the developers of one such curriculum.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "bonawitz-2011",
+      "citation": "Bonawitz, E., Shafto, P., Gweon, H., Goodman, N. D., Spelke, E., & Schulz, L. (2011). The double-edged sword of pedagogy: Instruction limits spontaneous exploration and discovery. Cognition.",
+      "year": 2011,
+      "url": "https://dspace.mit.edu/handle/1721.1/60992",
+      "design": "experiment",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 72,
+      "finding": "Preschoolers who were shown one function of a new toy by a teacher explored it less and found fewer of its other functions than children who were not directly taught.",
+      "limits": "One toy, one session, a museum sample. It shows a cost of demonstration for exploration, not that instruction is harmful in general.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "gopnik-2012",
+      "citation": "Gopnik, A. (2012). Scientific thinking in young children: Theoretical advances, empirical research, and policy implications. Science.",
+      "year": 2012,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3422420",
+      "design": "narrative-review",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 72,
+      "finding": "Preschoolers test hypotheses, learn from patterns in data and from their own interventions, and infer causes in ways that resemble scientific reasoning. Exploratory play serves this.",
+      "limits": "A review of lab studies by a leading proponent. It does not test home activities.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "chouinard-2007",
+      "citation": "Chouinard, M. M. (2007). Children's questions: A mechanism for cognitive development. Monographs of the Society for Research in Child Development.",
+      "year": 2007,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17394580/",
+      "design": "observational",
+      "areas": [
+        "science",
+        "cross-cutting"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 71,
+      "finding": "Preschoolers ask adults a very large number of information-seeking questions, usually get informative answers, and keep asking when they do not. With age the questions shift from facts toward explanations.",
+      "limits": "Observational: a small number of recorded children plus diary studies.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "winner-2013",
+      "citation": "Winner, E., Goldstein, T. R., & Vincent-Lancrin, S. (2013). Art for art's sake? The impact of arts education. OECD Publishing.",
+      "year": 2013,
+      "url": "https://www.brookings.edu/books/art-for-arts-sake-the-impact-of-arts-education/",
+      "design": "systematic-review",
+      "areas": [
+        "art",
+        "music"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "There is little rigorous evidence that arts education improves achievement in other school subjects. A few specific links hold up better, such as music with phonological skills and classroom drama with verbal skills. The authors conclude the arts are justified by what they teach in themselves.",
+      "limits": "An OECD book. Its conclusions are summarised from prior knowledge; the publisher page read on the check date shows no findings. Its search predates the arts trials by Bowen and Kisida (`bowen-2023`).",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "sala-2020",
+      "citation": "Sala, G., & Gobet, F. (2020). Cognitive and academic benefits of music training with children: A multilevel meta-analysis. Memory & Cognition.",
+      "year": 2020,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32728850/",
+      "design": "meta-analysis",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 192,
+      "finding": "Across 54 studies, music training showed a small overall effect on cognitive and academic outcomes that fell to about zero in studies with random assignment and active control groups.",
+      "limits": "It addresses transfer to other skills, not the value of learning music.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "schellenberg-2004",
+      "citation": "Schellenberg, E. G. (2004). Music lessons enhance IQ. Psychological Science.",
+      "year": 2004,
+      "url": "https://www.psychologicalscience.org/journals/psychological-science/j.0956-7976.2004.00711.x/",
+      "design": "rct",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 84,
+      "finding": "144 children were randomly assigned to a year of keyboard lessons, voice lessons, drama lessons or no lessons. The two music groups gained more in full-scale IQ than the controls, an effect the author calls relatively small. The drama group gained in social behaviour instead.",
+      "limits": "One trial with 6-year-olds. Later meta-analyses with active controls find no reliable IQ effect (`sala-2020`).",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "kirschner-2010",
+      "citation": "Kirschner, S., & Tomasello, M. (2010). Joint music making promotes prosocial behavior in 4-year-old children. Evolution and Human Behavior.",
+      "year": 2010,
+      "url": "https://www.eva.mpg.de/documents/Elsevier/Kirschner_Joint_EvolHumBeh_2010_1552719.pdf",
+      "design": "experiment",
+      "areas": [
+        "music",
+        "social-emotional"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 59,
+      "finding": "96 children aged 4 to 5 (48 pairs) played a game together with or without singing and drumming. Afterwards the music pairs helped and cooperated with each other more often than the matched non-music pairs.",
+      "limits": "One lab session with an immediate test. The authors could not separate music from joint rhythmic activity in general. Durable effects are untested.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "woodruff-2014",
+      "citation": "Woodruff Carr, K., White-Schwoch, T., Tierney, A. T., Strait, D. L., & Kraus, N. (2014). Beat synchronization predicts neural speech encoding and reading readiness in preschoolers. Proceedings of the National Academy of Sciences.",
+      "year": 2014,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25246562/",
+      "design": "cross-sectional",
+      "areas": [
+        "music",
+        "reading"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 59,
+      "finding": "Preschoolers who could tap in time to a beat showed more faithful neural encoding of the rhythm of speech and higher early language scores than those who could not.",
+      "limits": "Correlational. It does not show that beat training improves language.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "who-2019",
+      "citation": "World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age.",
+      "year": 2019,
+      "url": "https://www.who.int/publications/i/item/9789241550536",
+      "design": "guideline",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 59,
+      "finding": "Children aged 3-4 should get at least 180 minutes of physical activity a day, including at least 60 minutes of moderate-to-vigorous activity, no more than one hour of sedentary screen time, and 10-13 hours of good-quality sleep.",
+      "limits": "WHO rates the underlying evidence as low or very low quality. The guideline stops at age 4.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "us-pag-2018",
+      "citation": "U.S. Department of Health and Human Services. (2018). Physical activity guidelines for Americans (2nd ed.).",
+      "year": 2018,
+      "url": "https://health.gov/sites/default/files/2019-10/PAG_ExecutiveSummary.pdf",
+      "design": "guideline",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 215,
+      "finding": "Children aged 3-5 should be physically active throughout the day. From age 6, children need at least 60 minutes a day of moderate-to-vigorous activity, including muscle- and bone-strengthening activity.",
+      "limits": "A guideline, with the preschool recommendation resting on thinner evidence than the school-age one.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "logan-2012",
+      "citation": "Logan, S. W., Robinson, L. E., Wilson, A. E., & Lucas, W. A. (2012). Getting the fundamentals of movement: A meta-analysis of the effectiveness of motor skill interventions in children. Child: Care, Health and Development.",
+      "year": 2012,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21880055/",
+      "design": "meta-analysis",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 120,
+      "finding": "Planned motor skill instruction improved children's fundamental movement skills (running, jumping, throwing, catching, kicking). Comparison groups who only had free play did not improve.",
+      "limits": "Eleven studies, many with children who had delays or were from low-income families, and short-term outcomes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "stodden-2008",
+      "citation": "Stodden, D. F., Goodway, J. D., Langendorfer, S. J., Roberton, M. A., Rudisill, M. E., Garcia, C., & Garcia, L. E. (2008). A developmental perspective on the role of motor skill competence in physical activity: An emergent relationship. Quest.",
+      "year": 2008,
+      "url": "https://doi.org/10.1080/00336297.2008.10483582",
+      "design": "theory",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 216,
+      "finding": "Proposes that motor skill competence in early childhood drives later physical activity, perceived competence and fitness, and that the link strengthens with age. Children who lack the basic skills drop out of active play and sport.",
+      "limits": "A conceptual model. See robinson-2015 for the supporting evidence.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "robinson-2015",
+      "citation": "Robinson, L. E., Stodden, D. F., Barnett, L. M., Lopes, V. P., Logan, S. W., Rodrigues, L. P., & D'Hondt, E. (2015). Motor competence and its effect on positive developmental trajectories of health. Sports Medicine.",
+      "year": 2015,
+      "url": "https://link.springer.com/doi/10.1007/s40279-015-0351-6",
+      "design": "narrative-review",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 216,
+      "finding": "Reviews evidence that motor competence is positively related to physical activity, fitness and perceived competence, and inversely related to weight status, across childhood.",
+      "limits": "Mostly correlational and cross-sectional studies.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "aap-sports-2019",
+      "citation": "Logan, K., Cuff, S., & Council on Sports Medicine and Fitness. (2019). Organized sports for children, preadolescents, and adolescents. Pediatrics.",
+      "year": 2019,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31110166/",
+      "design": "guideline",
+      "areas": [
+        "movement",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Organized sport has physical, social and psychological benefits when it stays fun and matches the child's development. Before children are developmentally ready, free play and basic skills matter more than competition. Fun is the main reason children keep playing.",
+      "limits": "A clinical report based on expert review. The report places readiness for organized sport at about age 6 for most children; that figure is recalled from memory and should be confirmed in the report.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "aap-specialization-2016",
+      "citation": "Brenner, J. S., & Council on Sports Medicine and Fitness. (2016). Sports specialization and intensive training in young athletes. Pediatrics.",
+      "year": 2016,
+      "url": "https://publications.aap.org/pediatrics/article/138/3/e20162148/52612/Sports-Specialization-and-Intensive-Training-in",
+      "design": "guideline",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 216,
+      "finding": "Playing several sports and delaying single-sport specialization until late adolescence (about 15-16 for most sports) is associated with fewer injuries and less stress and burnout, and does not reduce the chance of athletic success.",
+      "limits": "Based largely on observational studies of older athletes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "brussoni-2015",
+      "citation": "Brussoni, M., Gibbons, R., Gray, C., Ishikawa, T., Sandseter, E. B. H., Bienenstock, A., et al. (2015). What is the relationship between risky outdoor play and health in children? A systematic review. International Journal of Environmental Research and Public Health.",
+      "year": 2015,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4483710",
+      "design": "systematic-review",
+      "areas": [
+        "movement",
+        "nature",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 144,
+      "finding": "Across 21 papers, risky outdoor play (heights, speed, rough-and-tumble, playing out of sight) was associated with more physical activity and better social health. Play at height was not associated with more or worse fractures.",
+      "limits": "Evidence quality rated low to moderate, mostly observational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "brenner-2009",
+      "citation": "Brenner, R. A., Taneja, G. S., Haynie, D. L., Trumble, A. C., Qian, C., Klinger, R. M., & Klebanoff, M. A. (2009). Association between swimming lessons and drowning in childhood: A case-control study. Archives of Pediatrics & Adolescent Medicine.",
+      "year": 2009,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19255386",
+      "design": "case-control",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 59,
+      "finding": "Formal swimming lessons were associated with an 88% lower risk of drowning in children aged 1-4 (odds ratio 0.12, 95% confidence interval 0.01 to 0.97).",
+      "limits": "Case-control design with a very wide confidence interval. Lessons do not make a child drown-proof.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "aap-drowning-2019",
+      "citation": "Denny, S. A., Quan, L., Gilchrist, J., McCallin, T., Shenoi, R., Yusuf, S., et al. (2019). Prevention of drowning. Pediatrics.",
+      "year": 2019,
+      "url": "https://publications.aap.org/pediatrics/article/143/5/e20190850/37134/Prevention-of-Drowning",
+      "design": "guideline",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 216,
+      "finding": "Recommends swim lessons for most children from about age 1 as one layer of protection alongside close supervision, pool barriers and life jackets.",
+      "limits": "Newer AAP drowning statements (2021 and 2026) appeared in search results and were not reviewed.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "jones-2015",
+      "citation": "Jones, D. E., Greenberg, M., & Crowley, M. (2015). Early social-emotional functioning and public health: The relationship between kindergarten social competence and future wellness. American Journal of Public Health.",
+      "year": 2015,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4605168",
+      "design": "longitudinal",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 300,
+      "finding": "In 753 kindergartners, teacher-rated prosocial skill predicted education, employment, crime, substance use and mental health 13-19 years later, controlling for family and child characteristics.",
+      "limits": "Correlational, in a sample weighted toward higher-risk children.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "moffitt-2011",
+      "citation": "Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R. J., Harrington, H., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences.",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3041102",
+      "design": "longitudinal",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 384,
+      "finding": "In about 1,000 children followed to age 32, childhood self-control predicted adult health, finances and criminal offending along a gradient, controlling for intelligence and social class.",
+      "limits": "Observational. It does not show that training self-control changes those outcomes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "watts-2018",
+      "citation": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science.",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7197218",
+      "design": "longitudinal",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 54,
+      "studied_max_months": 180,
+      "finding": "In a larger and more diverse sample, the link between delay of gratification at 54 months and achievement at 15 was half the size originally reported, and shrank by about two thirds once family background and early cognitive ability were controlled.",
+      "limits": "A replication of a correlation. It cautions against treating one self-control task as a lever.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "diamond-2011",
+      "citation": "Diamond, A., & Lee, K. (2011). Interventions shown to aid executive function development in children 4 to 12 years old. Science.",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3159917/",
+      "design": "narrative-review",
+      "areas": [
+        "social-emotional",
+        "movement"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 144,
+      "finding": "Computerized training, aerobic exercise, martial arts, mindfulness and some school curricula improved executive function. Children with the weakest executive function gained most, gains needed the challenge to keep rising, and transfer was narrow.",
+      "limits": "A narrative review. Several of the headline programs have had mixed results since.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "leonard-2021",
+      "citation": "Leonard, J. A., Martinez, D. N., Dashineau, S. C., Park, A. T., & Mackey, A. P. (2021). Children persist less when adults take over. Child Development.",
+      "year": 2021,
+      "url": "https://doi.org/10.1111/cdev.13492",
+      "design": "experiment",
+      "areas": [
+        "social-emotional",
+        "cross-cutting"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 71,
+      "finding": "Parents who took over more during a hard puzzle had 4-5-year-olds rated as less persistent. In an experiment, children persisted less on a later task after an adult took over than after an adult taught them or did nothing.",
+      "limits": "Short lab tasks and immediate effects.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "gunderson-2013",
+      "citation": "Gunderson, E. A., Gripshover, S. J., Romero, C., Dweck, C. S., Goldin-Meadow, S., & Levine, S. C. (2013). Parent praise to 1- to 3-year-olds predicts children's motivational frameworks 5 years later. Child Development.",
+      "year": 2013,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3655123",
+      "design": "longitudinal",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 14,
+      "studied_max_months": 96,
+      "finding": "The share of parents' praise that was about effort and strategy when children were 14-38 months old predicted the children's belief, at age 7-8, that ability can grow.",
+      "limits": "53 families, correlational. See sisk-2018 for how small mindset effects on achievement are.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "sisk-2018",
+      "citation": "Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. Psychological Science.",
+      "year": 2018,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29505339/",
+      "design": "meta-analysis",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 300,
+      "finding": "Mindset is only weakly related to academic achievement, and mindset interventions have very small average effects, somewhat larger for academically at-risk students.",
+      "limits": "School-age to adult samples.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "vasquez-2016",
+      "citation": "Vasquez, A. C., Patall, E. A., Fong, C. J., Corrigan, A. S., & Pine, L. (2016). Parent autonomy support, academic achievement, and psychosocial functioning: A meta-analysis of research. Educational Psychology Review.",
+      "year": 2016,
+      "url": "https://link.springer.com/doi/10.1007/s10648-015-9329-z",
+      "design": "meta-analysis",
+      "areas": [
+        "social-emotional",
+        "practical-life"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Parents' support for their children's autonomy was related to better achievement, motivation and psychological health.",
+      "limits": "A meta-analysis of correlations, mostly in school-age children.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "denham-2003",
+      "citation": "Denham, S. A., Blair, K. A., DeMulder, E., Levitas, J., Sawyer, K., Auerbach-Major, S., & Queenan, P. (2003). Preschool emotional competence: Pathway to social competence? Child Development.",
+      "year": 2003,
+      "url": "https://doi.org/10.1111/1467-8624.00533",
+      "design": "longitudinal",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 72,
+      "finding": "In 143 preschoolers, emotional expressiveness, emotion regulation and emotion knowledge at ages 3-4 predicted social competence in kindergarten.",
+      "limits": "Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "white-2019",
+      "citation": "White, E. M., DeBoer, M. D., & Scharf, R. J. (2019). Associations between household chores and childhood self-competency. Journal of Developmental & Behavioral Pediatrics.",
+      "year": 2019,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30507727/",
+      "design": "longitudinal",
+      "areas": [
+        "practical-life"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 108,
+      "finding": "In a national sample of nearly 10,000 children, doing chores more often in kindergarten was associated with higher self-rated competence, prosocial behaviour and math scores in third grade, after controls.",
+      "limits": "Parent-reported chores and correlational. News coverage of a different 2019 longitudinal study reported no link between chores and later self-control; that study was not reviewed.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "tepper-2022",
+      "citation": "Tepper, D. L., Howell, T. J., & Bennett, P. C. (2022). Executive functions and household chores: Does engagement in chores predict children's cognition? Australian Occupational Therapy Journal.",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9796572/",
+      "design": "cross-sectional",
+      "areas": [
+        "practical-life"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 156,
+      "finding": "In parent reports on 207 children aged 5-13, doing self-care and family-care chores was related to better working memory and inhibition. Pet-care chores were not.",
+      "limits": "Cross-sectional parent report. Children with better executive function may simply be given more chores.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "lillard-2017",
+      "citation": "Lillard, A. S., Heise, M. J., Richey, E. M., Tong, X., Hart, A., & Bray, P. M. (2017). Montessori preschool elevates and equalizes child outcomes: A longitudinal study. Frontiers in Psychology.",
+      "year": 2017,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5670361",
+      "design": "quasi-experiment",
+      "areas": [
+        "practical-life",
+        "cross-cutting"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 72,
+      "finding": "Among 141 children whose places were decided by lottery, those in public Montessori preschools did better over three years on academic achievement, social understanding and mastery orientation than those who lost the lottery.",
+      "limits": "Two schools in one city. It tests a whole program, so the result cannot be attributed to practical-life work specifically.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "vanderhorst-2014",
+      "citation": "van der Horst, K., Ferrage, A., & Rytz, A. (2014). Involving children in meal preparation. Effects on food intake. Appetite.",
+      "year": 2014,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24709485/",
+      "design": "experiment",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 120,
+      "finding": "Among 47 children aged 6-10, those who cooked lunch themselves with a parent's help ate 76% more salad, 27% more chicken and 24% more calories than those whose parent cooked alone.",
+      "limits": "One meal, older children, a lab kitchen. The authors note the extra energy intake.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "hersch-2014",
+      "citation": "Hersch, D., Perdue, L., Ambroz, T., & Boucher, J. L. (2014). The impact of cooking classes on food-related preferences, attitudes, and behaviors of school-aged children: A systematic review of the evidence, 2003-2014. Preventing Chronic Disease.",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4222785",
+      "design": "systematic-review",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 144,
+      "finding": "A review of 8 studies of cooking programs for children aged 5-12 found they may improve food preferences, attitudes and behaviours.",
+      "limits": "Measures varied too much to identify best practice. Program length, long-term effects and parent involvement are unknown.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "he-2015",
+      "citation": "He, M., Xiang, F., Zeng, Y., Mai, J., Chen, Q., Zhang, J., et al. (2015). Effect of time spent outdoors at school on the development of myopia among children in China: A randomized clinical trial. JAMA.",
+      "year": 2015,
+      "url": "https://jamanetwork.com/journals/jama/article-abstract/2441261",
+      "design": "rct",
+      "areas": [
+        "nature",
+        "movement"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 108,
+      "finding": "In a cluster trial of 1,903 first graders (mean age 6.6) in 12 Guangzhou schools, one extra 40-minute outdoor class each school day cut the 3-year incidence of myopia from 39.5% to 30.4%.",
+      "limits": "School-based in China. The effect on eye length was not significant.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "kuo-2019",
+      "citation": "Kuo, M., Barnes, M., & Jordan, C. (2019). Do experiences with nature promote learning? Converging evidence of a cause-and-effect relationship. Frontiers in Psychology.",
+      "year": 2019,
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00305/pdf",
+      "design": "narrative-review",
+      "areas": [
+        "nature"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Argues that time in nature improves attention, stress, self-discipline and engagement with learning, drawing on experimental and correlational studies.",
+      "limits": "A narrative review by advocates. Many of the underlying studies are small or correlational.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "dankiw-2020",
+      "citation": "Dankiw, K. A., Tsiros, M. D., Baldock, K. L., & Kumar, S. (2020). The impacts of unstructured nature play on health in early childhood development: A systematic review. PLoS ONE.",
+      "year": 2020,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018039/",
+      "design": "systematic-review",
+      "areas": [
+        "nature"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 144,
+      "finding": "Across 16 studies, unstructured play in natural settings was associated with more physical activity and with better cognitive, social and emotional outcomes.",
+      "limits": "Evidence quality rated low, with inconsistent definitions of nature play.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "verdine-2014",
+      "citation": "Verdine, B. N., Golinkoff, R. M., Hirsh-Pasek, K., Newcombe, N. S., Filipowicz, A. T., & Chang, A. (2014). Deconstructing building blocks: Preschoolers' spatial assembly performance relates to early mathematical skills. Child Development.",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3962809",
+      "design": "cross-sectional",
+      "areas": [
+        "building",
+        "math"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 47,
+      "finding": "In about 100 three-year-olds, the ability to copy a block construction from a model was related to early math skill. Children from lower-income families were already behind and heard fewer spatial words.",
+      "limits": "Correlational, in three-year-olds.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "uttal-2013",
+      "citation": "Uttal, D. H., Meadow, N. G., Tipton, E., Hand, L. L., Alden, A. R., Warren, C., & Newcombe, N. S. (2013). The malleability of spatial skills: A meta-analysis of training studies. Psychological Bulletin.",
+      "year": 2013,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22663761/",
+      "design": "meta-analysis",
+      "areas": [
+        "building"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 300,
+      "finding": "Across 217 training studies, spatial skills improved with practice (average g = 0.47), the gains lasted across delayed tests and transferred to untrained spatial tasks.",
+      "limits": "Most studies were of older children and adults.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "hawes-2022",
+      "citation": "Hawes, Z. C. K., Gilligan-Lee, K. A., & Mix, K. S. (2022). Effects of spatial training on mathematics performance: A meta-analysis. Developmental Psychology.",
+      "year": 2022,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35073120/",
+      "design": "meta-analysis",
+      "areas": [
+        "building",
+        "math"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Across 29 studies, spatial training improved math performance by roughly a quarter of a standard deviation. Training with physical materials worked better than training without.",
+      "limits": "Effects were larger in older children, and preschool evidence is thin. Moderator details are recalled from memory.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "levine-2012",
+      "citation": "Levine, S. C., Ratliff, K. R., Huttenlocher, J., & Cannon, J. (2012). Early puzzle play: A predictor of preschoolers' spatial transformation skill. Developmental Psychology.",
+      "year": 2012,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3289766",
+      "design": "longitudinal",
+      "areas": [
+        "building"
+      ],
+      "studied_min_months": 26,
+      "studied_max_months": 54,
+      "finding": "Children who were seen playing with puzzles between 26 and 46 months had better spatial transformation skill at 54 months, controlling for parent education, income and overall parent talk.",
+      "limits": "53 families, correlational.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "pruden-2011",
+      "citation": "Pruden, S. M., Levine, S. C., & Huttenlocher, J. (2011). Children's spatial thinking: Does talk about the spatial world matter? Developmental Science.",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3372906",
+      "design": "longitudinal",
+      "areas": [
+        "building"
+      ],
+      "studied_min_months": 14,
+      "studied_max_months": 54,
+      "finding": "In 52 children recorded at home from 14 to 46 months, those who heard and produced more spatial words did better on spatial transformation and spatial analogy tasks at 54 months.",
+      "limits": "Correlational. The authors note causal and non-causal explanations both fit, and much of the variation is unexplained.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "kuhl-2003",
+      "citation": "Kuhl, P. K., Tsao, F.-M., & Liu, H.-M. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. Proceedings of the National Academy of Sciences.",
+      "year": 2003,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC166444",
+      "design": "experiment",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 9,
+      "studied_max_months": 10,
+      "finding": "Nine-month-olds learned Mandarin speech-sound contrasts from 12 live sessions with a speaker, but not from the same material on video or audio.",
+      "limits": "Infants and speech-sound learning only.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "hartshorne-2018",
+      "citation": "Hartshorne, J. K., Tenenbaum, J. B., & Pinker, S. (2018). A critical period for second language acquisition: Evidence from 2/3 million English speakers. Cognition.",
+      "year": 2018,
+      "url": "https://dspace.mit.edu/handle/1721.1/126641",
+      "design": "cross-sectional",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 840,
+      "finding": "In about 670,000 people, the ability to learn grammar stayed high until about age 17, but reaching a native-like level required starting by about age 10-12.",
+      "limits": "An online English grammar quiz with a self-selected sample.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "byers-2013",
+      "citation": "Byers-Heinlein, K., & Lew-Williams, C. (2013). Bilingualism in the early years: What the science says. LEARNing Landscapes.",
+      "year": 2013,
+      "url": "https://learninglandscapes.ca/index.php/learnland/article/view/632",
+      "design": "narrative-review",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 72,
+      "finding": "Children are not confused by hearing two languages. How well each language is learned depends on the amount and quality of exposure to it, and no single family strategy is best.",
+      "limits": "A review written for parents and practitioners.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "lehtonen-2018",
+      "citation": "Lehtonen, M., Soveri, A., Laine, A., Jarvenpaa, J., de Bruin, A., & Antfolk, J. (2018). Is bilingualism associated with enhanced executive functioning in adults? A meta-analytic review. Psychological Bulletin.",
+      "year": 2018,
+      "url": "https://eprints.whiterose.ac.uk/157474/",
+      "design": "meta-analysis",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 216,
+      "studied_max_months": 960,
+      "finding": "Across 152 studies of adults, there was no bilingual advantage in executive function once publication bias was corrected.",
+      "limits": "Adults only.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "gunnerud-2020",
+      "citation": "Gunnerud, H. L., ten Braak, D., Reikeras, E. K. L., Donolato, E., & Melby-Lervag, M. (2020). Is bilingualism related to a cognitive advantage in children? A systematic review and meta-analysis. Psychological Bulletin.",
+      "year": 2020,
+      "url": "https://uv.uio.no/isp/forskning/publikasjoner/nye-publikasjoner/gunnerud-ten-braak-reikeras-donolato---melby-lerva.html",
+      "design": "meta-analysis",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "In children, the overall bilingual advantage in executive function was very small and not robust, appearing mainly in particular subgroups.",
+      "limits": "Summary recalled from memory; the paper was not re-read on the check date.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "roman-caballero-2022",
+      "citation": "Román-Caballero, R., Vadillo, M. A., Trainor, L. J., & Lupiáñez, J. (2022). Please don't stop the music: A meta-analysis of the cognitive and academic benefits of instrumental musical training in childhood and adolescence. Educational Research Review.",
+      "year": 2022,
+      "url": "https://digibug.ugr.es/handle/10481/72632",
+      "design": "meta-analysis",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Reanalysing the trial literature with different inclusion choices, the authors found a small positive effect of instrumental training on cognitive and academic outcomes, and argued that previous null conclusions were driven by analytic choices.",
+      "limits": "Summary from prior knowledge; the repository page blocked automated reading. It directly disputes `sala-2020`, so the question is contested, not settled.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "bigand-tillmann-2022",
+      "citation": "Bigand, E., & Tillmann, B. (2022). Near and far transfer: Is music special? Memory & Cognition.",
+      "year": 2022,
+      "url": "https://hal.archives-ouvertes.fr/hal-03384381",
+      "design": "narrative-review",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Reanalysed the Sala and Gobet data and argued that, with different study selection, music training shows a small positive effect on cognitive skills.",
+      "limits": "Summary from prior knowledge; the page blocked automated reading. A reply to `sala-2020`, not new data.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "gordon-2015",
+      "citation": "Gordon, R. L., Fehd, H. M., & McCandliss, B. D. (2015). Does music training enhance literacy skills? A meta-analysis. Frontiers in Psychology.",
+      "year": 2015,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664655/",
+      "design": "meta-analysis",
+      "areas": [
+        "music",
+        "reading"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 156,
+      "finding": "Across 13 studies, music training produced a small gain in phonological awareness and no reliable gain in reading fluency.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Few studies, mixed designs.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "neves-2022",
+      "citation": "Neves, L., Correia, A. I., Castro, S. L., Martins, D., & Lima, C. F. (2022). Does music training enhance auditory and linguistic processing? A systematic review and meta-analysis of behavioral and brain evidence. Neuroscience & Biobehavioral Reviews.",
+      "year": 2022,
+      "url": "https://www.pubmed.gov/35843347/",
+      "design": "meta-analysis",
+      "areas": [
+        "music",
+        "reading"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Across 62 longitudinal studies with 3,928 participants, music training had a small positive effect on auditory and linguistic measures, whatever the assignment method, training type or control group.",
+      "limits": "One test suggested publication bias and another did not; the authors say further studies are needed to rule it out. Reading itself is not the main outcome.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "costa-giomi-1999",
+      "citation": "Costa-Giomi, E. (1999). The effects of three years of piano instruction on children's cognitive development. Journal of Research in Music Education.",
+      "year": 1999,
+      "url": "https://www.sciencegate.app/document/10.2307/3345779",
+      "design": "quasi-experiment",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 108,
+      "studied_max_months": 144,
+      "finding": "117 children in grades 4-6, 63 given individual piano lessons and 54 not, did not differ at the start. The piano group had higher spatial scores after one and two years, but the groups no longer differed on any ability after three years. There was no effect on verbal or quantitative skills.",
+      "limits": "Read from an aggregator's copy of the abstract. Older children than the 4-6 band.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "moreno-2011",
+      "citation": "Moreno, S., Bialystok, E., Barac, R., Schellenberg, E. G., Cepeda, N. J., & Chau, T. (2011). Short-term music training enhances verbal intelligence and executive function. Psychological Science.",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3449320",
+      "design": "rct",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 72,
+      "finding": "Children aged 4-6 given 20 days of computer-based music listening training improved more on verbal intelligence than children given visual-art training.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Short, small and not well replicated.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "mehr-2013",
+      "citation": "Mehr, S. A., Schachner, A., Katz, R. C., & Spelke, E. S. (2013). Two randomized trials provide no consistent evidence for nonmusical cognitive benefits of brief preschool music enrichment. PLoS ONE.",
+      "year": 2013,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3859544",
+      "design": "rct",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 48,
+      "finding": "In two randomized trials with 4-year-olds, six weeks of parent-and-child music classes did not consistently improve spatial, linguistic or numerical skills compared with visual-arts classes or no classes.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Brief classes only.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "dege-2011",
+      "citation": "Degé, F., & Schwarzer, G. (2011). The effect of a music program on phonological awareness in preschoolers. Frontiers in Psychology.",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121007",
+      "design": "rct",
+      "areas": [
+        "music",
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 72,
+      "finding": "41 preschoolers aged 5-6 were randomly assigned to a music program, a phonological-skills program or a sports program. The music and phonological groups both improved phonological awareness for large units such as words and syllables; the sports group did not. No group improved more on single sounds.",
+      "limits": "Small sample, one study. Home practice was not measured.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "linnavalli-2018",
+      "citation": "Linnavalli, T., Putkinen, V., Lipsanen, J., Huotilainen, M., & Tervaniemi, M. (2018). Music playschool enhances children's linguistic skills. Scientific Reports.",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5993803",
+      "design": "quasi-experiment",
+      "areas": [
+        "music",
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 84,
+      "finding": "Over about two years, Finnish kindergarteners in weekly music playschool improved more in phonemic awareness and vocabulary than children in dance lessons or neither.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Groups were not randomly assigned.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "williams-2015",
+      "citation": "Williams, K. E., Barrett, M. S., Welch, G. F., Abad, V., & Broughton, M. (2015). Associations between early shared music activities in the home and later child outcomes: Findings from the Longitudinal Study of Australian Children. Early Childhood Research Quarterly.",
+      "year": 2015,
+      "url": "https://discovery-pp.ucl.ac.uk/id/eprint/1496686",
+      "design": "longitudinal",
+      "areas": [
+        "music",
+        "social-emotional"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 59,
+      "finding": "In 3,031 Australian children, more frequent shared music at home at ages 2-3 had small associations at 4-5 with vocabulary, numeracy, attention and emotion regulation, and prosocial skills. With shared book reading controlled, small associations remained for prosocial skills, attention regulation and numeracy.",
+      "limits": "Correlational and small. The authors say only that home music may have a role.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "rabinowitch-2013",
+      "citation": "Rabinowitch, T.-C., Cross, I., & Burnard, P. (2013). Long-term musical group interaction has a positive influence on empathy in children. Psychology of Music.",
+      "year": 2013,
+      "url": "https://www.repository.cam.ac.uk/handle/1810/294755",
+      "design": "quasi-experiment",
+      "areas": [
+        "music",
+        "social-emotional"
+      ],
+      "studied_min_months": 96,
+      "studied_max_months": 132,
+      "finding": "Children who took part in a school year of musical group games scored higher on emotional empathy at the end than at the start, and higher than control children.",
+      "limits": "Small. Ages from prior knowledge; the abstract read does not give the sample.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "guhn-2020",
+      "citation": "Guhn, M., Emerson, S. D., & Gouzouasis, P. (2020). A population-level analysis of associations between school music participation and academic achievement. Journal of Educational Psychology.",
+      "year": 2020,
+      "url": "https://www.apa.org/news/press/releases/2019/06/music-students-score-better",
+      "design": "longitudinal",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 216,
+      "finding": "In more than 112,000 British Columbia students, those who took school music in grades 10-12 had higher exam scores in math, science and English, more so for instrumental music, after controlling for background and grade 7 scores.",
+      "limits": "Read from a press release. Associations only: students choose music, and the `mosing-2016` and `corrigall-2013` findings suggest who chooses it explains much of this.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "mcpherson-2005",
+      "citation": "McPherson, G. E. (2005). From child to musician: Skill development during the beginning stages of learning an instrument. Psychology of Music.",
+      "year": 2005,
+      "url": "https://findanexpert.unimelb.edu.au/scholarlywork/1231882-from-child-to-musician--skill-development-during-the-beginning-stages-of-learning-an-instrument",
+      "design": "longitudinal",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 84,
+      "studied_max_months": 108,
+      "finding": "Following about 150 children who started band instruments at 7-9 over three years, the amount of practice mattered, but how they practised, using mental strategies such as working out problem passages, predicted progress more.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Older beginners than 4-6.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "kraus-2014",
+      "citation": "Kraus, N., Slater, J., Thompson, E. C., Hornickel, J., Strait, D. L., Nicol, T., & White-Schwoch, T. (2014). Music enrichment programs improve the neural encoding of speech in at-risk children. Journal of Neuroscience.",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6608462",
+      "design": "rct",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 108,
+      "finding": "In a community music program, children randomly assigned to two years of training showed sharper neural encoding of speech sounds; one year was not enough.",
+      "limits": "Summary from prior knowledge. A published comment disputed the analysis. A brain measure, not a school or skill outcome.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "hyde-2009",
+      "citation": "Hyde, K. L., Lerch, J., Norton, A., Forgeard, M., Winner, E., Evans, A. C., & Schlaug, G. (2009). Musical training shapes structural brain development. Journal of Neuroscience.",
+      "year": 2009,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19279238/",
+      "design": "longitudinal",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 84,
+      "finding": "After 15 months of keyboard lessons in early childhood, children showed structural brain changes in motor and auditory areas that correlated with gains in musically relevant motor and auditory skills.",
+      "limits": "Small and not randomised. It shows the brain adapts to the trained skill, not transfer to other skills.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "demorest-2015",
+      "citation": "Demorest, S. M., & Pfordresher, P. Q. (2015). Singing accuracy development from K-adult: A comparative study. Music Perception.",
+      "year": 2015,
+      "url": "https://news.northwestern.edu/stories/2015/02/cant-sing-keep-at-it",
+      "design": "cross-sectional",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 264,
+      "finding": "Singing in tune improved from kindergarten to late elementary school. College students, most of whom had stopped singing, performed at the kindergarten level on two of three tasks.",
+      "limits": "Read from a university news story. Cross-sectional: the adult decline is consistent with, but does not prove, 'use it or lose it'.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "ilari-2016",
+      "citation": "Ilari, B., Keller, P., Damasio, H., & Habibi, A. (2016). The development of musical skills of underprivileged children over the course of 1 year: A study in the context of an El Sistema-inspired program. Frontiers in Psychology.",
+      "year": 2016,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4735430",
+      "design": "quasi-experiment",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 84,
+      "finding": "Over one year, 23 children aged 6-7 in an El Sistema-inspired program developed pitch skills faster than rhythm skills, while 27 comparison children declined in singing and pitch discrimination.",
+      "limits": "Small, one program, self-selected group.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "mosing-2016",
+      "citation": "Mosing, M. A., Madison, G., Pedersen, N. L., & Ullén, F. (2016). Investigating cognitive transfer within the framework of music practice: Genetic pleiotropy rather than causality. Developmental Science.",
+      "year": 2016,
+      "url": "https://zendy.io/title/10.1111/desc.12306",
+      "design": "cross-sectional",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 216,
+      "studied_max_months": 900,
+      "finding": "In about 10,000 Swedish twins, people who had practised music more had higher IQ, but within identical twin pairs the twin who practised more did not have higher IQ, pointing to shared genes and family rather than practice as the cause.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Adults recalling practice.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "corrigall-2013",
+      "citation": "Corrigall, K. A., Schellenberg, E. G., & Misura, N. M. (2013). Music training, cognition, and personality. Frontiers in Psychology.",
+      "year": 2013,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3639373",
+      "design": "cross-sectional",
+      "areas": [
+        "music"
+      ],
+      "studied_min_months": 120,
+      "studied_max_months": 155,
+      "finding": "Among 10- to 12-year-olds, the link between music lessons and cognitive scores was largely accounted for by parents' education and the child's personality, especially openness to experience.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "bowen-2014",
+      "citation": "Bowen, D. H., Greene, J. P., & Kisida, B. (2014). Learning to think critically: A visual art experiment. Educational Researcher.",
+      "year": 2014,
+      "url": "https://www.artsedsearch.org/study/learning-to-think-critically-a-visual-art-experiment/",
+      "design": "rct",
+      "areas": [
+        "art"
+      ],
+      "studied_min_months": 96,
+      "studied_max_months": 216,
+      "finding": "3,811 students in grades 3-12 were assigned by lottery to a guided art museum visit. Visitors used more critical-thinking strategies when writing about an unfamiliar painting, with the largest gains among younger and disadvantaged students.",
+      "limits": "Read from a research-database summary. Thinking about art only; no transfer was tested. The visit came with classroom lessons, so the active ingredient is unclear.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "bowen-2023",
+      "citation": "Bowen, D. H., & Kisida, B. (2023). Investigating the causal effects of arts education. Journal of Policy Analysis and Management.",
+      "year": 2023,
+      "url": "https://econpapers.repec.org/RePEc:wly:jpamgt:v:42:y:2023:i:3:p:624-647",
+      "design": "rct",
+      "areas": [
+        "art",
+        "music"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 168,
+      "finding": "In 42 Houston elementary and middle schools randomly assigned more arts learning through community partnerships, students had fewer disciplinary infractions, better writing achievement and more emotional empathy. Elementary students also became more engaged in school and had higher college aspirations.",
+      "limits": "Read from an abstract page with no effect sizes. School-wide arts programs, not home activity.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "goldstein-2018",
+      "citation": "Goldstein, T. R., & Lerner, M. D. (2018). Dramatic pretend play games uniquely improve emotional control in young children. Developmental Science.",
+      "year": 2018,
+      "url": "https://www.artsedsearch.org/study/dramatic-pretend-play-games-uniquely-improve-emotional-control-in-young-children/",
+      "design": "rct",
+      "areas": [
+        "art",
+        "social-emotional"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 72,
+      "finding": "Low-income children aged 4-6 were randomly assigned to eight weeks of dramatic pretend play games, block play or storytime. Only the drama group improved, and only on emotional self-control; there was no effect on social skills, empathy or theory of mind.",
+      "limits": "Read from a research-database summary. One sample, no long-term follow-up.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "brown-2010",
+      "citation": "Brown, E. D., Benedett, B., & Armistead, M. E. (2010). Arts enrichment and school readiness for children at risk. Early Childhood Research Quarterly.",
+      "year": 2010,
+      "url": "https://settlementmusic.org/app/uploads/2018/10/ArtsEnrichmentandSchoolReadiness.pdf",
+      "design": "quasi-experiment",
+      "areas": [
+        "art",
+        "music"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 60,
+      "finding": "In a Head Start preschool with daily music, dance and visual-arts classes, two years of attendance were linked to higher achievement than one, and after one year children had larger receptive vocabularies than children at a comparison preschool.",
+      "limits": "Not randomised. The program differed from the comparison in more than the arts.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "brown-sax-2013",
+      "citation": "Brown, E. D., & Sax, K. L. (2013). Arts enrichment and preschool emotions for low-income children at risk. Early Childhood Research Quarterly.",
+      "year": 2013,
+      "url": "https://www.artsedsearch.org/study/arts-enrichment-and-preschool-emotions-for-low-income-children-at-risk",
+      "design": "quasi-experiment",
+      "areas": [
+        "art",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 60,
+      "finding": "205 Head Start children (174 in the arts program, 31 comparison) were followed for a year. Arts-program children showed more positive emotion and more growth in emotion regulation.",
+      "limits": "Read from a research-database summary. Two buildings compared, with a small comparison group.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "brown-2017",
+      "citation": "Brown, E. D., Garnett, M. L., Anderson, K. E., & Laurenceau, J.-P. (2017). Can the arts get under the skin? Arts and cortisol for economically disadvantaged children. Child Development.",
+      "year": 2017,
+      "url": "https://digitalcommons.wcupa.edu/psych_facpub/5",
+      "design": "experiment",
+      "areas": [
+        "art",
+        "music",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 60,
+      "finding": "310 Head Start children aged 3-5 had lower cortisol after music, dance and visual-arts classes than after ordinary homeroom classes in the middle and at the end of the year, but not at the start.",
+      "limits": "Cortisol is a stress marker, not a behaviour. Disadvantaged sample.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "fan-2023",
+      "citation": "Fan, J. E., Bainbridge, W. A., Chamberlain, R., & Wammes, J. D. (2023). Drawing as a versatile cognitive tool. Nature Reviews Psychology.",
+      "year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11377027/",
+      "design": "narrative-review",
+      "areas": [
+        "art",
+        "science"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 900,
+      "finding": "Drawing combines perception, memory and social inference; it is used both to record what one sees and to communicate and learn. Evidence on when drawing improves learning is mixed.",
+      "limits": "A broad review, mostly of adults.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "butler-1995",
+      "citation": "Butler, S., Gross, J., & Hayne, H. (1995). The effect of drawing on memory performance in young children. Developmental Psychology.",
+      "year": 1995,
+      "url": "https://core.ac.uk/download/46951793.pdf",
+      "design": "experiment",
+      "areas": [
+        "art",
+        "writing"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 72,
+      "finding": "Five- and six-year-olds asked to draw while describing a recent outing reported more correct information than children who only told about it.",
+      "limits": "Summary from prior knowledge; not checked on the check date. A single lab study.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "scott-2004",
+      "citation": "Scott, G., Leritz, L. E., & Mumford, M. D. (2004). The effectiveness of creativity training: A quantitative review. Creativity Research Journal.",
+      "year": 2004,
+      "url": "https://scispace.com/papers/the-effectiveness-of-creativity-training-a-quantitative-gui0bxeg94",
+      "design": "meta-analysis",
+      "areas": [
+        "art",
+        "cross-cutting"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 900,
+      "finding": "Across 70 studies, well-designed creativity training produced gains that generalised across measures, settings and groups. Programs that taught cognitive skills, such as finding problems and combining ideas, worked best.",
+      "limits": "Read from an aggregator's copy of the abstract. Few studies involved children under 6.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "greene-2017",
+      "citation": "Greene, J. P., Erickson, H. H., Watson, A. R., & Beck, M. I. (2017). The play's the thing: Experimentally examining the social and cognitive effects of school field trips to live theater performances. EDRE Working Paper.",
+      "year": 2017,
+      "url": "https://scholarworks.uark.edu/edrepub/7",
+      "design": "rct",
+      "areas": [
+        "art",
+        "social-emotional"
+      ],
+      "studied_min_months": 84,
+      "studied_max_months": 216,
+      "finding": "In five lottery experiments over two years, students who saw live theatre gained in tolerance, social perspective taking, and knowledge of the plot and vocabulary; students who saw the film version did not.",
+      "limits": "A working paper. Ages are not given in the abstract; school-age students.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "catterall-2012",
+      "citation": "Catterall, J. S., Dumais, S. A., & Hampden-Thompson, G. (2012). The arts and achievement in at-risk youth: Findings from four longitudinal studies. National Endowment for the Arts Research Report 55.",
+      "year": 2012,
+      "url": "https://arts.gov/sites/default/files/Arts-At-Risk-Youth.pdf",
+      "design": "longitudinal",
+      "areas": [
+        "art",
+        "music"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 312,
+      "finding": "In four national US datasets, low-income students with high arts involvement had better school results than low-income students with little arts involvement, for example 8th-grade science scores of 79 against 72 out of 100.",
+      "limits": "Correlational. The report says causation is not established.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "mages-2008",
+      "citation": "Mages, W. K. (2008). Does creative drama promote language development in early childhood? A review of the methods and measures employed in the empirical literature. Review of Educational Research.",
+      "year": 2008,
+      "url": "https://education-eng.macam.ac.il/article/595",
+      "design": "systematic-review",
+      "areas": [
+        "art",
+        "reading"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 96,
+      "finding": "Reviewed the studies of creative drama and young children's language and found methodological problems that undermine their validity, reliability and credibility.",
+      "limits": "Read from a journal-listing summary. A review of methods, so it gives no effect estimate.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "podlozny-2000",
+      "citation": "Podlozny, A. (2000). Strengthening verbal skills through the use of classroom drama: A clear link. Journal of Aesthetic Education.",
+      "year": 2000,
+      "url": "https://www.artsedsearch.org/study/strengthening-verbal-skills-through-the-use-of-classroom-drama-a-clear-link/",
+      "design": "meta-analysis",
+      "areas": [
+        "art",
+        "reading"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 144,
+      "finding": "Seven meta-analyses of 80 studies linked classroom drama with six of seven verbal outcomes, including story recall and oral language. Enacting a story with a set plot gave larger effects than free improvisation.",
+      "limits": "Read from a research-database summary. Many studies had serious design flaws, and weaker designs showed larger effects.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "rose-2006",
+      "citation": "Rose, S. E., Jolley, R. P., & Burkitt, E. (2006). A review of children's, teachers' and parents' influences on children's drawing experience. International Journal of Art and Design Education.",
+      "year": 2006,
+      "url": "https://oro.open.ac.uk/16080",
+      "design": "narrative-review",
+      "areas": [
+        "art"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 168,
+      "finding": "Reviewed how children, teachers and parents shape drawing experience and reported preliminary survey data from 270 children aged 5-14 on a decline in drawing with age.",
+      "limits": "Preliminary findings.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "lobo-2006",
+      "citation": "Lobo, Y. B., & Winsler, A. (2006). The effects of a creative dance and movement program on the social competence of Head Start preschoolers. Social Development.",
+      "year": 2006,
+      "url": "https://ies.ed.gov/ncee/WWC/Study/90051",
+      "design": "rct",
+      "areas": [
+        "art",
+        "movement",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 60,
+      "finding": "40 Head Start preschoolers were randomly assigned to a creative dance program or to play without music or dance. The What Works Clearinghouse review found no statistically significant positive effects on teacher-rated social competence.",
+      "limits": "Read from a clearinghouse review. Very small.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "root-bernstein-2008",
+      "citation": "Root-Bernstein, R., et al. (2008). Arts foster scientific success: Avocations of Nobel, National Academy, Royal Society, and Sigma Xi members. Journal of Psychology of Science and Technology.",
+      "year": 2008,
+      "url": "https://www.arts.gov/sites/default/files/Root-Bernstein-PPT.pdf",
+      "design": "cross-sectional",
+      "areas": [
+        "art",
+        "music",
+        "cross-cutting"
+      ],
+      "studied_min_months": 216,
+      "studied_max_months": 900,
+      "finding": "Nobel laureates in science were far more likely than scientists in general to have serious arts or crafts hobbies.",
+      "limits": "Summary from prior knowledge; the linked slides were not read as a study. Correlational and about eminent adults.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "hidi-renninger-2006",
+      "citation": "Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. Educational Psychologist.",
+      "year": 2006,
+      "url": "https://works.swarthmore.edu/fac-education/12",
+      "design": "theory",
+      "areas": [
+        "cross-cutting"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Interest develops in four phases: triggered situational interest, maintained situational interest, emerging individual interest and well-developed individual interest. Early phases depend on outside support from people and materials.",
+      "limits": "A model, not a test.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "gullich-2022",
+      "citation": "Güllich, A., Macnamara, B. N., & Hambrick, D. Z. (2022). What makes a champion? Early multidisciplinary practice, not early specialization, predicts world-class performance. Perspectives on Psychological Science.",
+      "year": 2022,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34260336/",
+      "design": "meta-analysis",
+      "areas": [
+        "cross-cutting",
+        "movement"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 216,
+      "finding": "Pooling studies of athletes, adult world-class performers had more childhood practice across several sports and specialised later than national-level performers, who did more early sport-specific practice.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Retrospective reports by elite athletes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "deloache-2007",
+      "citation": "DeLoache, J. S., Simcock, G., & Macari, S. (2007). Planes, trains, automobiles - and tea sets: Extremely intense interests in very young children. Developmental Psychology.",
+      "year": 2007,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18020834/",
+      "design": "observational",
+      "areas": [
+        "cross-cutting"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 72,
+      "finding": "Surveys and interviews with 177 parents found that nearly a third of young children have an extremely intense interest in a category such as vehicles or dinosaurs, much more often boys.",
+      "limits": "Parent report. Describes interests; says nothing about outcomes.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "shah-2018",
+      "citation": "Shah, P. E., Weeks, H. M., Richards, B., & Kaciroti, N. (2018). Early childhood curiosity and kindergarten reading and math academic achievement. Pediatric Research.",
+      "year": 2018,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29884846/",
+      "design": "longitudinal",
+      "areas": [
+        "cross-cutting",
+        "science"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 72,
+      "finding": "In about 6,200 US children, higher parent-reported curiosity was associated with higher kindergarten reading and math scores, more so for children from low-income families.",
+      "limits": "Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "macnamara-2014",
+      "citation": "Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. Psychological Science.",
+      "year": 2014,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24986855/",
+      "design": "meta-analysis",
+      "areas": [
+        "cross-cutting",
+        "music",
+        "movement"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 900,
+      "finding": "Deliberate practice explained about 21% of the differences in music performance, 18% in sports, 26% in games, 4% in education and under 1% in professions. The authors conclude it is important, but not as important as has been argued.",
+      "limits": "Mostly older learners and adults.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "mahoney-2006",
+      "citation": "Mahoney, J. L., Harris, A. L., & Eccles, J. S. (2006). Organized activity participation, positive youth development, and the over-scheduling hypothesis. Social Policy Report.",
+      "year": 2006,
+      "url": "https://www.srcd.org/sites/default/files/documents/2006_4_sprbrief_mahoney.pdf",
+      "design": "narrative-review",
+      "areas": [
+        "cross-cutting"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 216,
+      "finding": "Young people aged 5-18 who took part in organised activities did better on achievement and school completion than those who did not; only a small minority were heavily scheduled, and evidence of harm from over-scheduling was weak.",
+      "limits": "Read from a policy brief. Correlational; previous work suggests diminishing returns at very high participation.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "jirout-klahr-2012",
+      "citation": "Jirout, J., & Klahr, D. (2012). Children's scientific curiosity: In search of an operational definition of an elusive concept. Developmental Review.",
+      "year": 2012,
+      "url": "https://kilthub.cmu.edu/articles/journal_contribution/Children_s_scientific_curiosity_In_search_of_an_operational_definition_of_an_elusive_concept/6613916/1",
+      "design": "theory",
+      "areas": [
+        "cross-cutting",
+        "science"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 72,
+      "finding": "Defined curiosity as the level of uncertainty a child prefers before exploring, and proposed a preschool measure of it.",
+      "limits": "A definition and measure, not an intervention.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "alexander-2012",
+      "citation": "Alexander, J. M., Johnson, K. E., & Kelley, K. (2012). Longitudinal analysis of the relations between opportunities to learn about science and the development of interests related to science. Science Education.",
+      "year": 2012,
+      "url": "https://zendy.io/title/10.1002/sce.21018",
+      "design": "longitudinal",
+      "areas": [
+        "cross-cutting",
+        "science"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 84,
+      "finding": "Children's early interest in science-related topics was sustained when families supplied opportunities to learn about it, such as books, visits and conversation.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Small sample.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "suggate-2013",
+      "citation": "Suggate, S. P., Schaughency, E. A., & Reese, E. (2013). Children learning to read later catch up to children reading earlier. Early Childhood Research Quarterly.",
+      "year": 2013,
+      "url": "https://stmichaelsteiner.hounslow.sch.uk/wp-content/uploads/2019/12/Children-learning-to-read-later-catch-up-to-children-reading-earlier.pdf",
+      "design": "longitudinal",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 132,
+      "finding": "New Zealand children taught to read from age 5 were ahead at first on letter naming, word and passage reading, but children taught from age 7 caught up by age 11, and in a second sample the later starters had somewhat better reading comprehension.",
+      "limits": "Non-experimental; families chose the schools. The authors urge further research.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "mol-bus-2011",
+      "citation": "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin.",
+      "year": 2011,
+      "url": "https://www.scinapse.io/papers/2023991700",
+      "design": "meta-analysis",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 300,
+      "finding": "Across 99 studies, the amount of reading done for pleasure was associated with comprehension, vocabulary and spelling at every age, and the association grew stronger with age.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Correlational; good readers read more.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "ehri-2001",
+      "citation": "Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. Review of Educational Research.",
+      "year": 2001,
+      "url": "https://journals.sagepub.com/doi/10.3102/00346543071003393",
+      "design": "meta-analysis",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 144,
+      "finding": "Systematic phonics instruction improved reading more than unsystematic or no phonics, with the largest effects when it began in kindergarten or first grade.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "dowdall-2020",
+      "citation": "Dowdall, N., Melendez-Torres, G. J., Murray, L., Gardner, F., Hartford, L., & Cooper, P. J. (2020). Shared picture book reading interventions for child language development: A systematic review and meta-analysis. Child Development.",
+      "year": 2020,
+      "url": "https://centaur.reading.ac.uk/80756",
+      "design": "meta-analysis",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 72,
+      "finding": "Interventions that train adults in shared picture-book reading improved children's expressive and receptive language, with smaller effects for older children.",
+      "limits": "Summary from prior knowledge; the repository page blocked automated reading.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "cheatham-allor-2012",
+      "citation": "Cheatham, J. P., & Allor, J. H. (2012). The influence of decodability in early reading text on reading achievement: A review of the evidence. Reading and Writing.",
+      "year": 2012,
+      "url": "https://www.readingrockets.org/resources/resource-library/influence-decodability-early-reading-text-reading-achievement-review",
+      "design": "narrative-review",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 96,
+      "finding": "Decodability is a critical feature of early reading text and brings immediate benefits, especially for accuracy, but early texts should be chosen on several criteria, not decodability alone.",
+      "limits": "Read from a summary page. Few direct comparisons exist.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "noble-2019",
+      "citation": "Noble, C., Sala, G., Peter, M., Lingwood, J., Rowland, C., Gobet, F., & Pine, J. (2019). The impact of shared book reading on children's language skills: A meta-analysis. Educational Research Review.",
+      "year": 2019,
+      "url": "https://livrepository.liverpool.ac.uk/3054189/",
+      "design": "meta-analysis",
+      "areas": [
+        "reading"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 96,
+      "finding": "Shared book reading interventions had a small effect on language (g = 0.19), smaller than earlier meta-analyses reported. Against active control groups the effect was near zero (g = 0.03), and it was not significant at follow-up.",
+      "limits": "The size of the effect depends on what the comparison group did.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "graham-hebert-2011",
+      "citation": "Graham, S., & Hebert, M. (2011). Writing to read: A meta-analysis of the impact of writing and writing instruction on reading. Harvard Educational Review.",
+      "year": 2011,
+      "url": "https://asu.elsevierpure.com/en/publications/writing-to-read-a-meta-analysis-of-the-impact-of-writing-and-writ/",
+      "design": "meta-analysis",
+      "areas": [
+        "writing",
+        "reading"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 216,
+      "finding": "In true and quasi-experiments, writing about material read improved comprehension of it, and teaching writing improved reading comprehension, fluency and word reading.",
+      "limits": "School-age students; ages are not given in the abstract read.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "senechal-2012",
+      "citation": "Sénéchal, M., Ouellette, G., Pagan, S., & Lever, R. (2012). The role of invented spelling on learning to read in low-phoneme awareness kindergartners: A randomized-control-trial study. Reading and Writing.",
+      "year": 2012,
+      "url": "https://ir.library.carleton.ca/pub/11882",
+      "design": "rct",
+      "areas": [
+        "writing",
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 72,
+      "finding": "56 kindergartners with weak phoneme awareness were randomly assigned to 16 small-group sessions over eight weeks. Children who practised invented spelling with feedback learned to read more words than children given phoneme-segmentation training or storybook reading.",
+      "limits": "Small, and limited to children who started with weak phoneme awareness.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "ouellette-2008",
+      "citation": "Ouellette, G., & Sénéchal, M. (2008). Pathways to literacy: A study of invented spelling and its role in learning to read. Child Development.",
+      "year": 2008,
+      "url": "https://www.readingrockets.org/research-by-topic/invented-spelling-kindergarten-predictor-reading-and-spelling-grade-1",
+      "design": "rct",
+      "areas": [
+        "writing",
+        "reading"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 72,
+      "finding": "Five-year-olds who practised invented spelling with feedback learned to read more words than those given phonological-awareness training or drawing.",
+      "limits": "Summary from prior knowledge; the page checked on the check date was for a different paper by the same authors. Small sample.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "james-2012",
+      "citation": "James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on functional brain development in pre-literate children. Trends in Neuroscience and Education.",
+      "year": 2012,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4274624",
+      "design": "experiment",
+      "areas": [
+        "writing",
+        "reading"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 60,
+      "finding": "Pre-literate 4- and 5-year-olds who practised printing letters, but not those who traced or typed them, later showed adult-like activation in reading-related brain areas when viewing letters.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Very small, brain imaging only.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "hall-2015",
+      "citation": "Hall, A. H., Simpson, A., Guo, Y., & Wang, S. (2015). Examining the effects of preschool writing instruction on emergent literacy skills: A systematic review of the literature. Literacy Research and Instruction.",
+      "year": 2015,
+      "url": "https://tigerprints.clemson.edu/eugene_pubs/41",
+      "design": "systematic-review",
+      "areas": [
+        "writing"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 71,
+      "finding": "Writing instruction in preschool, including guided invented spelling and name writing, improved emergent literacy skills such as letter knowledge and phonological awareness.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Few studies.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "jordan-2009",
+      "citation": "Jordan, N. C., Kaplan, D., Ramineni, C., & Locuniak, M. N. (2009). Early math matters: Kindergarten number competence and later mathematics outcomes. Developmental Psychology.",
+      "year": 2009,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2782699",
+      "design": "longitudinal",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 66,
+      "studied_max_months": 108,
+      "finding": "In 378 Delaware kindergartners (196 followed to third grade), number competence in kindergarten strongly predicted math achievement and its growth through third grade.",
+      "limits": "Correlational. Low-income children were more often missing at the last wave.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "watts-2014",
+      "citation": "Watts, T. W., Duncan, G. J., Siegler, R. S., & Davis-Kean, P. E. (2014). What's past is prologue: Relations between early mathematics knowledge and high school achievement. Educational Researcher.",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4719158",
+      "design": "longitudinal",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 54,
+      "studied_max_months": 180,
+      "finding": "In a national US sample, math ability at 54 months predicted math achievement at age 15, and growth in math between 54 months and first grade predicted it even more strongly.",
+      "limits": "Non-experimental; the authors flag omitted-variable bias.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "daucourt-2021",
+      "citation": "Daucourt, M. C., Napoli, A. R., Quinn, J. M., Wood, S. G., & Hart, S. A. (2021). The home math environment and math achievement: A meta-analysis. Psychological Bulletin.",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8634776",
+      "design": "meta-analysis",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 216,
+      "finding": "Across many studies, home math activities had a small positive association with children's math achievement, with direct number activities more strongly related than indirect ones such as cooking or board games.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "maloney-2015",
+      "citation": "Maloney, E. A., Ramirez, G., Gunderson, E. A., Levine, S. C., & Beilock, S. L. (2015). Intergenerational effects of parents' math anxiety on children's math achievement and anxiety. Psychological Science.",
+      "year": 2015,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26253552/",
+      "design": "longitudinal",
+      "areas": [
+        "math",
+        "social-emotional"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 96,
+      "finding": "First and second graders learned less math over a school year, and became more math-anxious, when their math-anxious parents helped often with math homework.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "rittle-johnson-2017",
+      "citation": "Rittle-Johnson, B., Fyfe, E. R., Hofer, K. G., & Farran, D. C. (2017). Early math trajectories: Low-income children's mathematics knowledge from ages 4 to 11. Child Development.",
+      "year": 2017,
+      "url": "https://dreme.stanford.edu/publication/early-math-trajectories-low-income-childrens-mathematics-knowledge-from-ages-4-to-11/",
+      "design": "longitudinal",
+      "areas": [
+        "math"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 132,
+      "finding": "In 517 low-income US children, preschool knowledge of quantities, counting and repeating patterns predicted fifth-grade math. By the end of first grade, linking numerals to quantities, calculation and patterning were the important predictors.",
+      "limits": "Read from a summary listing. Correlational; one low-income sample.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "bailey-2014",
+      "citation": "Bailey, D. H., Watts, T. W., Littlefield, A. K., & Geary, D. C. (2014). State and trait effects on individual differences in children's mathematical development. Psychological Science.",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4292922",
+      "design": "longitudinal",
+      "areas": [
+        "math",
+        "cross-cutting"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 180,
+      "finding": "In two datasets, stable traits of the child explained much more of the year-to-year continuity in math achievement than the direct effect of earlier math knowledge, so correlations between early and later math overstate how much an early boost carries forward.",
+      "limits": "Statistical modelling of observational data.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "klahr-nigam-2004",
+      "citation": "Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction: Effects of direct instruction and discovery learning. Psychological Science.",
+      "year": 2004,
+      "url": "https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/KlahrNigam.PsychSci.pdf",
+      "design": "experiment",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 96,
+      "studied_max_months": 120,
+      "finding": "112 third and fourth graders were randomly assigned to learn how to design a fair experiment by direct instruction or by discovery. 77% of the direct-instruction group mastered it against 23% of the discovery group, and masters from either route did equally well on a later transfer task.",
+      "limits": "Older children; one skill.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "legare-2014",
+      "citation": "Legare, C. H. (2014). The contributions of explanation and exploration to children's scientific reasoning. Child Development Perspectives.",
+      "year": 2014,
+      "url": "https://cacs-dev.squarespace.com/s/the-contributions-of-explanation-and-exploration-to-childrens-scientic-reasoning.pdf",
+      "design": "narrative-review",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 72,
+      "finding": "When preschoolers are asked to explain an outcome that surprised them, they go on to explore in ways that test their explanation, and they learn more about the cause.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Based mainly on the author's lab studies.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "schulz-bonawitz-2007",
+      "citation": "Schulz, L. E., & Bonawitz, E. B. (2007). Serious fun: Preschoolers engage in more exploratory play when evidence is confounded. Developmental Psychology.",
+      "year": 2007,
+      "url": "https://cocosci.dreamhosters.com/Liz/SchulzBonawitzInPress.pdf",
+      "design": "experiment",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 70,
+      "finding": "64 preschoolers (average age 4 years 9 months) kept playing with a familiar toy rather than a new one when what they had seen left it unclear how the toy worked; when it was clear, they preferred the new toy.",
+      "limits": "Checked against an author manuscript. Museum visitors; one toy.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "morgan-2016",
+      "citation": "Morgan, P. L., Farkas, G., Hillemeier, M. M., & Maczuga, S. (2016). Science achievement gaps begin very early, persist, and are largely explained by modifiable factors. Educational Researcher.",
+      "year": 2016,
+      "url": "https://pure.psu.edu/en/publications/science-achievement-gaps-begin-very-early-persist-and-are-largely/",
+      "design": "longitudinal",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 168,
+      "finding": "In 7,757 US children followed from kindergarten to eighth grade, science gaps visible by third grade persisted, and were largely explained by general knowledge of the world, reading and math at kindergarten entry.",
+      "limits": "Correlational.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "frazier-2009",
+      "citation": "Frazier, B. N., Gelman, S. A., & Wellman, H. M. (2009). Preschoolers' search for explanatory information within adult-child conversation. Child Development.",
+      "year": 2009,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2784636",
+      "design": "experiment",
+      "areas": [
+        "science",
+        "cross-cutting"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 60,
+      "finding": "In everyday transcripts and an experiment with 42 children aged 3-5, children who got a real explanation to a 'why' or 'how' question agreed or asked a follow-up; children who got a non-answer repeated the question or offered their own explanation.",
+      "limits": "Small samples.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "crowley-2001",
+      "citation": "Crowley, K., Callanan, M. A., Tenenbaum, H. R., & Allen, E. (2001). Parents explain more often to boys than to girls during shared scientific thinking. Psychological Science.",
+      "year": 2001,
+      "url": "https://eprints.kingston.ac.uk/253/",
+      "design": "observational",
+      "areas": [
+        "science"
+      ],
+      "studied_min_months": 12,
+      "studied_max_months": 96,
+      "finding": "At interactive science museum exhibits, parents gave explanations about three times as often to boys as to girls.",
+      "limits": "Summary from prior knowledge; the repository page had no abstract. Museum visits only.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "randolph-2023",
+      "citation": "Randolph, J. J., Bryson, A., Menon, L., Henderson, D. K., Manuel, A. K., Michaels, S., Rosenstein, D. L. W., McPherson, W., O'Grady, R., & Lillard, A. S. (2023). Montessori education's impact on academic and nonacademic outcomes: A systematic review. Campbell Systematic Reviews.",
+      "year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10406168/",
+      "design": "meta-analysis",
+      "areas": [
+        "practical-life",
+        "cross-cutting"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Across 32 studies, Montessori education outperformed traditional education on academic outcomes (g = 0.24) and nonacademic outcomes such as executive function and social skills (g = 0.33).",
+      "limits": "Some outcomes rest on low-quality evidence, publication bias is possible, and it evaluates whole schools, not home practical-life routines.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "warneken-2008",
+      "citation": "Warneken, F., & Tomasello, M. (2008). Extrinsic rewards undermine altruistic tendencies in 20-month-olds. Developmental Psychology.",
+      "year": 2008,
+      "url": "https://scholars.duke.edu/publication/1458228",
+      "design": "experiment",
+      "areas": [
+        "practical-life",
+        "social-emotional"
+      ],
+      "studied_min_months": 20,
+      "studied_max_months": 20,
+      "finding": "Toddlers who were given a toy as a reward for helping later helped less than toddlers who were praised or given nothing.",
+      "limits": "Toddlers, one lab study.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "bryan-2014",
+      "citation": "Bryan, C. J., Master, A., & Walton, G. M. (2014). \"Helping\" versus \"being a helper\": Invoking the self to increase helping in young children. Child Development.",
+      "year": 2014,
+      "url": "https://www.eurekalert.org/news-releases/525469",
+      "design": "experiment",
+      "areas": [
+        "practical-life",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 72,
+      "finding": "In two experiments with about 150 children aged 3-6, asking children to 'be a helper' led to more helping than asking them 'to help', which did no better than saying nothing.",
+      "limits": "Read from a press release. Immediate lab tasks. See `foster-hanson-2020` for a cost of identity wording.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "foster-hanson-2020",
+      "citation": "Foster-Hanson, E., Cimpian, A., Leshin, R. A., & Rhodes, M. (2020). Asking children to \"be helpers\" can backfire after setbacks. Child Development.",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6424657",
+      "design": "experiment",
+      "areas": [
+        "practical-life",
+        "social-emotional"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 72,
+      "finding": "Children aged 4-5 asked to 'be helpers' gave up more readily on helping after a setback, and felt worse about themselves, than children asked 'to help'.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "lillard-2006",
+      "citation": "Lillard, A., & Else-Quest, N. (2006). Evaluating Montessori education. Science.",
+      "year": 2006,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17008512/",
+      "design": "quasi-experiment",
+      "areas": [
+        "practical-life",
+        "cross-cutting"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 144,
+      "finding": "Children who won a lottery for a public Montessori school did better at 5 on reading, math and executive function than lottery losers, and at 12 on essay writing and social reasoning.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. One school and high attrition.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "coppens-2014",
+      "citation": "Coppens, A. D., Alcalá, L., Mejía-Arauz, R., & Rogoff, B. (2014). Children's initiative in family household work in Mexico. Human Development.",
+      "year": 2014,
+      "url": "https://karger.com/hde/article/57/2-3/116/158079/Children-s-Initiative-in-Family-Household-Work-in",
+      "design": "observational",
+      "areas": [
+        "practical-life"
+      ],
+      "studied_min_months": 108,
+      "studied_max_months": 120,
+      "finding": "Almost all mothers in a small Mexican sample said children want to help with household work; children from an Indigenous-heritage community were more often reported to take initiative in broad, complex contributions.",
+      "limits": "16 families; descriptive. Suggests a cultural pathway in which children join real work rather than being assigned chores.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "wardle-2003",
+      "citation": "Wardle, J., Cooke, L. J., Gibson, E. L., Sapochnik, M., Sheiham, A., & Lawson, M. (2003). Increasing children's acceptance of vegetables; a randomized trial of parent-led exposure. Appetite.",
+      "year": 2003,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12781165/",
+      "design": "rct",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 72,
+      "finding": "156 families with children aged 2-6 were randomised. Only children whose parents offered a small taste of a target vegetable every day for 14 days increased their liking and intake of it; nutrition information alone did nothing.",
+      "limits": "One vegetable, short follow-up.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "galloway-2006",
+      "citation": "Galloway, A. T., Fiorito, L. M., Francis, L. A., & Birch, L. L. (2006). 'Finish your soup': Counterproductive effects of pressuring children to eat on intake and affect. Appetite.",
+      "year": 2006,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2604806",
+      "design": "experiment",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 60,
+      "finding": "27 preschoolers ate significantly more soup, and made far fewer negative comments, when they were not pressured to eat it.",
+      "limits": "Small, one food.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "allirot-2016",
+      "citation": "Allirot, X., da Quinta, N., Chokupermal, K., & Urdaneta, E. (2016). Involving children in cooking activities: A potential strategy for directing food choices toward novel foods containing vegetables. Appetite.",
+      "year": 2016,
+      "url": "https://www.pubmed.gov/27125429/",
+      "design": "experiment",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 84,
+      "studied_max_months": 132,
+      "finding": "137 children aged 7-11 who cooked a snack chose more unfamiliar vegetable foods, were more willing to taste them and liked the snack more than children who did not cook, though they did not eat more overall.",
+      "limits": "Older children, one session.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "hammons-fiese-2011",
+      "citation": "Hammons, A. J., & Fiese, B. H. (2011). Is frequency of shared family meals related to the nutritional health of children and adolescents? Pediatrics.",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3387875",
+      "design": "meta-analysis",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 216,
+      "finding": "Across 17 studies of 182,836 children and adolescents, three or more family meals a week were associated with lower odds of overweight (OR 0.88) and unhealthy eating (OR 0.80) and higher odds of healthy eating (OR 1.24).",
+      "limits": "Observational: families who eat together differ in other ways.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "decosta-2017",
+      "citation": "DeCosta, P., Møller, P., Frøst, M. B., & Olsen, A. (2017). Changing children's eating behaviour: A review of experimental research. Appetite.",
+      "year": 2017,
+      "url": "https://www.pubmed.gov/28286164/",
+      "design": "systematic-review",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 216,
+      "finding": "A review of 120 experimental studies found that controlling feeding strategies appear counterproductive, while hands-on gardening and cooking programs may encourage more vegetable eating.",
+      "limits": "Many short studies.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "chu-2013",
+      "citation": "Chu, Y. L., Farmer, A., Fung, C., Kuhle, S., Storey, K. E., & Veugelers, P. J. (2013). Involvement in home meal preparation is associated with food preference and self-efficacy among Canadian children. Public Health Nutrition.",
+      "year": 2013,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22578854/",
+      "design": "cross-sectional",
+      "areas": [
+        "cooking"
+      ],
+      "studied_min_months": 120,
+      "studied_max_months": 132,
+      "finding": "Fifth graders who helped more with meal preparation at home preferred fruit and vegetables more and felt more confident about choosing healthy foods.",
+      "limits": "Summary from prior knowledge; the page returned no content on the check date. Correlational.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "wu-2018",
+      "citation": "Wu, P.-C., Chen, C.-T., Lin, K.-K., Sun, C.-C., Kuo, C.-N., Huang, H.-M., et al. (2018). Myopia prevention and outdoor light intensity in a school-based cluster randomized trial. Ophthalmology.",
+      "year": 2018,
+      "url": "https://www.pubmed.gov/29371008/",
+      "design": "rct",
+      "areas": [
+        "nature"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 84,
+      "finding": "In 693 first graders in 16 schools, a school outdoor program cut the one-year shift toward myopia (0.35 against 0.47 dioptres) and halved the risk of rapid progression, in children who were and were not already myopic. Strong sunlight did not appear necessary.",
+      "limits": "Taiwanese schools. Some schools withdrew after randomisation.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "xiong-2017",
+      "citation": "Xiong, S., Sankaridurg, P., Naduvilath, T., et al. (2017). Time spent in outdoor activities in relation to myopia prevention and control: A meta-analysis and systematic review. Acta Ophthalmologica.",
+      "year": 2017,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5599950",
+      "design": "meta-analysis",
+      "areas": [
+        "nature"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Across 25 studies, more outdoor time cut the risk of developing myopia by about 46% in trials and 43% in cohort studies, but did not slow progression in eyes already myopic.",
+      "limits": "High heterogeneity between studies.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "ulset-2017",
+      "citation": "Ulset, V., Vitaro, F., Brendgen, M., Bekkhus, M., & Borge, A. I. H. (2017). Time spent outdoors during preschool: Links with children's cognitive and behavioral development. Journal of Environmental Psychology.",
+      "year": 2017,
+      "url": "https://research.childrenandnature.org/?p=2219",
+      "design": "longitudinal",
+      "areas": [
+        "nature"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 84,
+      "finding": "In 562 children in 28 Norwegian daycare centres, more outdoor hours at daycare were linked to better working memory and fewer inattention and hyperactivity symptoms from about 4 to 7, after controlling for many confounders.",
+      "limits": "Read from a research summary. Correlational; links weakened at school entry.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "tillmann-2018",
+      "citation": "Tillmann, S., Tobin, D., Avison, W., & Gilliland, J. (2018). Mental health benefits of interactions with nature in children and teenagers: A systematic review. Journal of Epidemiology and Community Health.",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6161651",
+      "design": "systematic-review",
+      "areas": [
+        "nature",
+        "social-emotional"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 216,
+      "finding": "Across 35 studies of under-18s, about half of the reported links between nature contact and mental health were positive and almost half were not significant.",
+      "limits": "Mostly cross-sectional; no meta-analysis was possible.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "faber-taylor-2009",
+      "citation": "Faber Taylor, A., & Kuo, F. E. (2009). Children with attention deficits concentrate better after walk in the park. Journal of Attention Disorders.",
+      "year": 2009,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18725656/",
+      "design": "experiment",
+      "areas": [
+        "nature"
+      ],
+      "studied_min_months": 84,
+      "studied_max_months": 144,
+      "finding": "Seventeen children aged 7-12 with ADHD concentrated better after a 20-minute walk in a park than after walks downtown or in a neighbourhood.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date. Very small, children with ADHD.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "wick-2017",
+      "citation": "Wick, K., Leeger-Aschmann, C. S., Monn, N. D., Radtke, T., Ott, L. V., Rebholz, C. E., et al. (2017). Interventions to promote fundamental movement skills in childcare and kindergarten: A systematic review and meta-analysis. Sports Medicine.",
+      "year": 2017,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5603621",
+      "design": "meta-analysis",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 84,
+      "finding": "Structured movement-skill programs in childcare and kindergarten improved children's fundamental movement skills compared with usual activity.",
+      "limits": "Summary from prior knowledge; the page could not be read on the check date.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "eime-2013",
+      "citation": "Eime, R. M., Young, J. A., Harvey, J. T., Charity, M. J., & Payne, W. R. (2013). A systematic review of the psychological and social benefits of participation in sport for children and adolescents. International Journal of Behavioral Nutrition and Physical Activity.",
+      "year": 2013,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3751802",
+      "design": "systematic-review",
+      "areas": [
+        "movement",
+        "social-emotional"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 216,
+      "finding": "A review of 30 studies found sport participation associated with higher self-esteem, better social interaction and fewer depressive symptoms, with team sport associated with better outcomes than individual activities.",
+      "limits": "21 of the 30 studies were cross-sectional, so the direction of cause is unclear.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "visek-2015",
+      "citation": "Visek, A. J., Achrati, S. M., Mannix, H., McDonnell, K., Harris, B. S., & DiPietro, L. (2015). The fun integration theory: Toward sustaining children and adolescents sport participation. Journal of Physical Activity and Health.",
+      "year": 2015,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4201634",
+      "design": "observational",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 96,
+      "studied_max_months": 228,
+      "finding": "Concept mapping with 142 youth soccer players, 37 coaches and 57 parents produced 81 things that make sport fun, grouped into 11 dimensions such as trying hard, positive coaching and learning and improving.",
+      "limits": "Older children. That winning ranked low is from prior knowledge, not the abstract read.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "carson-2017",
+      "citation": "Carson, V., Lee, E.-Y., Hewitt, L., Jennings, C., Hunter, S., Kuzik, N., et al. (2017). Systematic review of the relationships between physical activity and health indicators in the early years (0-4 years). BMC Public Health.",
+      "year": 2017,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5753397/",
+      "design": "systematic-review",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 0,
+      "studied_max_months": 59,
+      "finding": "Physical activity in children up to age 4 was favourably associated with motor development, fitness, bone health and cardiometabolic health, with weaker evidence for cognitive development.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Basis of guideline `who-2019`.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "sandseter-2011",
+      "citation": "Sandseter, E. B. H., & Kennair, L. E. O. (2011). Children's risky play from an evolutionary perspective: The anti-phobic effects of thrilling experiences. Evolutionary Psychology.",
+      "year": 2011,
+      "url": "https://www.pubmed.gov/22947972/",
+      "design": "theory",
+      "areas": [
+        "movement",
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 144,
+      "finding": "Proposed that thrilling play with heights, speed and rough-and-tumble exposes children to fears in manageable doses and may protect against later anxiety.",
+      "limits": "A theoretical argument, not a test.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "jayanthi-2015",
+      "citation": "Jayanthi, N. A., LaBella, C. R., Fischer, D., Pasulka, J., & Dugas, L. R. (2015). Sports-specialized intensive training and the risk of injury in young athletes: A clinical case-control study. American Journal of Sports Medicine.",
+      "year": 2015,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25646361/",
+      "design": "case-control",
+      "areas": [
+        "movement"
+      ],
+      "studied_min_months": 84,
+      "studied_max_months": 216,
+      "finding": "Among 1,190 athletes aged 7-18, highly specialised athletes, and those training more hours a week than their age in years, had higher odds of serious overuse injuries.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Older children.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "obradovic-2021",
+      "citation": "Obradović, J., Sulik, M. J., & Shaffer, A. (2021). Learning to let go: Parental over-engagement predicts poorer self-regulation in kindergartners. Journal of Family Psychology.",
+      "year": 2021,
+      "url": "https://news.stanford.edu/stories/2021/03/study-reveals-impact-much-parental-involvement",
+      "design": "observational",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 72,
+      "finding": "In videotaped play with about 100 kindergartners, parents who kept directing, teaching or correcting while the child was already engaged had children with poorer self-regulation in tasks and in teacher reports.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "perry-2018",
+      "citation": "Perry, N. B., Dollar, J. M., Calkins, S. D., Keane, S. P., & Shanahan, L. (2018). Childhood self-regulation as a mechanism through which early overcontrolling parenting is associated with adjustment in preadolescence. Developmental Psychology.",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6062452",
+      "design": "longitudinal",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 24,
+      "studied_max_months": 120,
+      "finding": "In 422 children assessed at 2, 5 and 10, overcontrolling parenting at age 2 was associated with poorer emotion and behaviour regulation at 5, and better regulation at 5 with fewer emotional problems and better school and social outcomes at 10.",
+      "limits": "Read from a press release. Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "rapee-2005",
+      "citation": "Rapee, R. M., Kennedy, S., Ingram, M., Edwards, S., & Sweeney, L. (2005). Prevention and early intervention of anxiety disorders in inhibited preschool children. Journal of Consulting and Clinical Psychology.",
+      "year": 2005,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15982146/",
+      "design": "rct",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 42,
+      "studied_max_months": 54,
+      "finding": "In 146 very shy preschoolers, six parent group sessions on reducing overprotection and encouraging gradual exposure led to fewer anxiety diagnoses a year later than no intervention.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Children selected for high inhibition.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "lebowitz-2020",
+      "citation": "Lebowitz, E. R., Marin, C., Martino, A., Shimshoni, Y., & Silverman, W. K. (2020). Parent-based treatment as efficacious as cognitive-behavioral therapy for childhood anxiety: A randomized noninferiority study of Supportive Parenting for Anxious Childhood Emotions. Journal of the American Academy of Child and Adolescent Psychiatry.",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6732048",
+      "design": "rct",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 84,
+      "studied_max_months": 168,
+      "finding": "In 124 children aged 7-14 with an anxiety disorder, 12 weekly sessions of a parent-only program that taught parents to reduce accommodation of the child's anxiety and express confidence in the child reduced anxiety as much as CBT delivered to the child.",
+      "limits": "Read from an NIH summary; published online in 2019. Clinical sample, older children.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "mueller-dweck-1998",
+      "citation": "Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. Journal of Personality and Social Psychology.",
+      "year": 1998,
+      "url": "https://www.columbia.edu/cu/psychology/courses/3615/Readings/Mueller_Dweck.pdf",
+      "design": "experiment",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 120,
+      "studied_max_months": 132,
+      "finding": "In six studies, starting with 128 fifth graders, children praised for intelligence after a success persisted less, enjoyed the task less and performed worse after a later failure than children praised for effort.",
+      "limits": "Older children. See `li-bates-2019` for failed replications.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "li-bates-2019",
+      "citation": "Li, Y., & Bates, T. C. (2019). You can't change your basic ability, but you work at things, and that's how we get hard things done: Testing the role of growth mindset on response to setbacks, educational attainment, and cognitive ability. Journal of Experimental Psychology: General.",
+      "year": 2019,
+      "url": "https://westminsterresearch.westminster.ac.uk/item/v62v1/you-can-t-change-your-basic-ability-but-you-work-at-things-and-that-s-how-we-get-hard-things-done-testing-the-role-of-growth-mindset-on-response-to-setbacks-educational-attainment-and-cognitive",
+      "design": "experiment",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 108,
+      "studied_max_months": 156,
+      "finding": "In three studies with more than 600 children aged 9-13 in China and the UK, a growth-mindset manipulation did not improve resilience after failure, and mindset was not related to grades.",
+      "limits": "Read from a university news release.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "brummelman-2014",
+      "citation": "Brummelman, E., Thomaes, S., Orobio de Castro, B., Overbeek, G., & Bushman, B. J. (2014). \"That's not just beautiful - that's incredibly beautiful!\": The adverse impact of inflated praise on children with low self-esteem. Psychological Science.",
+      "year": 2014,
+      "url": "https://dare.uva.nl/id/a865c3f8-ca77-486a-a152-0fabd59f91f7",
+      "design": "experiment",
+      "areas": [
+        "social-emotional",
+        "art"
+      ],
+      "studied_min_months": 96,
+      "studied_max_months": 144,
+      "finding": "Adults gave inflated praise about twice as often to children with low self-esteem. In an experiment with 240 children, children with low self-esteem who were told a drawing was 'incredibly beautiful' then chose easier drawings to copy; children with high self-esteem chose harder ones.",
+      "limits": "Read from a press release. Older children.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "havighurst-2010",
+      "citation": "Havighurst, S. S., Wilson, K. R., Harley, A. E., Prior, M. R., & Kehoe, C. (2010). Tuning in to Kids: Improving emotion socialization practices in parents of preschool children - findings from a community trial. Journal of Child Psychology and Psychiatry.",
+      "year": 2010,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20735794/",
+      "design": "rct",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 66,
+      "finding": "Parents of preschoolers randomised to a six-session emotion-coaching program became less dismissive and more coaching of emotions, and their children's behaviour problems fell more than in the control group.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Parent and teacher reports.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "leonard-2017",
+      "citation": "Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. Science.",
+      "year": 2017,
+      "url": "https://dspace.mit.edu/handle/1721.1/113043",
+      "design": "experiment",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 13,
+      "studied_max_months": 18,
+      "finding": "Fifteen-month-olds who watched an adult try hard and succeed at two tasks tried harder on a new toy than infants who watched the adult succeed easily.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Infants, one lab session.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "gray-2023",
+      "citation": "Gray, P., Lancy, D. F., & Bjorklund, D. F. (2023). Decline in independent activity as a cause of decline in children's mental well-being: Summary of the evidence. Journal of Pediatrics.",
+      "year": 2023,
+      "url": "https://www.sciencedaily.com/releases/2023/03/230309101330.htm",
+      "design": "narrative-review",
+      "areas": [
+        "social-emotional",
+        "practical-life"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 216,
+      "finding": "Argues that the decline over decades in children's opportunity to play, roam and act without adult supervision is a cause of rising anxiety and depression.",
+      "limits": "Summary from prior knowledge; not checked on the check date. An argument from trends and correlations by advocates of the position.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "durlak-2011",
+      "citation": "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. Child Development.",
+      "year": 2011,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21291449/",
+      "design": "meta-analysis",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 216,
+      "finding": "Across 213 school programs for about 270,000 students from kindergarten to high school, social and emotional learning programs improved social-emotional skills, attitudes and behaviour, and academic performance by about 11 percentile points.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Later work suggests smaller effects in independent evaluations.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "murano-2020",
+      "citation": "Murano, D., Sawyer, J. E., & Lipnevich, A. A. (2020). A meta-analytic review of preschool social and emotional learning interventions. Review of Educational Research.",
+      "year": 2020,
+      "url": "https://www.researchconnections.org/childcare/resources/38253",
+      "design": "meta-analysis",
+      "areas": [
+        "social-emotional"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 71,
+      "finding": "Preschool social and emotional learning programs improved children's social-emotional competence and reduced problem behaviour.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Classroom programs.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "none"
+    },
+    {
+      "id": "jirout-newcombe-2015",
+      "citation": "Jirout, J. J., & Newcombe, N. S. (2015). Building blocks for developing spatial skills: Evidence from a large, representative U.S. sample. Psychological Science.",
+      "year": 2015,
+      "url": "https://www.psychologicalscience.org/observer/blocks-and-puzzles-may-help-children-learn-spatial-skills",
+      "design": "cross-sectional",
+      "areas": [
+        "building"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 84,
+      "finding": "In 847 children aged 4-7, those who played with puzzles, blocks or board games more than six times a week scored higher on a block-design spatial test than those who played less, alongside effects of family income and general ability.",
+      "limits": "Read from a journal-society news article. Correlational.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "fisher-2013",
+      "citation": "Fisher, K. R., Hirsh-Pasek, K., Newcombe, N., & Golinkoff, R. M. (2013). Taking shape: Supporting preschoolers' acquisition of geometric knowledge through guided play. Child Development.",
+      "year": 2013,
+      "url": "https://templeinfantlab.com/wp-content/uploads/sites/2/2019/06/Fisher_et_al-2013-Child_Development.pdf",
+      "design": "experiment",
+      "areas": [
+        "building",
+        "math"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 60,
+      "finding": "60 children aged 4 and 5 (mean 56 months) learned about four shapes by guided play, direct instruction or free play. The guided-play group was best at recognising atypical shapes as real triangles, rectangles and so on, and the gain held a week later.",
+      "limits": "Mostly white, upper-middle-class sample; four shapes only.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "casey-2008",
+      "citation": "Casey, B. M., Andrews, N., Schindler, H., Kersh, J. E., Samper, A., & Copley, J. (2008). The development of spatial skills through interventions involving block building activities. Cognition and Instruction.",
+      "year": 2008,
+      "url": "https://ies.ed.gov/ncee/WWC/Study/78036",
+      "design": "rct",
+      "areas": [
+        "building"
+      ],
+      "studied_min_months": 60,
+      "studied_max_months": 72,
+      "finding": "The What Works Clearinghouse rated this kindergarten block-building trial as meeting its standards without reservations. Children who built increasingly complex structures, especially within a story, improved on spatial tasks.",
+      "limits": "Results from prior knowledge; the clearinghouse page read did not show effect sizes. Classroom program.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "wai-2009",
+      "citation": "Wai, J., Lubinski, D., & Benbow, C. P. (2009). Spatial ability for STEM domains: Aligning over 50 years of cumulative psychological knowledge solidifies its importance. Journal of Educational Psychology.",
+      "year": 2009,
+      "url": "https://www.Gwern.net/doc/iq/high/smpy/2009-wai.pdf",
+      "design": "longitudinal",
+      "areas": [
+        "building"
+      ],
+      "studied_min_months": 168,
+      "studied_max_months": 400,
+      "finding": "In a US sample of about 400,000 high school students followed for 11 years, spatial ability predicted earning STEM degrees and working in STEM beyond what verbal and math ability predicted.",
+      "limits": "Summary from prior knowledge; not checked on the check date. Adolescent ability; says nothing about training it early.",
+      "weight": "strong",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "wolfgang-2001",
+      "citation": "Wolfgang, C. H., Stannard, L. L., & Jones, I. (2001). Block play performance among preschoolers as a predictor of later school achievement in mathematics. Journal of Research in Childhood Education.",
+      "year": 2001,
+      "url": "https://imaginationplayground.com/wp-content/uploads/2020/04/Block-Play-Performance-Among-Preschoolers.pdf",
+      "design": "longitudinal",
+      "areas": [
+        "building",
+        "math"
+      ],
+      "studied_min_months": 48,
+      "studied_max_months": 216,
+      "finding": "In 37 children followed from age 4, the complexity of preschool block building did not predict math at grades 3 or 5, but did predict standardised math scores at grade 7 and high-school math course-taking, controlling for IQ, gender and family income.",
+      "limits": "Very small single-preschool sample; the authors say causation was not established.",
+      "weight": "weak",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "de-bruin-2015",
+      "citation": "de Bruin, A., Treccani, B., & Della Sala, S. (2015). Cognitive advantage in bilingualism: An example of publication bias? Psychological Science.",
+      "year": 2015,
+      "url": "https://iris.unitn.it/handle/11572/187289",
+      "design": "systematic-review",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 36,
+      "studied_max_months": 900,
+      "finding": "Of 104 conference abstracts on bilingualism and executive control, 63% of those supporting a bilingual advantage were later published in journals, against 36% of those that did not support it.",
+      "limits": "Read from the journal society's press release.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "hoff-2012",
+      "citation": "Hoff, E., Core, C., Place, S., Rumiche, R., Señor, M., & Parra, M. (2012). Dual language exposure and early bilingual development. Journal of Child Language.",
+      "year": 2012,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4323282",
+      "design": "longitudinal",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 18,
+      "studied_max_months": 30,
+      "finding": "Comparing high-income bilingual and monolingual children aged 1 year 10 months to 2 years 6 months, monolinguals were ahead on vocabulary and grammar in their one language, but the groups were comparable in total vocabulary across languages.",
+      "limits": "Toddlers.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "paper"
+    },
+    {
+      "id": "ferjan-ramirez-2017",
+      "citation": "Ferjan Ramírez, N., & Kuhl, P. (2017). Bilingual baby: Foreign language intervention in Madrid's infant education centers. Mind, Brain, and Education.",
+      "year": 2017,
+      "url": "https://www.washington.edu/news/2017/07/17/bilingual-babies-study-shows-how-exposure-to-a-foreign-language-ignites-infants-learning/",
+      "design": "quasi-experiment",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 7,
+      "studied_max_months": 34,
+      "finding": "280 children aged 7 to 33 months in Madrid centres received 18 weeks of daily English play sessions with tutors. They produced about 74 English words or phrases per child per hour against 13 in the comparison group, and kept the gain 18 weeks later.",
+      "limits": "Read from a university press release. Very young children with intensive live exposure.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    },
+    {
+      "id": "jaekel-2017",
+      "citation": "Jaekel, N., Schurig, M., Florian, M., & Ritter, M. (2017). From early starters to late finishers? A longitudinal study of early foreign language learning in school. Language Learning.",
+      "year": 2017,
+      "url": "https://zendy.io/title/10.1111/lang.12242",
+      "design": "longitudinal",
+      "areas": [
+        "second-language"
+      ],
+      "studied_min_months": 72,
+      "studied_max_months": 156,
+      "finding": "Among 5,130 students in 31 academic-track German schools, those who began English in grade 1 were ahead in reading and listening in grade 5, but by grade 7 those who began in grade 3 were ahead.",
+      "limits": "Read from a university press release. Early lessons were at most 90 minutes a week.",
+      "weight": "moderate",
+      "citation_checked_on": "2026-11-25",
+      "full_text_read": false,
+      "finding_checked_against": "secondary"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "checked_on",
+    "note",
+    "sources"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "checked_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "note": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "citation",
+          "year",
+          "url",
+          "design",
+          "areas",
+          "studied_min_months",
+          "studied_max_months",
+          "finding",
+          "limits",
+          "weight",
+          "citation_checked_on",
+          "full_text_read",
+          "finding_checked_against"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-(19|20)[0-9]{2}$"
+          },
+          "citation": {
+            "type": "string",
+            "minLength": 1
+          },
+          "year": {
+            "type": "integer",
+            "minimum": 1900,
+            "maximum": 2100
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "design": {
+            "enum": [
+              "meta-analysis",
+              "systematic-review",
+              "rct",
+              "experiment",
+              "quasi-experiment",
+              "case-control",
+              "longitudinal",
+              "cross-sectional",
+              "observational",
+              "narrative-review",
+              "theory",
+              "evidence-guide",
+              "guideline"
+            ]
+          },
+          "areas": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "studied_min_months": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "studied_max_months": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "finding": {
+            "type": "string",
+            "minLength": 1
+          },
+          "limits": {
+            "type": "string",
+            "minLength": 1
+          },
+          "weight": {
+            "enum": [
+              "strong",
+              "moderate",
+              "weak"
+            ]
+          },
+          "citation_checked_on": {
+            "type": "string",
+            "format": "date"
+          },
+          "full_text_read": {
+            "type": "boolean"
+          },
+          "finding_checked_against": {
+            "enum": [
+              "paper",
+              "secondary",
+              "none"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

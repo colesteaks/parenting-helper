@@ -12,6 +12,8 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - run: python scripts/family_briefing.py validate-library
+      - run: python scripts/skill_library.py validate
+      - run: python scripts/skill_library.py render --check
       - run: python -m unittest discover -s tests -v
       - name: Render fictional demo
         run: >-
