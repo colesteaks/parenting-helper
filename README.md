@@ -14,6 +14,7 @@ cd parenting-helper
 python -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python scripts/family_briefing.py validate-library
+.venv/bin/python scripts/skill_library.py validate
 .venv/bin/python scripts/family_briefing.py build \
   --synthetic --household examples/fictional-household.json \
   --calendar examples/fictional-calendar.json --start 2026-11-23 \
@@ -57,14 +58,17 @@ Observations influence preferences, never automatically mark development or rewr
 
 - `data/source-graph.json`: 11 reviewed first-party guidance sources, scoped by age and evidence role.
 - `data/activities.json`: 12 original caregiver adaptations across 9 domains, each with four age variants covering 6–95 months. The games are not evaluated interventions.
+- `data/research.json`: 71 research sources across the thirteen skill areas, each with design, ages studied, finding, limits and a weight. Citations were confirmed to exist; no full text was re-read, and the file says so per source.
+- `data/skill-activities.json`: 63 original activities for ages 4–6 (48–71 months) across the thirteen areas, each with an easier and a harder version and an evidence grade of `tested`, `adapted` or `plausible`. The weekly renderer does not read this file yet.
+- `scripts/skill_library.py`: validates both files and renders `references/research-sources.md` and `references/activity-catalog.md`.
 - `scripts/family_briefing.py`: deterministic calendar normalization, age progression, preference-based selection, agenda rendering and caregiver feedback capture.
 - `schemas/`: profile, calendar-snapshot and observation contracts; semantic validation supplements JSON Schema.
 - `tests/`: calendar correctness, age/source scope, feedback, reproducibility and public-path privacy checks.
-- `references/`: evidence policy, [skill-area framing](references/skill-areas.md), calendar contract, selection methodology and maintenance.
+- `references/`: evidence policy, [skill-area framing](references/skill-areas.md), [research base for ages 4–6](references/research-base.md), [research sources](references/research-sources.md), [activity catalog](references/activity-catalog.md), calendar contract, selection methodology and maintenance.
 
 ## Skill areas to investigate
 
-[Skill-area framing](references/skill-areas.md) lists thirteen areas a caregiver may want children to explore, from cooking through an optional second language. For each area it records open questions: milestones by age band, evidence-based activities, materials, and how progress can be noticed from infancy through elementary age. Use that list to choose the next reviewed addition. The agenda is wider than today's nine activity domains. It does not change card selection, household profiles, or the line between monitoring checklists and play.
+[Skill-area framing](references/skill-areas.md) lists thirteen areas a caregiver may want children to explore, from cooking through an optional second language. For each area it records open questions: milestones by age band, evidence-based activities, materials, and how progress can be noticed from infancy through elementary age. The 48–71 month band now has a first answer in the [research base](references/research-base.md) and [activity catalog](references/activity-catalog.md); the other bands are open. Use that list to choose the next reviewed addition. The agenda is wider than today's nine activity domains. It does not change card selection, household profiles, or the line between monitoring checklists and play.
 
 Age bands organize options, not readiness standards. The engine does not interpret free-text access notes; the host/caregiver must adapt. Unknown interests stay unknown. Approximate ages are projected by completed calendar months from their report date and are always labeled approximate. A supplied leap-day birthday uses completed calendar months. Calendar snapshots are not continuous sync and completeness only describes what the connected account can see.
 

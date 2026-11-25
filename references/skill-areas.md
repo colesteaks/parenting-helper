@@ -2,6 +2,8 @@
 
 Caregivers often want children to have repeated, low-pressure chances to cook, read, write, play with numbers, notice the world, make art and music, move, get along with other people, help at home, be outside, build things, and sometimes hear another language. This note names those areas and the questions this project still has to answer before it adds guidance.
 
+**Status, 2026-11-25:** the 48–71 month part of the preschool band has a first answer for all thirteen areas. See [research-base.md](research-base.md) for the synthesis, [research-sources.md](research-sources.md) for the 71 sources and [activity-catalog.md](activity-catalog.md) for 63 activities. That library is separate from the twelve weekly cards and does not change card selection. Every other band below is still an open question.
+
 It is a research agenda for the public skill. It is not a curriculum, a milestone checklist, a screening tool, or a list of activities to assign. Monitoring stays separate from play guidance, as in [evidence policy](evidence-policy.md). CDC milestone sources explain communication with a clinician. They do not set targets, rank children, or decide which card is selected.
 
 The offline library today has nine activity domains and twelve cards, each with variants from 6 through 95 months. These skill areas are wider than that library. An area with no card is a gap to investigate, not permission to invent a game or an evidence rating. New detailed claims need a reviewed source leaf, a recorded age scope, and an original caregiver adaptation. See [maintenance](maintenance.md).
