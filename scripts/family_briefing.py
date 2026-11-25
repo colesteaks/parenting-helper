@@ -118,7 +118,7 @@ def endpoints(event):
     return aware(start), aware(end), False
 
 
-def normalize_calendar(snapshot, start, end, tzname, expected_ids=()):
+def normalize_calendar(snapshot, start, end, tzname, expected_ids=(), as_of=None):
     validate('calendar', snapshot)
     tz = ZoneInfo(tzname)
     lo = datetime.combine(start, time.min, tzinfo=tz)
@@ -129,8 +129,11 @@ def normalize_calendar(snapshot, start, end, tzname, expected_ids=()):
         warnings.append('Calendar enumeration is incomplete; some calendars may be missing.')
     if not (date.fromisoformat(snapshot['window_start']) <= start < end <= date.fromisoformat(snapshot['window_end'])):
         warnings.append('Snapshot does not cover the entire requested date range.')
-    if (lo.astimezone(timezone.utc) - captured.astimezone(timezone.utc)).total_seconds() > 48 * 3600:
-        warnings.append('Calendar snapshot is over 48 hours older than the requested start; refresh before relying on it.')
+    checked_at = as_of if as_of is not None else datetime.now(timezone.utc)
+    if checked_at.tzinfo is None:
+        raise ValueError('Calendar freshness reference must include a UTC offset')
+    if (checked_at.astimezone(timezone.utc) - captured.astimezone(timezone.utc)).total_seconds() > 48 * 3600:
+        warnings.append('Calendar snapshot was captured over 48 hours ago; refresh before relying on it.')
     found = {cal['id'] for cal in snapshot['calendars']}
     for missing in sorted(set(expected_ids) - found):
         warnings.append(f'Configured calendar missing: {missing}')
@@ -262,14 +265,15 @@ def render(household, snapshot, start, observations=(), expected_ids=(), history
             out.append(f"- {when}: {plain(e['title'])}{loc} ({plain(flags)})")
             if e['description']:
                 out.append(f"  Calendar note: {plain(e['description'])}")
-            if re.search(r'pickup|pick.up|closed|closure|early close|by \d',e['title'],re.I):
+            if re.search(r'(?:pickup|pick.up).{0,40}\b(?:by|before|no later than)\b|closed|closure|early close|by \d',e['title'],re.I):
                 out.append('  **Logistics:** read the title/note for the actual deadline or closure; the event’s display start may differ. No child assignment is inferred.')
         out += ['', '**Optional learning moment**', '']
         if card is None:
             out.append('No compatible card is available for all profiles. Ask the caregiver about suitable adaptations; do not substitute another age group automatically.')
             continue
         out.append(f"**{card['title']}** · {card['domain']} · about {card['duration_minutes']} minutes · {card['routine']} · ID `{card['id']}`")
-        if len([e for e in agenda if e['active'] and e['role']=='commitments']) >= 3:
+        if len([e for e in agenda if e['active'] and e['role']=='commitments'
+                and not e['all_day'] and e['transparency'] != 'transparent']) >= 3:
             out.append('Several commitments are listed: use just a minute or two during an existing routine, or skip this idea.')
         out.append('')
         for c in household['children']:
