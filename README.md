@@ -1,5 +1,7 @@
 # Parenting Helper
 
+For the current development state, quality gaps and next steps, start with [HANDOFF.md](HANDOFF.md).
+
 A reusable Agent Skill for private weekly family learning briefings: all calendar commitments, one small play-based learning idea per day, and a separate adaptation for each child. Profiles grow through dated caregiver observations. Local outings come from the separate [KC activity finder](https://github.com/colesteaks/kc-activity-finder).
 
 The public repository contains guidance, code and **fictional** examples. Keep real profiles, calendar IDs, agendas and briefings in a separate private repository. This skill does not publish a website or modify calendars.
