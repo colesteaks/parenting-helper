@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "fictional": true,
+  "timezone": "America/Chicago",
+  "priorities": [
+    "language-literacy",
+    "early-math",
+    "motor"
+  ],
+  "children": [
+    {
+      "id": "robin",
+      "label": "Robin (fictional)",
+      "reported_age": {
+        "months": 54,
+        "as_of": "2026-11-01",
+        "approximate": true
+      },
+      "interests": [
+        "building"
+      ],
+      "access_notes": []
+    },
+    {
+      "id": "finch",
+      "label": "Finch (fictional)",
+      "reported_age": {
+        "months": 28,
+        "as_of": "2026-11-01",
+        "approximate": true
+      },
+      "interests": [
+        "music"
+      ],
+      "access_notes": []
+    }
+  ]
+}

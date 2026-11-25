@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "reviewed_on": "2026-11-24",
+  "sources": [
+    {
+      "id": "cdc-scope",
+      "organization": "CDC",
+      "title": "How to use milestone checklists",
+      "url": "https://www.cdc.gov/act-early/milestones/key-points.html",
+      "role": "monitoring",
+      "min_months": 0,
+      "max_months": 60,
+      "scope": "Checklists support communication and monitoring; they are not developmental standards, screening, diagnosis, or a curriculum.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "cdc-12",
+      "organization": "CDC",
+      "title": "Milestones at 1 year",
+      "url": "https://www.cdc.gov/act-early/milestones/1-year.html",
+      "role": "monitoring",
+      "min_months": 12,
+      "max_months": 12,
+      "scope": "Age-specific monitoring and parent tips; never infer an individual child has or lacks a skill.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "cdc-30",
+      "organization": "CDC",
+      "title": "Milestones at 30 months",
+      "url": "https://www.cdc.gov/act-early/milestones/30-months.html",
+      "role": "monitoring",
+      "min_months": 30,
+      "max_months": 30,
+      "scope": "Use for caregiver questions and discussion, not a target list to drill.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "cdc-60",
+      "organization": "CDC",
+      "title": "Milestones at 5 years",
+      "url": "https://www.cdc.gov/act-early/milestones/5-years.html",
+      "role": "monitoring",
+      "min_months": 60,
+      "max_months": 60,
+      "scope": "Examples of development and parent tips; not a readiness test or a child assessment.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "harvard-ef",
+      "organization": "Harvard Center on the Developing Child",
+      "title": "Executive function activity guide",
+      "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
+      "role": "practice-guide",
+      "min_months": 6,
+      "max_months": 95,
+      "scope": "Adult-supported play suggestions organized by age, including 6–18 months, 18–36 months, 3–5 and 5–7 years. Our variants are adaptations, not evaluated protocols.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "harvard-responsive",
+      "organization": "Harvard Center on the Developing Child",
+      "title": "Serve and return",
+      "url": "https://developingchild.harvard.edu/resources/guide/5-steps-for-brain-building-serve-and-return/",
+      "role": "practice-guide",
+      "min_months": 0,
+      "max_months": 71,
+      "scope": "Notice children’s cues, respond, name experiences and leave room for a response. Do not prescribe a number of exchanges or promise a developmental effect.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "ies-prek",
+      "organization": "Institute of Education Sciences / WWC",
+      "title": "Preparing Young Children for School",
+      "url": "https://ies.ed.gov/ncee/wwc/practiceguide/30",
+      "role": "evidence-guide",
+      "min_months": 36,
+      "max_months": 71,
+      "scope": "Pre-K guidance covers social-emotional learning, executive function, math, vocabulary, letters/sounds and shared reading. Source evidence ratings apply to its recommendations and population, not our exact home games or younger children.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "aap-play",
+      "organization": "American Academy of Pediatrics / HealthyChildren",
+      "title": "The Power of Play",
+      "url": "https://www.healthychildren.org/English/family-life/power-of-play/Pages/The-Power-of-Play-How-Fun-and-Games-Help-Children-Thrive.aspx",
+      "role": "practice-guide",
+      "min_months": 0,
+      "max_months": 95,
+      "scope": "Play and interaction offer learning opportunities; adapt to the child and follow interest. No promised acceleration or measured gain.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "ztt-math",
+      "organization": "ZERO TO THREE / American Institutes for Research",
+      "title": "Math4Littles",
+      "url": "https://www.zerotothree.org/resource/math4littles-early-math-activities-for-two-and-three-year-olds/",
+      "role": "practice-guide",
+      "min_months": 24,
+      "max_months": 47,
+      "scope": "Playful counting, spatial ideas, patterns, shapes and measurement for two- and three-year-olds. Adjust challenge without emphasizing mistakes.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "ror-reading",
+      "organization": "Reach Out and Read",
+      "title": "Family resources",
+      "url": "https://reachoutandread.org/family-resources/",
+      "role": "resource-hub",
+      "min_months": 0,
+      "max_months": 71,
+      "scope": "Entry point for shared reading, age-appropriate book selection and booklists. Read a linked leaf before attributing detailed advice to it.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    },
+    {
+      "id": "naeyc-family",
+      "organization": "NAEYC",
+      "title": "Resources for families",
+      "url": "https://www.naeyc.org/our-work/for-families",
+      "role": "resource-hub",
+      "min_months": 0,
+      "max_months": 95,
+      "scope": "Discovery hub for play, language, math and other early learning topics; not one study or an evidence rating.",
+      "status": "reviewed",
+      "reviewed_on": "2026-11-24"
+    }
+  ],
+  "edges": [
+    {
+      "from": "cdc-scope",
+      "to": "cdc-12",
+      "relation": "governs-interpretation"
+    },
+    {
+      "from": "cdc-scope",
+      "to": "cdc-30",
+      "relation": "governs-interpretation"
+    },
+    {
+      "from": "cdc-scope",
+      "to": "cdc-60",
+      "relation": "governs-interpretation"
+    }
+  ]
+}

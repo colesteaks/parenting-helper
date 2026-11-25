@@ -1,0 +1,682 @@
+{
+  "version": 1,
+  "activities": [
+    {
+      "id": "book-conversation",
+      "title": "Let the child lead a book",
+      "domain": "language-literacy",
+      "routine": "book time",
+      "interest_tags": [
+        "books",
+        "stories"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Notice a picture the baby looks at; name it and pause for a look, sound or gesture.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Offer two pictures to choose from; expand the child’s word or gesture into a short phrase.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Wonder together what a character might do next; accept a story or a gesture instead of quizzing.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Take turns retelling a favorite scene or inventing another ending; writing is optional.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "table-math",
+      "title": "Set a pretend table",
+      "domain": "early-math",
+      "routine": "meal preparation",
+      "interest_tags": [
+        "pretend",
+        "counting"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Explore one large unbreakable cup with an adult; name in and out while you demonstrate.",
+          "source_ids": [
+            "aap-play"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Give each toy one large cup; count together only if interesting.",
+          "source_ids": [
+            "aap-play"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Match cups to guests and wonder what changes when another guest arrives.",
+          "source_ids": [
+            "aap-play",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Compare two table arrangements and explain different ways to count the same cups.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rhythm-turns",
+      "title": "Trade a rhythm",
+      "domain": "music-creativity",
+      "routine": "transition",
+      "interest_tags": [
+        "music",
+        "movement"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Copy the baby’s sound or gentle hand tap and wait; the baby need not clap.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Take turns copying one or two claps, or make a new sound.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Invent a short clap pattern and let the child lead the adult.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Make two patterns, trade leaders, and try a quiet/loud variation.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laundry-sort",
+      "title": "Sort the laundry together",
+      "domain": "independence",
+      "routine": "household routine",
+      "interest_tags": [
+        "sorting",
+        "helping"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Offer one clean large washcloth to feel and hand back; narrate their action.",
+          "source_ids": [
+            "aap-play"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Choose a way to sort large cloths, such as color or whose they are.",
+          "source_ids": [
+            "aap-play"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Invent a sorting rule, then explain another possible rule.",
+          "source_ids": [
+            "aap-play",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Plan a sorting system and check whether a second rule changes the groups.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "movement-mirror",
+      "title": "Mirror a movement",
+      "domain": "motor",
+      "routine": "movement break",
+      "interest_tags": [
+        "movement",
+        "dance"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "On a clear floor, mirror the child’s comfortable movement or gesture; no standing requirement.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Copy simple seated or standing movements, with a stop-and-go cue if enjoyable.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Let the child lead two movements and change the order together.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Invent a movement sequence; switch who leads and who remembers.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nature-notice",
+      "title": "Notice one thing outside",
+      "domain": "nature-science",
+      "routine": "window or walk",
+      "interest_tags": [
+        "nature",
+        "outdoors"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "From an adult’s safe position or through a window, name something the baby notices.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Notice a tree or cloud and describe one thing together; leave small objects outside.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Compare two observations and predict what may look different tomorrow.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Sketch or describe an observation, propose a question, and revisit it another day.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feelings-story",
+      "title": "Give a toy a feeling",
+      "domain": "social-emotional",
+      "routine": "connection time",
+      "interest_tags": [
+        "stories",
+        "pretend"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Respond warmly to the baby’s cues and gently name what you see, without demanding a response.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Pretend a large toy is frustrated; offer comfort and a simple choice.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Tell a short toy story; wonder what the character feels and what could help.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Invent two perspectives in a toy disagreement and consider more than one helpful response.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "building-together",
+      "title": "Build and change",
+      "domain": "spatial-reasoning",
+      "routine": "floor play",
+      "interest_tags": [
+        "building",
+        "engineering"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Use large age-rated blocks: explore, pass one back and forth, or watch an adult stack.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Make a small stack or row with large blocks; try beside, on and under.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Plan a bridge with large blocks and change one part after trying it.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Design a structure for a pretend purpose, test it, and explain a revision.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story-voices",
+      "title": "Make a story together",
+      "domain": "language-literacy",
+      "routine": "connection time",
+      "interest_tags": [
+        "stories",
+        "pretend"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Echo sounds and gestures with a playful voice, pausing for the baby’s response.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Make a short story about a familiar large toy; let the child add a sound or action.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Take turns adding a sentence, sound or action to a story.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Create a beginning, problem and ending together; drawing or dictation is welcome.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "find-a-pattern",
+      "title": "Make a big pattern",
+      "domain": "early-math",
+      "routine": "floor play",
+      "interest_tags": [
+        "patterns",
+        "building"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Explore two large cloths with different textures; the adult describes, without testing a pattern.",
+          "source_ids": [
+            "aap-play"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Alternate two colors of large blocks together; copying is optional.",
+          "source_ids": [
+            "aap-play"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Invent a repeating pattern of large blocks or movements and invite the adult to extend it.",
+          "source_ids": [
+            "aap-play",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Invent two different repeating units; explain how someone could predict the next part.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "choice-and-plan",
+      "title": "Choose a tiny project",
+      "domain": "executive-function",
+      "routine": "start of play",
+      "interest_tags": [
+        "building",
+        "drawing"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Offer two safe large toys and follow the baby’s gaze, reach or gesture.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Choose between two play ideas and do one simple step together.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Say or show a two-step plan for play; it is fine to change the plan.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Plan a small project, try it and discuss one thing to change next time.",
+          "source_ids": [
+            "aap-play",
+            "harvard-ef"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sound-hunt",
+      "title": "Listen and respond",
+      "domain": "language-literacy",
+      "routine": "quiet moment",
+      "interest_tags": [
+        "sounds",
+        "music"
+      ],
+      "duration_minutes": 5,
+      "prep_minutes": 0,
+      "materials": "Use ordinary household items named in the variant; large, intact, age-rated items only.",
+      "safety": "Adult supervision throughout. Keep small parts and older siblings’ materials away from younger children. Adapt to current mobility, comfort and access needs; stop when interest ends.",
+      "attribution": "Original caregiver adaptation informed by the linked guidance; not a tested intervention or a milestone assessment.",
+      "variants": [
+        {
+          "id": "infant",
+          "min_months": 6,
+          "max_months": 17,
+          "instructions": "Notice a safe everyday sound, name it softly and wait for the baby’s response.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "toddler",
+          "min_months": 18,
+          "max_months": 35,
+          "instructions": "Take turns noticing sounds nearby and mimicking them if fun.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive"
+          ]
+        },
+        {
+          "id": "preschool",
+          "min_months": 36,
+          "max_months": 71,
+          "instructions": "Play with familiar rhymes or beginning sounds without asking for correct answers.",
+          "source_ids": [
+            "aap-play",
+            "harvard-responsive",
+            "ies-prek"
+          ]
+        },
+        {
+          "id": "early-school",
+          "min_months": 72,
+          "max_months": 95,
+          "instructions": "Create a silly rhyme or a sound-based story; independent reading is not required.",
+          "source_ids": [
+            "aap-play"
+          ]
+        }
+      ]
+    }
+  ]
+}

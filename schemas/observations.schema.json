@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "date",
+    "child_id",
+    "text",
+    "reported_by",
+    "activity_id",
+    "response"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "child_id": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "reported_by": {
+      "const": "caregiver"
+    },
+    "activity_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "response": {
+      "enum": [
+        "enjoyed",
+        "neutral",
+        "avoid"
+      ]
+    }
+  }
+}

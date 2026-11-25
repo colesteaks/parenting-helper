@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "version",
+    "timezone",
+    "children"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "fictional": {
+      "type": "boolean"
+    },
+    "timezone": {
+      "type": "string"
+    },
+    "priorities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "children": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "label",
+          "interests",
+          "access_notes"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9-]*$"
+          },
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "birth_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "reported_age": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "months",
+              "as_of",
+              "approximate"
+            ],
+            "properties": {
+              "months": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 215
+              },
+              "as_of": {
+                "type": "string",
+                "format": "date"
+              },
+              "approximate": {
+                "const": true
+              }
+            }
+          },
+          "interests": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          },
+          "access_notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "oneOf": [
+          {
+            "required": [
+              "birth_date"
+            ],
+            "not": {
+              "required": [
+                "reported_age"
+              ]
+            }
+          },
+          {
+            "required": [
+              "reported_age"
+            ],
+            "not": {
+              "required": [
+                "birth_date"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "activity_finder": {
+    "repository": "https://github.com/colesteaks/kc-activity-finder",
+    "revision": "66530ca68c56a6eb364201f7e94fc0728a28616f",
+    "role": "Optional local outings / places and advance registration discovery. Follow its SKILL.md, validate current dates and age fit; never substitute event discovery for daily home learning.",
+    "data_freshness": "Code pin is reproducible, event availability is not. Recheck selected offerings with first-party sources before recommendation."
+  }
+}

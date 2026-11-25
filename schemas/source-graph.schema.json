@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "version",
+    "reviewed_on",
+    "sources",
+    "edges"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "reviewed_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "organization",
+          "title",
+          "scope",
+          "url",
+          "role",
+          "min_months",
+          "max_months",
+          "status",
+          "reviewed_on"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "organization": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "role": {
+            "enum": [
+              "monitoring",
+              "practice-guide",
+              "evidence-guide",
+              "resource-hub"
+            ]
+          },
+          "min_months": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "max_months": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "status": {
+            "enum": [
+              "reviewed",
+              "unavailable",
+              "discovery"
+            ]
+          },
+          "reviewed_on": {
+            "type": "string",
+            "format": "date"
+          }
+        }
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "from",
+          "to",
+          "relation"
+        ],
+        "properties": {
+          "from": {
+            "type": "string",
+            "minLength": 1
+          },
+          "to": {
+            "type": "string",
+            "minLength": 1
+          },
+          "relation": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}

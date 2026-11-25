@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "version",
+    "captured_at",
+    "timezone",
+    "window_start",
+    "window_end",
+    "enumeration_complete",
+    "calendars"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "captured_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "timezone": {
+      "type": "string"
+    },
+    "window_start": {
+      "type": "string",
+      "format": "date"
+    },
+    "window_end": {
+      "type": "string",
+      "format": "date"
+    },
+    "enumeration_complete": {
+      "type": "boolean"
+    },
+    "calendars": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "label",
+          "role",
+          "complete",
+          "events"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "role": {
+            "enum": [
+              "commitments",
+              "context"
+            ]
+          },
+          "timezone": {
+            "type": "string"
+          },
+          "complete": {
+            "type": "boolean"
+          },
+          "next_page_token": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "events": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "summary": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "start": {},
+                "end": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Parenting Helper"
+  short_description: "Calendar-aware, private weekly family learning plans"
+  default_prompt: "Use $parenting-helper to prepare our next weekly family briefing from our private household repository and connected calendars."
+policy:
+  allow_implicit_invocation: true
