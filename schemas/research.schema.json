@@ -39,7 +39,8 @@
           "limits",
           "weight",
           "citation_checked_on",
-          "full_text_read"
+          "full_text_read",
+          "finding_checked_against"
         ],
         "properties": {
           "id": {
@@ -116,6 +117,13 @@
           },
           "full_text_read": {
             "type": "boolean"
+          },
+          "finding_checked_against": {
+            "enum": [
+              "paper",
+              "secondary",
+              "none"
+            ]
           }
         }
       }

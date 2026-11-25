@@ -24,7 +24,7 @@ For worries, loss of skills or requests to assess a child, encourage an appropri
 - **Design**, from meta-analysis and randomized trial down to theory. Correlational designs (longitudinal, cross-sectional, observational) are never described as showing that a practice works.
 - **Ages studied**, so a finding is not silently moved to another age.
 - **Weight** (`strong`, `moderate`, `weak`): this project's judgement of how much the source can bear for a home decision at ages 4–6. It is not a rating taken from the source.
-- **Verification**: `citation_checked_on` is the date the citation was confirmed to exist. `full_text_read` is true only when the full text was read on or after that date. Until then, findings are summaries from prior knowledge, specific numbers are treated as unverified, and volume and page numbers are omitted.
+- **Verification**: `citation_checked_on` is the date the citation was confirmed to exist. `finding_checked_against` records what the stored finding was compared with: `paper` (the paper's own abstract or text), `secondary` (a press release, database entry or clearinghouse page), or `none` (prior knowledge only). `full_text_read` is true only when the full text was read end to end. Specific numbers from a `none` source are treated as unverified, and volume and page numbers are omitted.
 
 Each activity in `data/skill-activities.json` carries a grade:
 

@@ -58,8 +58,8 @@ Observations influence preferences, never automatically mark development or rewr
 
 - `data/source-graph.json`: 11 reviewed first-party guidance sources, scoped by age and evidence role.
 - `data/activities.json`: 12 original caregiver adaptations across 9 domains, each with four age variants covering 6–95 months. The games are not evaluated interventions.
-- `data/research.json`: 71 research sources across the thirteen skill areas, each with design, ages studied, finding, limits and a weight. Citations were confirmed to exist; no full text was re-read, and the file says so per source.
-- `data/skill-activities.json`: 63 original activities for ages 4–6 (48–71 months) across the thirteen areas, each with an easier and a harder version and an evidence grade of `tested`, `adapted` or `plausible`. The weekly renderer does not read this file yet.
+- `data/research.json`: 181 research sources across the thirteen skill areas, each with design, ages studied, finding, limits, a weight, and what its finding was checked against (the paper's abstract, a secondary summary, or nothing yet). Citations were confirmed to exist; no paper was read end to end.
+- `data/skill-activities.json`: 77 original activities for ages 4–6 (48–71 months) across the thirteen areas, each with an easier and a harder version and an evidence grade of `tested`, `adapted` or `plausible`. The weekly renderer does not read this file yet.
 - `scripts/skill_library.py`: validates both files and renders `references/research-sources.md` and `references/activity-catalog.md`.
 - `scripts/family_briefing.py`: deterministic calendar normalization, age progression, preference-based selection, agenda rendering and caregiver feedback capture.
 - `schemas/`: profile, calendar-snapshot and observation contracts; semantic validation supplements JSON Schema.

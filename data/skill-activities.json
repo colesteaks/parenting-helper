@@ -29,7 +29,8 @@
       "evidence": [
         "ies-foundational-2016",
         "share-1995",
-        "castles-2018"
+        "castles-2018",
+        "cheatham-allor-2012"
       ],
       "grade": "tested",
       "why": "Daily reading of connected text and decoding by sounding out are the two rated recommendations for beginning readers; each word decoded is a learning trial.",
@@ -52,10 +53,12 @@
         "senechal-2002",
         "mol-2008",
         "nelp-2008",
-        "castles-2018"
+        "castles-2018",
+        "noble-2019",
+        "dowdall-2020"
       ],
       "grade": "tested",
-      "why": "Storybook exposure feeds vocabulary and comprehension, a separate path from decoding practice. Questioning style adds a modest amount at this age.",
+      "why": "Storybook exposure feeds vocabulary and comprehension, a separate path from decoding (`senechal-2002`). Trained shared-reading programs have only a small effect on language, near zero against active comparison activities (`noble-2019`), so the case rests on daily volume and enjoyment more than on technique.",
       "notice": "Which new words reappear in the child's own talk? Can they retell the story in order?",
       "safety": "Ordinary adult supervision."
     },
@@ -159,10 +162,13 @@
       "evidence": [
         "ouellette-2017",
         "nelp-2008",
-        "ehri-2014"
+        "ehri-2014",
+        "senechal-2012",
+        "ouellette-2008",
+        "hall-2015"
       ],
-      "grade": "adapted",
-      "why": "Invented-spelling skill predicts later reading and spelling beyond sound awareness and letter knowledge. The home routine itself is an adaptation.",
+      "grade": "tested",
+      "why": "In a randomised trial, kindergartners with weak sound awareness who practised spelling by sound, with feedback, learned to read more words than those given sound-segmentation training or storybooks (`senechal-2012`). Invented-spelling skill also predicts later reading and spelling (`ouellette-2017`).",
       "notice": "How many sounds per word does the child represent? Are vowels appearing?",
       "safety": "Ordinary adult supervision."
     },
@@ -371,7 +377,8 @@
       "cadence": "weekly",
       "evidence": [
         "ies-math-2013",
-        "clements-2011"
+        "clements-2011",
+        "rittle-johnson-2017"
       ],
       "grade": "adapted",
       "why": "Patterns are part of the recommended early-math content, though the evidence for teaching them is rated minimal.",
@@ -414,7 +421,8 @@
       "minutes": 10,
       "cadence": "when the chance arises",
       "evidence": [
-        "bonawitz-2011"
+        "bonawitz-2011",
+        "schulz-bonawitz-2007"
       ],
       "grade": "tested",
       "why": "Direct demonstration of one function made preschoolers explore less and discover fewer other functions. This is a lab finding for one session; it argues for holding back at first, not for never teaching.",
@@ -435,7 +443,9 @@
       "cadence": "daily, in passing",
       "evidence": [
         "chouinard-2007",
-        "gopnik-2012"
+        "gopnik-2012",
+        "frazier-2009",
+        "legare-2014"
       ],
       "grade": "adapted",
       "why": "Preschoolers' questions are a real learning mechanism: they ask a great many, and persist until they get an informative answer.",
@@ -463,170 +473,6 @@
       "safety": "Ordinary adult supervision."
     },
     {
-      "id": "art-open-materials",
-      "area": "art",
-      "band": "prek-k",
-      "title": "Make something with no model to copy",
-      "goal": "Choosing, planning and making for its own sake.",
-      "do": "Set out real materials and no example to copy. Let the child decide what to make. Describe what you see (\"you used long blue lines here\") in place of judging it, and ask them to tell you about it.",
-      "easier": "Two materials and a large sheet of paper.",
-      "harder": "Plan first (\"what will you make, and what do you need?\"); return to the same piece the next day; combine materials.",
-      "materials": "Paint, clay, collage scraps, glue, cardboard, tape.",
-      "minutes": 20,
-      "cadence": "weekly",
-      "evidence": [
-        "winner-2013"
-      ],
-      "grade": "plausible",
-      "why": "There is little evidence that art raises other skills. It is included for what it is: making choices, handling materials, and expressing an idea.",
-      "notice": "Does the child plan, or discover as they go? How long do they stay with it?",
-      "safety": "Check that materials are non-toxic. Keep small collage pieces from younger siblings."
-    },
-    {
-      "id": "art-observational-drawing",
-      "area": "art",
-      "band": "prek-k",
-      "title": "Draw something real by looking",
-      "goal": "Looking closely and translating what is seen into marks.",
-      "do": "Put one real object in front of the child (a shoe, a leaf, a toy animal). Ask what shapes they can see in it, then have them draw it while looking back at it often.",
-      "easier": "Trace around the object first, then add what is inside the outline.",
-      "harder": "Draw it again from another side; add shading or texture; draw a person who is sitting for them.",
-      "materials": "Paper, pencil, a real object.",
-      "minutes": 10,
-      "cadence": "weekly",
-      "evidence": [
-        "grissmer-2010",
-        "winner-2013"
-      ],
-      "grade": "plausible",
-      "why": "No reviewed evidence for wider benefits. It practises pencil control and careful observation.",
-      "notice": "Does the child look back at the object while drawing?",
-      "safety": "Ordinary adult supervision."
-    },
-    {
-      "id": "art-cut-fold-construct",
-      "area": "art",
-      "band": "prek-k",
-      "title": "Cut, fold and build with paper and card",
-      "goal": "Tool control and turning flat material into a form.",
-      "do": "Give the child scissors, tape and card, and a goal they choose: a mask, a crown, a box, a paper aeroplane. Help only with steps they cannot physically do.",
-      "easier": "Cut and stick a collage.",
-      "harder": "Follow folding steps from pictures; make something that has to stand up or hold weight.",
-      "materials": "Card, paper, child scissors, tape, glue.",
-      "minutes": 15,
-      "cadence": "weekly",
-      "evidence": [
-        "grissmer-2010"
-      ],
-      "grade": "plausible",
-      "why": "No reviewed evidence beyond the general association between fine motor skill and later achievement. Overlaps with building.",
-      "notice": "How does the child solve the join or the fold when it fails the first time?",
-      "safety": "Supervise scissors."
-    },
-    {
-      "id": "art-look-and-talk",
-      "area": "art",
-      "band": "prek-k",
-      "title": "Look at a picture and say what is going on",
-      "goal": "Describing, inferring and backing up an opinion.",
-      "do": "Look at one painting, photograph or illustration together. Ask \"What is going on here?\", then \"What do you see that makes you say that?\", then \"What else can you find?\"",
-      "easier": "Name things in the picture and their colours.",
-      "harder": "Compare two pictures of the same subject; guess what happened just before.",
-      "materials": "Art books, museum visits, or good picture-book illustrations.",
-      "minutes": 5,
-      "cadence": "weekly",
-      "evidence": [
-        "winner-2013"
-      ],
-      "grade": "plausible",
-      "why": "No reviewed evidence for this routine at this age. It is a conversation that requires giving reasons.",
-      "notice": "Does the child point to evidence in the picture for what they say?",
-      "safety": "Ordinary adult supervision."
-    },
-    {
-      "id": "music-steady-beat",
-      "area": "music",
-      "band": "prek-k",
-      "title": "Keep a steady beat and echo rhythms",
-      "goal": "Feeling and keeping a pulse; hearing and reproducing a pattern.",
-      "do": "Put on music with a clear beat and clap, march or drum along together. Then clap a short rhythm for the child to echo, and swap roles.",
-      "easier": "Bounce or march to the beat while you hold their hands.",
-      "harder": "Keep the beat as the music speeds up or slows down; echo longer patterns; keep a beat while you clap a different rhythm.",
-      "materials": "Any music; a drum, pot or lap.",
-      "minutes": 5,
-      "cadence": "3-4 times a week",
-      "evidence": [
-        "woodruff-2014",
-        "sala-2020"
-      ],
-      "grade": "plausible",
-      "why": "Beat-keeping is correlated with pre-reading skills in one small study, and music training has not been shown to raise other abilities. Do it for the musical skill.",
-      "notice": "Can the child stay with the beat, or do they drift ahead?",
-      "safety": "Ordinary adult supervision."
-    },
-    {
-      "id": "music-sing-daily",
-      "area": "music",
-      "band": "prek-k",
-      "title": "Sing a growing set of songs",
-      "goal": "Pitch matching, memory for words and melody, and enjoyment.",
-      "do": "Sing together every day: in the car, at clean-up, at bedtime. Add a new song every week or two and keep the old ones in rotation.",
-      "easier": "Sing the last word of each line and let the child fill it in.",
-      "harder": "The child starts the song alone; sing a round or a call-and-response; make up a new verse.",
-      "materials": "None.",
-      "minutes": 5,
-      "cadence": "daily",
-      "evidence": [
-        "winner-2013",
-        "sala-2020"
-      ],
-      "grade": "plausible",
-      "why": "No reviewed evidence of wider benefit from singing at home. Rhyming songs add some sound-play practice.",
-      "notice": "Is the child matching the tune or chanting the words?",
-      "safety": "Ordinary adult supervision."
-    },
-    {
-      "id": "music-make-together",
-      "area": "music",
-      "band": "prek-k",
-      "title": "Make music together as a family",
-      "goal": "Coordinating with other people in time.",
-      "do": "Play, sing or dance together as a group, with siblings included. Take turns leading: the leader sets the beat or the move and everyone follows.",
-      "easier": "Free dancing to a favourite song.",
-      "harder": "Start and stop together on a signal; play loud and soft together; each person keeps a different part.",
-      "materials": "Shakers, drums, pots, voices.",
-      "minutes": 10,
-      "cadence": "weekly",
-      "evidence": [
-        "kirschner-2010"
-      ],
-      "grade": "plausible",
-      "why": "One lab study found four-year-olds more helpful to each other straight after making music together, and a later field study reportedly did not. Treat any social benefit as unproven.",
-      "notice": "Can the child follow another person's lead as well as lead?",
-      "safety": "Ordinary adult supervision."
-    },
-    {
-      "id": "music-instrument-exposure",
-      "area": "music",
-      "band": "prek-k",
-      "title": "Explore a real instrument",
-      "goal": "Finding out how an instrument makes high, low, loud and soft sounds.",
-      "do": "Give the child regular free access to a real instrument such as a keyboard, ukulele or xylophone. Show how to make a sound, then let them explore. Pick out a tune they know by ear together.",
-      "easier": "Find the highest and the lowest sound.",
-      "harder": "Play a three-note tune from memory; copy a short phrase you play; start formal lessons if the child asks and will practise.",
-      "materials": "Keyboard, ukulele, xylophone or recorder.",
-      "minutes": 10,
-      "cadence": "2-3 times a week",
-      "evidence": [
-        "schellenberg-2004",
-        "sala-2020"
-      ],
-      "grade": "plausible",
-      "why": "The claim that lessons raise intelligence does not hold up in controlled studies. Lessons are worth it if the child wants to play music.",
-      "notice": "Does the child return to the instrument unprompted?",
-      "safety": "Ordinary adult supervision."
-    },
-    {
       "id": "movement-throw-catch",
       "area": "movement",
       "band": "prek-k",
@@ -641,7 +487,8 @@
       "evidence": [
         "logan-2012",
         "stodden-2008",
-        "robinson-2015"
+        "robinson-2015",
+        "wick-2017"
       ],
       "grade": "tested",
       "why": "Fundamental movement skills improve with instruction and practice and did not improve with free play alone. Children who have them stay more active.",
@@ -747,7 +594,10 @@
       "evidence": [
         "aap-sports-2019",
         "aap-specialization-2016",
-        "stodden-2008"
+        "stodden-2008",
+        "eime-2013",
+        "visek-2015",
+        "gullich-2022"
       ],
       "grade": "adapted",
       "why": "Paediatric guidance favours fun, skills and several sports over early competition and specialization. Many children under 6 are not yet ready for team tactics, so expect to coach skills more than strategy.",
@@ -767,7 +617,8 @@
       "minutes": 30,
       "cadence": "weekly",
       "evidence": [
-        "brussoni-2015"
+        "brussoni-2015",
+        "sandseter-2011"
       ],
       "grade": "adapted",
       "why": "Risky outdoor play is associated with more physical activity and better social health, with no increase in fractures from play at height. The evidence is observational.",
@@ -788,10 +639,12 @@
       "cadence": "whenever it comes up",
       "evidence": [
         "leonard-2021",
-        "vasquez-2016"
+        "vasquez-2016",
+        "obradovic-2021",
+        "perry-2018"
       ],
       "grade": "tested",
-      "why": "Four- and five-year-olds persisted less after an adult took over a hard task than after an adult taught or did nothing. Lab finding with immediate effects.",
+      "why": "Four- and five-year-olds persisted less after an adult took over a hard task than after an adult taught or did nothing (`leonard-2021`). Parents who kept directing an already engaged kindergartner had children with poorer self-regulation (`obradovic-2021`), and overcontrol at 2 predicted poorer regulation at 5 (`perry-2018`); those two are correlational.",
       "notice": "How long does the child try before asking for help? Does that time grow?",
       "safety": "Ordinary adult supervision."
     },
@@ -809,10 +662,13 @@
       "cadence": "daily, in passing",
       "evidence": [
         "gunderson-2013",
-        "sisk-2018"
+        "sisk-2018",
+        "mueller-dweck-1998",
+        "brummelman-2014",
+        "li-bates-2019"
       ],
       "grade": "adapted",
-      "why": "Praise for effort predicts later beliefs about ability in one small study. Mindset effects on achievement are very small, so treat this as a cheap habit, not a lever.",
+      "why": "Praise for intelligence led older children to persist less after failure than praise for effort (`mueller-dweck-1998`), but replications have failed (`li-bates-2019`) and mindset effects on achievement are very small (`sisk-2018`). Inflated praise backfired for children with low self-esteem (`brummelman-2014`). Treat specific, accurate praise as a cheap habit, not a lever.",
       "notice": "Does the child start describing their own strategies?",
       "safety": "Ordinary adult supervision."
     },
@@ -872,10 +728,12 @@
       "cadence": "weekly",
       "evidence": [
         "vasquez-2016",
-        "leonard-2021"
+        "leonard-2021",
+        "rapee-2005",
+        "lebowitz-2020"
       ],
-      "grade": "plausible",
-      "why": "No reviewed study tests this routine in typical children. It combines autonomy support with not taking over. Graded exposure is established for clinical anxiety, which this project has not reviewed.",
+      "grade": "adapted",
+      "why": "Teaching parents of very shy preschoolers to reduce overprotection and encourage gradual steps toward feared situations cut later anxiety diagnoses (`rapee-2005`), and a parent-only program that reduced accommodation of anxiety matched therapy for older children (`lebowitz-2020`). Both are trials in children selected for shyness or anxiety; the weekly routine for a typical child is an adaptation.",
       "notice": "Does the before-and-after gap in fear shrink over repeats?",
       "safety": "The child chooses and can decline. Do not force. Persistent, impairing fear is a question for the child's clinician."
     },
@@ -913,10 +771,14 @@
       "cadence": "daily",
       "evidence": [
         "white-2019",
-        "tepper-2022"
+        "tepper-2022",
+        "bryan-2014",
+        "foster-hanson-2020",
+        "warneken-2008",
+        "randolph-2023"
       ],
       "grade": "adapted",
-      "why": "Chores in kindergarten are associated with later self-competence and prosocial behaviour. The evidence is correlational and not all studies agree.",
+      "why": "Chores in kindergarten are associated with later self-competence (`white-2019`), but not all studies agree. In experiments, asking children to 'be a helper' raised helping (`bryan-2014`) but made them give up more after a setback (`foster-hanson-2020`), and material rewards reduced toddlers' later helping (`warneken-2008`). So ask them to help, do not pay with things, and expect the job daily.",
       "notice": "How many reminders does it take? Does the child check their own work?",
       "safety": "Ordinary adult supervision."
     },
@@ -996,7 +858,9 @@
       "cadence": "2-3 times a week",
       "evidence": [
         "vanderhorst-2014",
-        "hersch-2014"
+        "hersch-2014",
+        "allirot-2016",
+        "decosta-2017"
       ],
       "grade": "adapted",
       "why": "Children who helped cook ate more of the meal, salad especially, in one experiment with 6-10-year-olds. Evidence at this age is thin.",
@@ -1050,17 +914,20 @@
       "band": "prek-k",
       "title": "Taste and describe a new food",
       "goal": "Willingness to try unfamiliar foods, and words for taste and texture.",
-      "do": "Offer a small taste of one new or disliked food alongside familiar food. The child smells it, touches it, tastes it if willing, and describes it (crunchy, sour, bitter, soft). No pressure to finish, and offer it again another day.",
+      "do": "Pick one vegetable the child does not like. Offer a small taste of it every day for about two weeks, alongside familiar food. The child smells it, touches it, tastes it and describes it (crunchy, sour, bitter, soft). Do not pressure, bribe or ask them to finish it.",
       "easier": "Smell and touch only.",
       "harder": "Compare two varieties (two apples, two cheeses) and say which they prefer and why; choose a new vegetable at the shop to cook.",
       "materials": "A small portion of one new food.",
       "minutes": 5,
-      "cadence": "2-3 times a week",
+      "cadence": "daily for two weeks, then a new food",
       "evidence": [
-        "hersch-2014"
+        "hersch-2014",
+        "wardle-2003",
+        "galloway-2006",
+        "decosta-2017"
       ],
-      "grade": "plausible",
-      "why": "Research on repeated tasting exists but has not been reviewed for this library, so no claim is made about how many tries it takes.",
+      "grade": "tested",
+      "why": "In a randomised trial with children aged 2-6, a small daily taste of one vegetable for 14 days increased liking and intake of it, while nutrition information did nothing (`wardle-2003`). Pressure to eat reduced intake and caused negative comments (`galloway-2006`).",
       "notice": "Does refusal soften over repeated offers?",
       "safety": "Follow the family's allergy plan and cut foods to a safe size."
     },
@@ -1079,10 +946,13 @@
       "evidence": [
         "he-2015",
         "dankiw-2020",
-        "who-2019"
+        "who-2019",
+        "wu-2018",
+        "xiong-2017",
+        "ulset-2017"
       ],
       "grade": "adapted",
-      "why": "An extra 40 minutes outdoors a day reduced new cases of short-sightedness in a three-year trial of six-year-olds in China. Other benefits of outdoor time rest on weaker evidence.",
+      "why": "More time outdoors in daylight reduces the onset of short-sightedness in school-age children in trials (`he-2015`, `wu-2018`, `xiong-2017`). More outdoor time at daycare went with better working memory and attention from 4 to 7 (`ulset-2017`), a correlational finding.",
       "notice": "On which days does this not happen, and why?",
       "safety": "Sun protection, and clothing for cold and wet."
     },
@@ -1184,10 +1054,11 @@
       "evidence": [
         "verdine-2014",
         "uttal-2013",
-        "hawes-2022"
+        "hawes-2022",
+        "casey-2008"
       ],
-      "grade": "adapted",
-      "why": "Copying block constructions is the spatial skill most directly linked to early math in preschoolers, and spatial skills improve with practice.",
+      "grade": "tested",
+      "why": "A kindergarten block-building program, rated by the What Works Clearinghouse as a well-run randomised trial, improved spatial skills (`casey-2008`), and spatial training transfers to untrained spatial tasks (`uttal-2013`). Building from a model is related to early math (`verdine-2014`).",
       "notice": "Does the child check the model piece by piece, or build from a general impression?",
       "safety": "Small bricks are a choking hazard for younger siblings."
     },
@@ -1205,7 +1076,8 @@
       "cadence": "2-3 times a week",
       "evidence": [
         "levine-2012",
-        "uttal-2013"
+        "uttal-2013",
+        "jirout-newcombe-2015"
       ],
       "grade": "adapted",
       "why": "Puzzle play in the preschool years predicts later spatial skill, and spatial skills are trainable. The puzzle evidence is correlational.",
@@ -1291,7 +1163,9 @@
       "evidence": [
         "byers-2013",
         "kuhl-2003",
-        "hartshorne-2018"
+        "hartshorne-2018",
+        "ferjan-ramirez-2017",
+        "hoff-2012"
       ],
       "grade": "adapted",
       "why": "How well a language is learned depends on the amount and quality of live exposure. Starting before about 10 leaves native-like grammar within reach. Do this because the language matters to the family; a general cognitive benefit is not supported.",
@@ -1337,6 +1211,473 @@
       "grade": "plausible",
       "why": "No reviewed study tests this for second-language learners at this age. Infants learned a new language's sounds from a live person and not from recordings, so the adult matters more than the media.",
       "notice": "Which words does the child recognise on a second reading?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "art-open-materials",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Make something with no model to copy",
+      "goal": "Choosing, planning and making for its own sake.",
+      "do": "Set out real materials and no example to copy. Let the child decide what to make. Describe what you see (\"you used long blue lines here\") in place of judging it, and ask them to tell you about it.",
+      "easier": "Two materials and a large sheet of paper.",
+      "harder": "Plan first (\"what will you make, and what do you need?\"); return to the same piece the next day; combine materials.",
+      "materials": "Paint, clay, collage scraps, glue, cardboard, tape.",
+      "minutes": 20,
+      "cadence": "weekly",
+      "evidence": [
+        "rose-2006",
+        "brummelman-2014",
+        "winner-2013"
+      ],
+      "grade": "plausible",
+      "why": "No study tests this routine. Drawing tends to decline with age, and the adults around a child shape whether it continues (`rose-2006`). Describing rather than gushing matters: inflated praise for a drawing led children with low self-esteem to avoid harder tasks (`brummelman-2014`).",
+      "notice": "Does the child plan, or discover as they go? How long do they stay with it?",
+      "safety": "Check that materials are non-toxic. Keep small collage pieces from younger siblings."
+    },
+    {
+      "id": "art-new-medium",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Try a new medium each month",
+      "goal": "Breadth: meeting materials and techniques the child would not choose alone.",
+      "do": "Once a month, introduce one medium the child has not used: watercolour, clay, printmaking with cut vegetables, charcoal, weaving, photography with an old phone. Show the one technique it needs, then let them explore it over a few sessions.",
+      "easier": "One short session with you working alongside.",
+      "harder": "Make a finished piece in the new medium; combine it with a medium they already know; teach the technique to someone else.",
+      "materials": "Changes monthly; most cost little.",
+      "minutes": 20,
+      "cadence": "weekly, new medium monthly",
+      "evidence": [
+        "hidi-renninger-2006",
+        "rose-2006"
+      ],
+      "grade": "plausible",
+      "why": "No study tests rotating media. Interest begins as something triggered from outside and needs support before it becomes the child's own (`hidi-renninger-2006`), so the adult's job is to supply new triggers and notice which ones hold.",
+      "notice": "Which media does the child return to unprompted?",
+      "safety": "Ventilate for paints and glues; supervise any cutting tools."
+    },
+    {
+      "id": "art-observational-drawing",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Draw something real by looking",
+      "goal": "Looking closely and translating what is seen into marks.",
+      "do": "Put one real object in front of the child (a shoe, a leaf, a toy animal). Ask what shapes they can see in it, then have them draw it while looking back at it often.",
+      "easier": "Trace around the object first, then add what is inside the outline.",
+      "harder": "Draw it again from another side; add shading or texture; draw a person who is sitting for them.",
+      "materials": "Paper, pencil, a real object.",
+      "minutes": 10,
+      "cadence": "weekly",
+      "evidence": [
+        "fan-2023",
+        "grissmer-2010"
+      ],
+      "grade": "plausible",
+      "why": "Drawing from observation draws on perception and memory (`fan-2023`) and practises pencil control. No study tests it for wider benefit at this age.",
+      "notice": "Does the child look back at the object while drawing?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "art-draw-to-remember",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Draw it, then tell it",
+      "goal": "Recalling and organising an experience, and giving it a form.",
+      "do": "After an outing or event, the child draws what happened and then tells you about the drawing. Write one sentence of their words under it. Keep the drawings in a book they can look back at.",
+      "easier": "Draw one thing they saw.",
+      "harder": "Draw it as a sequence of three pictures; the child writes the caption by sound.",
+      "materials": "Paper or a sketchbook, pencils.",
+      "minutes": 10,
+      "cadence": "weekly",
+      "evidence": [
+        "butler-1995",
+        "fan-2023"
+      ],
+      "grade": "adapted",
+      "why": "Five- and six-year-olds who drew while describing an outing reported more correct information than those who only talked (`butler-1995`). One lab study; the home routine is an adaptation.",
+      "notice": "Does the drawing help the child tell more, or in better order?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "art-cut-fold-construct",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Cut, fold and build with paper and card",
+      "goal": "Tool control and turning flat material into a form.",
+      "do": "Give the child scissors, tape and card, and a goal they choose: a mask, a crown, a box, a paper aeroplane. Help only with steps they cannot physically do.",
+      "easier": "Cut and stick a collage.",
+      "harder": "Follow folding steps from pictures; make something that has to stand up or hold weight.",
+      "materials": "Card, paper, child scissors, tape, glue.",
+      "minutes": 15,
+      "cadence": "weekly",
+      "evidence": [
+        "grissmer-2010"
+      ],
+      "grade": "plausible",
+      "why": "No reviewed evidence beyond the general association between fine motor skill and later achievement. Overlaps with building.",
+      "notice": "How does the child solve the join or the fold when it fails the first time?",
+      "safety": "Supervise scissors."
+    },
+    {
+      "id": "art-look-and-talk",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Look at a picture and say what is going on",
+      "goal": "Describing, inferring and backing up an opinion.",
+      "do": "Look at one painting, photograph or illustration together. Ask \"What is going on here?\", then \"What do you see that makes you say that?\", then \"What else can you find?\"",
+      "easier": "Name things in the picture and their colours.",
+      "harder": "Compare two pictures of the same subject; guess what happened just before.",
+      "materials": "Art books, museum websites, or good picture-book illustrations.",
+      "minutes": 5,
+      "cadence": "weekly",
+      "evidence": [
+        "bowen-2014"
+      ],
+      "grade": "adapted",
+      "why": "After a guided museum visit built around discussing real paintings, students wrote about an unfamiliar painting with more critical-thinking strategies (`bowen-2014`). That trial was with older children and included the visit itself.",
+      "notice": "Does the child point to evidence in the picture for what they say?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "art-museum-visit",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Visit a gallery or museum with a plan",
+      "goal": "Seeing real art, and practice looking for longer than a glance.",
+      "do": "Once a month, visit a gallery, museum or public art. Pick three works only. At each one, use the look-and-talk questions, then let the child choose one to draw or act out at home.",
+      "easier": "Ten minutes, one room, one work the child picks.",
+      "harder": "The child plans the route from a map; compare two works by the same artist; tell a sibling about one piece.",
+      "materials": "A local art museum, many free; a sketchbook.",
+      "minutes": 60,
+      "cadence": "monthly",
+      "evidence": [
+        "bowen-2014",
+        "bowen-2023"
+      ],
+      "grade": "adapted",
+      "why": "A lottery-assigned museum visit improved critical thinking about art, most for younger and disadvantaged students (`bowen-2014`), and more school arts learning reduced discipline problems and raised writing and empathy (`bowen-2023`). Both concern school programs with older children.",
+      "notice": "Which works hold the child's attention, and what do they say about them a week later?",
+      "safety": "Keep hands off the art and stay together in crowds."
+    },
+    {
+      "id": "art-drama-games",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Play drama games",
+      "goal": "Controlling emotions and the body on purpose, through pretending.",
+      "do": "Play short theatre games: freeze in a shape on a signal, walk like a character who is happy, then scared, then sneaky; show a feeling with only your face; pass an imaginary object round and change what it is. Take turns being the director.",
+      "easier": "Copy the adult's character before inventing one.",
+      "harder": "Switch emotions quickly on a cue; hold a character while someone tries to make them laugh; act a feeling and let others guess.",
+      "materials": "Space to move; a few props.",
+      "minutes": 10,
+      "cadence": "2-3 times a week",
+      "evidence": [
+        "goldstein-2018",
+        "lillard-2013"
+      ],
+      "grade": "tested",
+      "why": "In a randomised trial, eight weeks of dramatic pretend play games improved emotional self-control in 4- to 6-year-olds, while block play and storytime did not; there was no effect on empathy or social skills (`goldstein-2018`). That was a class with a teacher, so home doses are untested.",
+      "notice": "Can the child hold a character, or a freeze, when they want to laugh or move?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "art-act-out-stories",
+      "area": "art",
+      "band": "prek-k",
+      "title": "Act out a story",
+      "goal": "Retelling a story in order, in voices and actions.",
+      "do": "After reading a book with a clear plot, act it out together with simple props. The child chooses a role, then swaps. Keep to the story's order of events.",
+      "easier": "Act out one scene.",
+      "harder": "Perform it for the family; change the ending and act the new version; make a puppet show of it.",
+      "materials": "A picture book with a clear plot; dress-up items or puppets.",
+      "minutes": 15,
+      "cadence": "weekly",
+      "evidence": [
+        "podlozny-2000",
+        "mages-2008"
+      ],
+      "grade": "plausible",
+      "why": "Classroom drama has been linked with story recall and oral language, with larger effects for enacting a set plot (`podlozny-2000`), but a review found the studies too flawed to rely on (`mages-2008`).",
+      "notice": "Does the child keep the events in order, and use the book's words?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "art-live-performance",
+      "area": "art",
+      "band": "prek-k",
+      "title": "See live theatre or dance",
+      "goal": "Following a live story, and seeing other people's art made in front of them.",
+      "do": "Every month or two, see a live children's play, puppet show or dance performance. Afterwards, ask what happened, who they liked and why, and what they would change.",
+      "easier": "A 30-minute show; library or park performances.",
+      "harder": "Retell the plot in order; act out a favourite scene at home; see the book version and compare.",
+      "materials": "Local children's theatre, library and park programs.",
+      "minutes": 60,
+      "cadence": "every month or two",
+      "evidence": [
+        "greene-2017"
+      ],
+      "grade": "adapted",
+      "why": "In five lottery experiments, school students who saw live theatre gained in tolerance, perspective taking and knowledge of the plot, while those who saw the film did not (`greene-2017`). School-age children; not tested at 4-6.",
+      "notice": "Can the child retell the plot? Do they talk about why characters acted as they did?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-steady-beat",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Keep a steady beat and echo rhythms",
+      "goal": "Feeling and keeping a pulse; hearing and reproducing a pattern.",
+      "do": "Put on music with a clear beat and clap, march or drum along together. Then clap a short rhythm for the child to echo, and swap roles. Clap the syllables of names and words (\"but-ter-fly\", \"wa-ter-mel-on\").",
+      "easier": "Bounce or march to the beat while you hold their hands.",
+      "harder": "Keep the beat as the music speeds up or slows down; echo longer patterns; keep a beat while you clap a different rhythm.",
+      "materials": "Any music; a drum, pot or lap.",
+      "minutes": 5,
+      "cadence": "3-4 times a week",
+      "evidence": [
+        "dege-2011",
+        "woodruff-2014",
+        "neves-2022"
+      ],
+      "grade": "adapted",
+      "why": "In a small randomised trial, a preschool music program improved 5- and 6-year-olds' awareness of words and syllables as much as a phonological program (`dege-2011`), and beat-keeping goes with better neural encoding of speech (`woodruff-2014`). The home routine is an adaptation; do it first for the musical skill.",
+      "notice": "Can the child stay with the beat, or do they drift ahead?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-sing-daily",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Sing a growing set of songs",
+      "goal": "Singing in tune, memory for words and melody, and enjoyment.",
+      "do": "Sing together every day: in the car, at clean-up, at bedtime. Add a new song every week or two and keep the old ones in rotation.",
+      "easier": "Sing the last word of each line and let the child fill it in.",
+      "harder": "The child starts the song alone; sing a round or a call-and-response; make up a new verse.",
+      "materials": "None.",
+      "minutes": 5,
+      "cadence": "daily",
+      "evidence": [
+        "demorest-2015",
+        "williams-2015",
+        "ilari-2016"
+      ],
+      "grade": "adapted",
+      "why": "Singing accuracy improves through the elementary years, and adults who stop singing sing about as accurately as kindergartners (`demorest-2015`); children without music instruction declined in singing over a year (`ilari-2016`). Shared home music at 2-3 had small associations with later skills (`williams-2015`). Correlational and cross-sectional evidence.",
+      "notice": "Is the child matching the tune or chanting the words?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-pitch-match",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Sing back a note, then a tune",
+      "goal": "Hearing a pitch and matching it with the voice.",
+      "do": "Sing one note on a syllable (\"la\") and have the child sing it back. Then a slide up, a slide down, then a three-note pattern. Swap roles so the child leads. Use a keyboard note if your own voice wanders.",
+      "easier": "Match a sound in their own comfortable range; use a siren slide rather than a fixed note.",
+      "harder": "Five-note patterns; echo the first line of a song; find the note on a keyboard.",
+      "materials": "Voice; optionally a keyboard or a tuner app.",
+      "minutes": 5,
+      "cadence": "3-4 times a week",
+      "evidence": [
+        "demorest-2015",
+        "ilari-2016"
+      ],
+      "grade": "plausible",
+      "why": "No study tests this exact game. Singing accuracy is a skill that improves with use and declines without it (`demorest-2015`).",
+      "notice": "Does the child land on the note, or near it? Is it better on slides than fixed notes?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-make-together",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Make music together as a family",
+      "goal": "Coordinating with other people in time.",
+      "do": "Play, sing or dance together as a group, with siblings included. Take turns leading: the leader sets the beat or the move and everyone follows.",
+      "easier": "Free dancing to a favourite song.",
+      "harder": "Start and stop together on a signal; play loud and soft together; each person keeps a different part.",
+      "materials": "Shakers, drums, pots, voices.",
+      "minutes": 10,
+      "cadence": "weekly",
+      "evidence": [
+        "kirschner-2010",
+        "rabinowitch-2013",
+        "williams-2015"
+      ],
+      "grade": "adapted",
+      "why": "Four-year-olds helped and cooperated more straight after making music together than after a matched non-musical game (`kirschner-2010`), and a school year of musical group games raised older children's empathy (`rabinowitch-2013`). Short-term lab effects and a small study; durable effects are unproven.",
+      "notice": "Can the child follow another person's lead as well as lead?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-group-class",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Join a group music class",
+      "goal": "Making music with other children and a teacher, outside the family.",
+      "do": "Enrol in a weekly group class for this age: a children's band, choir, rhythm or general music class. Ask what the class does at home between sessions and do some of it.",
+      "easier": "A parent-and-child class.",
+      "harder": "A class with performances; a class built around one instrument.",
+      "materials": "A local music school or community class.",
+      "minutes": 45,
+      "cadence": "weekly",
+      "evidence": [
+        "brown-2017",
+        "williams-2015",
+        "mehr-2013"
+      ],
+      "grade": "adapted",
+      "why": "Preschoolers had lower stress hormone after music, dance and art classes than after ordinary classes (`brown-2017`). Brief preschool music classes did not raise spatial, language or number skills (`mehr-2013`), so choose a class for the music and the enjoyment.",
+      "notice": "Does the child sing or play what they learned at home, unprompted?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-listen-widely",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Listen to something new each week",
+      "goal": "Breadth: hearing many kinds of music and naming what is in it.",
+      "do": "Each week, put on one piece from a style or tradition the child has not heard: a symphony movement, jazz, a West African drum ensemble, a sitar raga, bluegrass. Name one instrument to listen for. Ask whether it sounds happy, sad, fast, slow, and why.",
+      "easier": "Two minutes, with movement allowed.",
+      "harder": "Pick out two instruments; compare two pieces; draw what the music sounds like; choose next week's piece from two options.",
+      "materials": "A streaming service or library recordings.",
+      "minutes": 5,
+      "cadence": "weekly",
+      "evidence": [
+        "hidi-renninger-2006"
+      ],
+      "grade": "plausible",
+      "why": "No study tests wide listening at this age. It supplies the new triggers that early interest depends on (`hidi-renninger-2006`).",
+      "notice": "Which pieces does the child ask to hear again?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-move-to-music",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Dance and freeze to music",
+      "goal": "Moving in time, and stopping and starting on a musical cue.",
+      "do": "Play music and dance freely; when the music stops, everyone freezes. Then dance fast for fast music and slow for slow, big for loud and small for quiet.",
+      "easier": "Free dancing only.",
+      "harder": "Freeze in a named shape or animal; move only when a particular instrument plays.",
+      "materials": "Any music and some space.",
+      "minutes": 10,
+      "cadence": "2-3 times a week",
+      "evidence": [
+        "brown-2017",
+        "lobo-2006"
+      ],
+      "grade": "plausible",
+      "why": "A small trial of a creative dance program found no significant gain in social competence (`lobo-2006`). Do it for the movement and the musical listening.",
+      "notice": "Does the child react to changes in the music, or only to it stopping?",
+      "safety": "Clear the floor of trip hazards."
+    },
+    {
+      "id": "music-live-music",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Hear live music",
+      "goal": "Seeing and hearing instruments played by people in front of them.",
+      "do": "Every month or two, go to a free children's concert, an outdoor concert, a church or school performance, or a busker. Sit close enough to see the instruments. Afterwards, ask which instrument they liked and why.",
+      "easier": "Ten minutes of an outdoor concert.",
+      "harder": "Learn the name and family of each instrument; meet a musician and ask a question.",
+      "materials": "Library, park, school and orchestra family concerts.",
+      "minutes": 45,
+      "cadence": "every month or two",
+      "evidence": [
+        "greene-2017",
+        "hidi-renninger-2006"
+      ],
+      "grade": "plausible",
+      "why": "No study tests concerts at this age. A live theatre trial with older students (`greene-2017`) suggests live performance can do things a recording does not.",
+      "notice": "Which instrument does the child talk about afterwards?",
+      "safety": "Use ear protection for loud venues."
+    },
+    {
+      "id": "music-instrument-exposure",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Explore a real instrument",
+      "goal": "Finding out how an instrument makes high, low, loud and soft sounds.",
+      "do": "Give the child regular free access to a real instrument such as a keyboard, ukulele or xylophone. Show how to make a sound, then let them explore. Pick out a tune they know by ear together.",
+      "easier": "Find the highest and the lowest sound.",
+      "harder": "Play a three-note tune from memory; copy a short phrase you play.",
+      "materials": "Keyboard, ukulele, xylophone or recorder.",
+      "minutes": 10,
+      "cadence": "2-3 times a week",
+      "evidence": [
+        "hyde-2009",
+        "costa-giomi-1999"
+      ],
+      "grade": "plausible",
+      "why": "Children's brains adapt to the instrument skill they practise (`hyde-2009`), but piano lessons did not leave a lasting advantage in other abilities (`costa-giomi-1999`). Do it to learn the instrument.",
+      "notice": "Does the child return to the instrument unprompted?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "music-lessons-decision",
+      "area": "music",
+      "band": "prek-k",
+      "title": "Decide on formal lessons",
+      "goal": "Starting individual instrument lessons at a point where they are likely to stick.",
+      "do": "Wait for signs: the child asks repeatedly, returns to an instrument unprompted, and can attend for 15 minutes. Then book a short trial term with a teacher who teaches young children. At home, practise little and often, and focus on how: slow down the hard bar, play it three times right, then put it back in the piece.",
+      "easier": "Keep exploring and group class; revisit in three months.",
+      "harder": "A full term with a small performance at the end; the child keeps a practice chart.",
+      "materials": "A teacher and an instrument sized for the child.",
+      "minutes": 15,
+      "cadence": "practice 4-5 days a week once started",
+      "evidence": [
+        "mcpherson-2005",
+        "macnamara-2014",
+        "sala-2020",
+        "roman-caballero-2022"
+      ],
+      "grade": "adapted",
+      "why": "Practice explains about a fifth of differences in music performance (`macnamara-2014`), and how beginners practise predicts progress more than how long (`mcpherson-2005`). Whether lessons help other skills is contested (`sala-2020` against `roman-caballero-2022`); do not start them for that.",
+      "notice": "Does the child practise without reminders after the first month?",
+      "safety": "Ordinary adult supervision."
+    },
+    {
+      "id": "sel-try-new-activity",
+      "area": "social-emotional",
+      "band": "prek-k",
+      "title": "Sample a new activity each season",
+      "goal": "Breadth: trying unfamiliar activities before settling on a few.",
+      "do": "Each season, sign up for one short taster of something the child has not done: a sport, a dance style, an art class, a music class, a nature program, chess, swimming. Commit to finishing the taster, then decide together whether to continue.",
+      "easier": "A single drop-in session.",
+      "harder": "The child chooses from a list of three; keep one activity going while sampling another.",
+      "materials": "Community centre, library and parks programs.",
+      "minutes": 45,
+      "cadence": "weekly, new taster each season",
+      "evidence": [
+        "gullich-2022",
+        "mahoney-2006",
+        "hidi-renninger-2006"
+      ],
+      "grade": "adapted",
+      "why": "World-class athletes did more varied sport in childhood and specialised later than national-level ones (`gullich-2022`), and organised activities go with better outcomes while true over-scheduling is rare (`mahoney-2006`). Both are correlational and about older children.",
+      "notice": "Which activities does the child ask to go back to? Which do they want to stop, and why?",
+      "safety": "Check coach and instructor safety practices."
+    },
+    {
+      "id": "science-follow-the-interest",
+      "area": "science",
+      "band": "prek-k",
+      "title": "Go deep on a passion",
+      "goal": "Turning an intense interest into knowledge, questions and skills.",
+      "do": "When the child is fixated on a topic (dinosaurs, trucks, space, sharks), feed it: library nonfiction, a museum, a documentary, an expert to ask. Then use it as a doorway: count the dinosaurs, draw them, sort them by period, write labels, build a model.",
+      "easier": "One book and one conversation.",
+      "harder": "The child asks a question you cannot answer and you find out together; they make a book or a talk about it for the family.",
+      "materials": "Library, museums, the topic itself.",
+      "minutes": 20,
+      "cadence": "weekly while the interest lasts",
+      "evidence": [
+        "deloache-2007",
+        "alexander-2012",
+        "shah-2018"
+      ],
+      "grade": "adapted",
+      "why": "Nearly a third of young children have an intense interest (`deloache-2007`), early science interests are sustained when families supply chances to learn (`alexander-2012`), and curiosity predicts kindergarten reading and math (`shah-2018`). Correlational evidence.",
+      "notice": "Does the child generate new questions, or just repeat known facts?",
       "safety": "Ordinary adult supervision."
     }
   ]

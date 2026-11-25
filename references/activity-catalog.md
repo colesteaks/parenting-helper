@@ -13,17 +13,17 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 | Area | Activities | Tested | Adapted | Plausible |
 | --- | --- | --- | --- | --- |
 | [Reading](#reading) | 6 | 4 | 2 | 0 |
-| [Writing](#writing) | 5 | 0 | 4 | 1 |
+| [Writing](#writing) | 5 | 1 | 3 | 1 |
 | [Math](#math) | 6 | 2 | 4 | 0 |
-| [Science](#science) | 4 | 1 | 2 | 1 |
-| [Art](#art) | 4 | 0 | 0 | 4 |
-| [Music](#music) | 4 | 0 | 0 | 4 |
+| [Science](#science) | 5 | 1 | 3 | 1 |
+| [Art](#art) | 10 | 1 | 4 | 5 |
+| [Music](#music) | 10 | 0 | 5 | 5 |
 | [Movement and sports](#movement) | 7 | 5 | 2 | 0 |
-| [Social-emotional skills](#social-emotional) | 6 | 1 | 4 | 1 |
+| [Social-emotional skills](#social-emotional) | 7 | 1 | 6 | 0 |
 | [Practical life and independence](#practical-life) | 4 | 0 | 1 | 3 |
-| [Cooking](#cooking) | 4 | 0 | 1 | 3 |
+| [Cooking](#cooking) | 4 | 1 | 1 | 2 |
 | [Nature and outdoors](#nature) | 5 | 0 | 2 | 3 |
-| [Building and engineering](#building) | 5 | 0 | 3 | 2 |
+| [Building and engineering](#building) | 5 | 1 | 2 | 2 |
 | [Second language (optional)](#second-language) | 3 | 0 | 1 | 2 |
 
 <a id="reading"></a>
@@ -39,7 +39,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** You read a page first, then the child reads the same page back.
 - **Harder:** A new book read cold; books with two-syllable words and new vowel patterns; reread a page to beat yesterday's smoothness.
 - **Materials:** A decodable book series matched to the patterns the child knows.
-- **Why:** Daily reading of connected text and decoding by sounding out are the two rated recommendations for beginning readers; each word decoded is a learning trial. Sources: [`ies-foundational-2016`](research-sources.md#ies-foundational-2016), [`share-1995`](research-sources.md#share-1995), [`castles-2018`](research-sources.md#castles-2018).
+- **Why:** Daily reading of connected text and decoding by sounding out are the two rated recommendations for beginning readers; each word decoded is a learning trial. Sources: [`ies-foundational-2016`](research-sources.md#ies-foundational-2016), [`share-1995`](research-sources.md#share-1995), [`castles-2018`](research-sources.md#castles-2018), [`cheatham-allor-2012`](research-sources.md#cheatham-allor-2012).
 - **Notice:** Does the child sound out or guess? Which patterns cause stops? Do rereads get smoother?
 - **Safety:** Ordinary adult supervision.
 
@@ -52,7 +52,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Shorter picture books; let the child choose; ask about the pictures.
 - **Harder:** Chapter books with few pictures; before reading, the child retells yesterday's chapter; nonfiction on a topic they care about.
 - **Materials:** Library books. A mix of stories and nonfiction.
-- **Why:** Storybook exposure feeds vocabulary and comprehension, a separate path from decoding practice. Questioning style adds a modest amount at this age. Sources: [`senechal-2002`](research-sources.md#senechal-2002), [`mol-2008`](research-sources.md#mol-2008), [`nelp-2008`](research-sources.md#nelp-2008), [`castles-2018`](research-sources.md#castles-2018).
+- **Why:** Storybook exposure feeds vocabulary and comprehension, a separate path from decoding (`senechal-2002`). Trained shared-reading programs have only a small effect on language, near zero against active comparison activities (`noble-2019`), so the case rests on daily volume and enjoyment more than on technique. Sources: [`senechal-2002`](research-sources.md#senechal-2002), [`mol-2008`](research-sources.md#mol-2008), [`nelp-2008`](research-sources.md#nelp-2008), [`castles-2018`](research-sources.md#castles-2018), [`noble-2019`](research-sources.md#noble-2019), [`dowdall-2020`](research-sources.md#dowdall-2020).
 - **Notice:** Which new words reappear in the child's own talk? Can they retell the story in order?
 - **Safety:** Ordinary adult supervision.
 
@@ -114,14 +114,14 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 
 ### Write real messages, spelling by sound
 
-`writing-invented-spelling` · adapted · about 5 min · 3-4 times a week
+`writing-invented-spelling` · tested · about 5 min · 3-4 times a week
 
 - **Goal:** Encoding sounds into letters for a real purpose.
 - **Do:** Give the child a real reason to write: a label, a shopping-list item, a note to a sibling, a sign for a fort. They say the word slowly and write the sounds they hear. Accept the attempt as written. Afterwards you may show the conventional spelling of one word.
 - **Easier:** You say the word slowly, stretching each sound; the child writes only the first and last sounds.
 - **Harder:** A whole sentence with spaces; rereading it tomorrow; fixing one word using a pattern they know.
 - **Materials:** Paper, sticky notes, fat pencil or marker.
-- **Why:** Invented-spelling skill predicts later reading and spelling beyond sound awareness and letter knowledge. The home routine itself is an adaptation. Sources: [`ouellette-2017`](research-sources.md#ouellette-2017), [`nelp-2008`](research-sources.md#nelp-2008), [`ehri-2014`](research-sources.md#ehri-2014).
+- **Why:** In a randomised trial, kindergartners with weak sound awareness who practised spelling by sound, with feedback, learned to read more words than those given sound-segmentation training or storybooks (`senechal-2012`). Invented-spelling skill also predicts later reading and spelling (`ouellette-2017`). Sources: [`ouellette-2017`](research-sources.md#ouellette-2017), [`nelp-2008`](research-sources.md#nelp-2008), [`ehri-2014`](research-sources.md#ehri-2014), [`senechal-2012`](research-sources.md#senechal-2012), [`ouellette-2008`](research-sources.md#ouellette-2008), [`hall-2015`](research-sources.md#hall-2015).
 - **Notice:** How many sounds per word does the child represent? Are vowels appearing?
 - **Safety:** Ordinary adult supervision.
 
@@ -255,7 +255,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** ABAB with two colours.
 - **Harder:** AAB, ABC and ABB patterns; translate a colour pattern into claps; find the mistake in your pattern; growing patterns (1, 2, 3 blocks).
 - **Materials:** Blocks, beads, cutlery, or the body.
-- **Why:** Patterns are part of the recommended early-math content, though the evidence for teaching them is rated minimal. Sources: [`ies-math-2013`](research-sources.md#ies-math-2013), [`clements-2011`](research-sources.md#clements-2011).
+- **Why:** Patterns are part of the recommended early-math content, though the evidence for teaching them is rated minimal. Sources: [`ies-math-2013`](research-sources.md#ies-math-2013), [`clements-2011`](research-sources.md#clements-2011), [`rittle-johnson-2017`](research-sources.md#rittle-johnson-2017).
 - **Notice:** Can the child name the repeating unit, or only continue by eye?
 - **Safety:** Ordinary adult supervision.
 
@@ -285,7 +285,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Explore it alongside them, narrating what you notice.
 - **Harder:** The child shows a sibling or parent what it does and how they found out.
 - **Materials:** Any unfamiliar, safe object with more than one function.
-- **Why:** Direct demonstration of one function made preschoolers explore less and discover fewer other functions. This is a lab finding for one session; it argues for holding back at first, not for never teaching. Sources: [`bonawitz-2011`](research-sources.md#bonawitz-2011).
+- **Why:** Direct demonstration of one function made preschoolers explore less and discover fewer other functions. This is a lab finding for one session; it argues for holding back at first, not for never teaching. Sources: [`bonawitz-2011`](research-sources.md#bonawitz-2011), [`schulz-bonawitz-2007`](research-sources.md#schulz-bonawitz-2007).
 - **Notice:** How long does the child persist before asking for help? How many functions do they find?
 - **Safety:** Check the object for small parts, batteries and pinch points first.
 
@@ -298,7 +298,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Just answer the question properly instead of deflecting it.
 - **Harder:** The child proposes the test, or explains the answer to someone else the next day.
 - **Materials:** A magnifier and library nonfiction help.
-- **Why:** Preschoolers' questions are a real learning mechanism: they ask a great many, and persist until they get an informative answer. Sources: [`chouinard-2007`](research-sources.md#chouinard-2007), [`gopnik-2012`](research-sources.md#gopnik-2012).
+- **Why:** Preschoolers' questions are a real learning mechanism: they ask a great many, and persist until they get an informative answer. Sources: [`chouinard-2007`](research-sources.md#chouinard-2007), [`gopnik-2012`](research-sources.md#gopnik-2012), [`frazier-2009`](research-sources.md#frazier-2009), [`legare-2014`](research-sources.md#legare-2014).
 - **Notice:** Are the questions shifting from 'what' to 'why' and 'how'?
 - **Safety:** Ordinary adult supervision.
 
@@ -315,6 +315,19 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Notice:** Does the drawing show what is there, or what the child expects to be there?
 - **Safety:** Ordinary adult supervision.
 
+### Go deep on a passion
+
+`science-follow-the-interest` · adapted · about 20 min · weekly while the interest lasts
+
+- **Goal:** Turning an intense interest into knowledge, questions and skills.
+- **Do:** When the child is fixated on a topic (dinosaurs, trucks, space, sharks), feed it: library nonfiction, a museum, a documentary, an expert to ask. Then use it as a doorway: count the dinosaurs, draw them, sort them by period, write labels, build a model.
+- **Easier:** One book and one conversation.
+- **Harder:** The child asks a question you cannot answer and you find out together; they make a book or a talk about it for the family.
+- **Materials:** Library, museums, the topic itself.
+- **Why:** Nearly a third of young children have an intense interest (`deloache-2007`), early science interests are sustained when families supply chances to learn (`alexander-2012`), and curiosity predicts kindergarten reading and math (`shah-2018`). Correlational evidence. Sources: [`deloache-2007`](research-sources.md#deloache-2007), [`alexander-2012`](research-sources.md#alexander-2012), [`shah-2018`](research-sources.md#shah-2018).
+- **Notice:** Does the child generate new questions, or just repeat known facts?
+- **Safety:** Ordinary adult supervision.
+
 <a id="art"></a>
 
 ## Art
@@ -328,9 +341,22 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Two materials and a large sheet of paper.
 - **Harder:** Plan first ("what will you make, and what do you need?"); return to the same piece the next day; combine materials.
 - **Materials:** Paint, clay, collage scraps, glue, cardboard, tape.
-- **Why:** There is little evidence that art raises other skills. It is included for what it is: making choices, handling materials, and expressing an idea. Sources: [`winner-2013`](research-sources.md#winner-2013).
+- **Why:** No study tests this routine. Drawing tends to decline with age, and the adults around a child shape whether it continues (`rose-2006`). Describing rather than gushing matters: inflated praise for a drawing led children with low self-esteem to avoid harder tasks (`brummelman-2014`). Sources: [`rose-2006`](research-sources.md#rose-2006), [`brummelman-2014`](research-sources.md#brummelman-2014), [`winner-2013`](research-sources.md#winner-2013).
 - **Notice:** Does the child plan, or discover as they go? How long do they stay with it?
 - **Safety:** Check that materials are non-toxic. Keep small collage pieces from younger siblings.
+
+### Try a new medium each month
+
+`art-new-medium` · plausible · about 20 min · weekly, new medium monthly
+
+- **Goal:** Breadth: meeting materials and techniques the child would not choose alone.
+- **Do:** Once a month, introduce one medium the child has not used: watercolour, clay, printmaking with cut vegetables, charcoal, weaving, photography with an old phone. Show the one technique it needs, then let them explore it over a few sessions.
+- **Easier:** One short session with you working alongside.
+- **Harder:** Make a finished piece in the new medium; combine it with a medium they already know; teach the technique to someone else.
+- **Materials:** Changes monthly; most cost little.
+- **Why:** No study tests rotating media. Interest begins as something triggered from outside and needs support before it becomes the child's own (`hidi-renninger-2006`), so the adult's job is to supply new triggers and notice which ones hold. Sources: [`hidi-renninger-2006`](research-sources.md#hidi-renninger-2006), [`rose-2006`](research-sources.md#rose-2006).
+- **Notice:** Which media does the child return to unprompted?
+- **Safety:** Ventilate for paints and glues; supervise any cutting tools.
 
 ### Draw something real by looking
 
@@ -341,8 +367,21 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Trace around the object first, then add what is inside the outline.
 - **Harder:** Draw it again from another side; add shading or texture; draw a person who is sitting for them.
 - **Materials:** Paper, pencil, a real object.
-- **Why:** No reviewed evidence for wider benefits. It practises pencil control and careful observation. Sources: [`grissmer-2010`](research-sources.md#grissmer-2010), [`winner-2013`](research-sources.md#winner-2013).
+- **Why:** Drawing from observation draws on perception and memory (`fan-2023`) and practises pencil control. No study tests it for wider benefit at this age. Sources: [`fan-2023`](research-sources.md#fan-2023), [`grissmer-2010`](research-sources.md#grissmer-2010).
 - **Notice:** Does the child look back at the object while drawing?
+- **Safety:** Ordinary adult supervision.
+
+### Draw it, then tell it
+
+`art-draw-to-remember` · adapted · about 10 min · weekly
+
+- **Goal:** Recalling and organising an experience, and giving it a form.
+- **Do:** After an outing or event, the child draws what happened and then tells you about the drawing. Write one sentence of their words under it. Keep the drawings in a book they can look back at.
+- **Easier:** Draw one thing they saw.
+- **Harder:** Draw it as a sequence of three pictures; the child writes the caption by sound.
+- **Materials:** Paper or a sketchbook, pencils.
+- **Why:** Five- and six-year-olds who drew while describing an outing reported more correct information than those who only talked (`butler-1995`). One lab study; the home routine is an adaptation. Sources: [`butler-1995`](research-sources.md#butler-1995), [`fan-2023`](research-sources.md#fan-2023).
+- **Notice:** Does the drawing help the child tell more, or in better order?
 - **Safety:** Ordinary adult supervision.
 
 ### Cut, fold and build with paper and card
@@ -360,15 +399,67 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 
 ### Look at a picture and say what is going on
 
-`art-look-and-talk` · plausible · about 5 min · weekly
+`art-look-and-talk` · adapted · about 5 min · weekly
 
 - **Goal:** Describing, inferring and backing up an opinion.
 - **Do:** Look at one painting, photograph or illustration together. Ask "What is going on here?", then "What do you see that makes you say that?", then "What else can you find?"
 - **Easier:** Name things in the picture and their colours.
 - **Harder:** Compare two pictures of the same subject; guess what happened just before.
-- **Materials:** Art books, museum visits, or good picture-book illustrations.
-- **Why:** No reviewed evidence for this routine at this age. It is a conversation that requires giving reasons. Sources: [`winner-2013`](research-sources.md#winner-2013).
+- **Materials:** Art books, museum websites, or good picture-book illustrations.
+- **Why:** After a guided museum visit built around discussing real paintings, students wrote about an unfamiliar painting with more critical-thinking strategies (`bowen-2014`). That trial was with older children and included the visit itself. Sources: [`bowen-2014`](research-sources.md#bowen-2014).
 - **Notice:** Does the child point to evidence in the picture for what they say?
+- **Safety:** Ordinary adult supervision.
+
+### Visit a gallery or museum with a plan
+
+`art-museum-visit` · adapted · about 60 min · monthly
+
+- **Goal:** Seeing real art, and practice looking for longer than a glance.
+- **Do:** Once a month, visit a gallery, museum or public art. Pick three works only. At each one, use the look-and-talk questions, then let the child choose one to draw or act out at home.
+- **Easier:** Ten minutes, one room, one work the child picks.
+- **Harder:** The child plans the route from a map; compare two works by the same artist; tell a sibling about one piece.
+- **Materials:** A local art museum, many free; a sketchbook.
+- **Why:** A lottery-assigned museum visit improved critical thinking about art, most for younger and disadvantaged students (`bowen-2014`), and more school arts learning reduced discipline problems and raised writing and empathy (`bowen-2023`). Both concern school programs with older children. Sources: [`bowen-2014`](research-sources.md#bowen-2014), [`bowen-2023`](research-sources.md#bowen-2023).
+- **Notice:** Which works hold the child's attention, and what do they say about them a week later?
+- **Safety:** Keep hands off the art and stay together in crowds.
+
+### Play drama games
+
+`art-drama-games` · tested · about 10 min · 2-3 times a week
+
+- **Goal:** Controlling emotions and the body on purpose, through pretending.
+- **Do:** Play short theatre games: freeze in a shape on a signal, walk like a character who is happy, then scared, then sneaky; show a feeling with only your face; pass an imaginary object round and change what it is. Take turns being the director.
+- **Easier:** Copy the adult's character before inventing one.
+- **Harder:** Switch emotions quickly on a cue; hold a character while someone tries to make them laugh; act a feeling and let others guess.
+- **Materials:** Space to move; a few props.
+- **Why:** In a randomised trial, eight weeks of dramatic pretend play games improved emotional self-control in 4- to 6-year-olds, while block play and storytime did not; there was no effect on empathy or social skills (`goldstein-2018`). That was a class with a teacher, so home doses are untested. Sources: [`goldstein-2018`](research-sources.md#goldstein-2018), [`lillard-2013`](research-sources.md#lillard-2013).
+- **Notice:** Can the child hold a character, or a freeze, when they want to laugh or move?
+- **Safety:** Ordinary adult supervision.
+
+### Act out a story
+
+`art-act-out-stories` · plausible · about 15 min · weekly
+
+- **Goal:** Retelling a story in order, in voices and actions.
+- **Do:** After reading a book with a clear plot, act it out together with simple props. The child chooses a role, then swaps. Keep to the story's order of events.
+- **Easier:** Act out one scene.
+- **Harder:** Perform it for the family; change the ending and act the new version; make a puppet show of it.
+- **Materials:** A picture book with a clear plot; dress-up items or puppets.
+- **Why:** Classroom drama has been linked with story recall and oral language, with larger effects for enacting a set plot (`podlozny-2000`), but a review found the studies too flawed to rely on (`mages-2008`). Sources: [`podlozny-2000`](research-sources.md#podlozny-2000), [`mages-2008`](research-sources.md#mages-2008).
+- **Notice:** Does the child keep the events in order, and use the book's words?
+- **Safety:** Ordinary adult supervision.
+
+### See live theatre or dance
+
+`art-live-performance` · adapted · about 60 min · every month or two
+
+- **Goal:** Following a live story, and seeing other people's art made in front of them.
+- **Do:** Every month or two, see a live children's play, puppet show or dance performance. Afterwards, ask what happened, who they liked and why, and what they would change.
+- **Easier:** A 30-minute show; library or park performances.
+- **Harder:** Retell the plot in order; act out a favourite scene at home; see the book version and compare.
+- **Materials:** Local children's theatre, library and park programs.
+- **Why:** In five lottery experiments, school students who saw live theatre gained in tolerance, perspective taking and knowledge of the plot, while those who saw the film did not (`greene-2017`). School-age children; not tested at 4-6. Sources: [`greene-2017`](research-sources.md#greene-2017).
+- **Notice:** Can the child retell the plot? Do they talk about why characters acted as they did?
 - **Safety:** Ordinary adult supervision.
 
 <a id="music"></a>
@@ -377,42 +468,107 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 
 ### Keep a steady beat and echo rhythms
 
-`music-steady-beat` · plausible · about 5 min · 3-4 times a week
+`music-steady-beat` · adapted · about 5 min · 3-4 times a week
 
 - **Goal:** Feeling and keeping a pulse; hearing and reproducing a pattern.
-- **Do:** Put on music with a clear beat and clap, march or drum along together. Then clap a short rhythm for the child to echo, and swap roles.
+- **Do:** Put on music with a clear beat and clap, march or drum along together. Then clap a short rhythm for the child to echo, and swap roles. Clap the syllables of names and words ("but-ter-fly", "wa-ter-mel-on").
 - **Easier:** Bounce or march to the beat while you hold their hands.
 - **Harder:** Keep the beat as the music speeds up or slows down; echo longer patterns; keep a beat while you clap a different rhythm.
 - **Materials:** Any music; a drum, pot or lap.
-- **Why:** Beat-keeping is correlated with pre-reading skills in one small study, and music training has not been shown to raise other abilities. Do it for the musical skill. Sources: [`woodruff-2014`](research-sources.md#woodruff-2014), [`sala-2020`](research-sources.md#sala-2020).
+- **Why:** In a small randomised trial, a preschool music program improved 5- and 6-year-olds' awareness of words and syllables as much as a phonological program (`dege-2011`), and beat-keeping goes with better neural encoding of speech (`woodruff-2014`). The home routine is an adaptation; do it first for the musical skill. Sources: [`dege-2011`](research-sources.md#dege-2011), [`woodruff-2014`](research-sources.md#woodruff-2014), [`neves-2022`](research-sources.md#neves-2022).
 - **Notice:** Can the child stay with the beat, or do they drift ahead?
 - **Safety:** Ordinary adult supervision.
 
 ### Sing a growing set of songs
 
-`music-sing-daily` · plausible · about 5 min · daily
+`music-sing-daily` · adapted · about 5 min · daily
 
-- **Goal:** Pitch matching, memory for words and melody, and enjoyment.
+- **Goal:** Singing in tune, memory for words and melody, and enjoyment.
 - **Do:** Sing together every day: in the car, at clean-up, at bedtime. Add a new song every week or two and keep the old ones in rotation.
 - **Easier:** Sing the last word of each line and let the child fill it in.
 - **Harder:** The child starts the song alone; sing a round or a call-and-response; make up a new verse.
 - **Materials:** None.
-- **Why:** No reviewed evidence of wider benefit from singing at home. Rhyming songs add some sound-play practice. Sources: [`winner-2013`](research-sources.md#winner-2013), [`sala-2020`](research-sources.md#sala-2020).
+- **Why:** Singing accuracy improves through the elementary years, and adults who stop singing sing about as accurately as kindergartners (`demorest-2015`); children without music instruction declined in singing over a year (`ilari-2016`). Shared home music at 2-3 had small associations with later skills (`williams-2015`). Correlational and cross-sectional evidence. Sources: [`demorest-2015`](research-sources.md#demorest-2015), [`williams-2015`](research-sources.md#williams-2015), [`ilari-2016`](research-sources.md#ilari-2016).
 - **Notice:** Is the child matching the tune or chanting the words?
+- **Safety:** Ordinary adult supervision.
+
+### Sing back a note, then a tune
+
+`music-pitch-match` · plausible · about 5 min · 3-4 times a week
+
+- **Goal:** Hearing a pitch and matching it with the voice.
+- **Do:** Sing one note on a syllable ("la") and have the child sing it back. Then a slide up, a slide down, then a three-note pattern. Swap roles so the child leads. Use a keyboard note if your own voice wanders.
+- **Easier:** Match a sound in their own comfortable range; use a siren slide rather than a fixed note.
+- **Harder:** Five-note patterns; echo the first line of a song; find the note on a keyboard.
+- **Materials:** Voice; optionally a keyboard or a tuner app.
+- **Why:** No study tests this exact game. Singing accuracy is a skill that improves with use and declines without it (`demorest-2015`). Sources: [`demorest-2015`](research-sources.md#demorest-2015), [`ilari-2016`](research-sources.md#ilari-2016).
+- **Notice:** Does the child land on the note, or near it? Is it better on slides than fixed notes?
 - **Safety:** Ordinary adult supervision.
 
 ### Make music together as a family
 
-`music-make-together` · plausible · about 10 min · weekly
+`music-make-together` · adapted · about 10 min · weekly
 
 - **Goal:** Coordinating with other people in time.
 - **Do:** Play, sing or dance together as a group, with siblings included. Take turns leading: the leader sets the beat or the move and everyone follows.
 - **Easier:** Free dancing to a favourite song.
 - **Harder:** Start and stop together on a signal; play loud and soft together; each person keeps a different part.
 - **Materials:** Shakers, drums, pots, voices.
-- **Why:** One lab study found four-year-olds more helpful to each other straight after making music together, and a later field study reportedly did not. Treat any social benefit as unproven. Sources: [`kirschner-2010`](research-sources.md#kirschner-2010).
+- **Why:** Four-year-olds helped and cooperated more straight after making music together than after a matched non-musical game (`kirschner-2010`), and a school year of musical group games raised older children's empathy (`rabinowitch-2013`). Short-term lab effects and a small study; durable effects are unproven. Sources: [`kirschner-2010`](research-sources.md#kirschner-2010), [`rabinowitch-2013`](research-sources.md#rabinowitch-2013), [`williams-2015`](research-sources.md#williams-2015).
 - **Notice:** Can the child follow another person's lead as well as lead?
 - **Safety:** Ordinary adult supervision.
+
+### Join a group music class
+
+`music-group-class` · adapted · about 45 min · weekly
+
+- **Goal:** Making music with other children and a teacher, outside the family.
+- **Do:** Enrol in a weekly group class for this age: a children's band, choir, rhythm or general music class. Ask what the class does at home between sessions and do some of it.
+- **Easier:** A parent-and-child class.
+- **Harder:** A class with performances; a class built around one instrument.
+- **Materials:** A local music school or community class.
+- **Why:** Preschoolers had lower stress hormone after music, dance and art classes than after ordinary classes (`brown-2017`). Brief preschool music classes did not raise spatial, language or number skills (`mehr-2013`), so choose a class for the music and the enjoyment. Sources: [`brown-2017`](research-sources.md#brown-2017), [`williams-2015`](research-sources.md#williams-2015), [`mehr-2013`](research-sources.md#mehr-2013).
+- **Notice:** Does the child sing or play what they learned at home, unprompted?
+- **Safety:** Ordinary adult supervision.
+
+### Listen to something new each week
+
+`music-listen-widely` · plausible · about 5 min · weekly
+
+- **Goal:** Breadth: hearing many kinds of music and naming what is in it.
+- **Do:** Each week, put on one piece from a style or tradition the child has not heard: a symphony movement, jazz, a West African drum ensemble, a sitar raga, bluegrass. Name one instrument to listen for. Ask whether it sounds happy, sad, fast, slow, and why.
+- **Easier:** Two minutes, with movement allowed.
+- **Harder:** Pick out two instruments; compare two pieces; draw what the music sounds like; choose next week's piece from two options.
+- **Materials:** A streaming service or library recordings.
+- **Why:** No study tests wide listening at this age. It supplies the new triggers that early interest depends on (`hidi-renninger-2006`). Sources: [`hidi-renninger-2006`](research-sources.md#hidi-renninger-2006).
+- **Notice:** Which pieces does the child ask to hear again?
+- **Safety:** Ordinary adult supervision.
+
+### Dance and freeze to music
+
+`music-move-to-music` · plausible · about 10 min · 2-3 times a week
+
+- **Goal:** Moving in time, and stopping and starting on a musical cue.
+- **Do:** Play music and dance freely; when the music stops, everyone freezes. Then dance fast for fast music and slow for slow, big for loud and small for quiet.
+- **Easier:** Free dancing only.
+- **Harder:** Freeze in a named shape or animal; move only when a particular instrument plays.
+- **Materials:** Any music and some space.
+- **Why:** A small trial of a creative dance program found no significant gain in social competence (`lobo-2006`). Do it for the movement and the musical listening. Sources: [`brown-2017`](research-sources.md#brown-2017), [`lobo-2006`](research-sources.md#lobo-2006).
+- **Notice:** Does the child react to changes in the music, or only to it stopping?
+- **Safety:** Clear the floor of trip hazards.
+
+### Hear live music
+
+`music-live-music` · plausible · about 45 min · every month or two
+
+- **Goal:** Seeing and hearing instruments played by people in front of them.
+- **Do:** Every month or two, go to a free children's concert, an outdoor concert, a church or school performance, or a busker. Sit close enough to see the instruments. Afterwards, ask which instrument they liked and why.
+- **Easier:** Ten minutes of an outdoor concert.
+- **Harder:** Learn the name and family of each instrument; meet a musician and ask a question.
+- **Materials:** Library, park, school and orchestra family concerts.
+- **Why:** No study tests concerts at this age. A live theatre trial with older students (`greene-2017`) suggests live performance can do things a recording does not. Sources: [`greene-2017`](research-sources.md#greene-2017), [`hidi-renninger-2006`](research-sources.md#hidi-renninger-2006).
+- **Notice:** Which instrument does the child talk about afterwards?
+- **Safety:** Use ear protection for loud venues.
 
 ### Explore a real instrument
 
@@ -421,10 +577,23 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Goal:** Finding out how an instrument makes high, low, loud and soft sounds.
 - **Do:** Give the child regular free access to a real instrument such as a keyboard, ukulele or xylophone. Show how to make a sound, then let them explore. Pick out a tune they know by ear together.
 - **Easier:** Find the highest and the lowest sound.
-- **Harder:** Play a three-note tune from memory; copy a short phrase you play; start formal lessons if the child asks and will practise.
+- **Harder:** Play a three-note tune from memory; copy a short phrase you play.
 - **Materials:** Keyboard, ukulele, xylophone or recorder.
-- **Why:** The claim that lessons raise intelligence does not hold up in controlled studies. Lessons are worth it if the child wants to play music. Sources: [`schellenberg-2004`](research-sources.md#schellenberg-2004), [`sala-2020`](research-sources.md#sala-2020).
+- **Why:** Children's brains adapt to the instrument skill they practise (`hyde-2009`), but piano lessons did not leave a lasting advantage in other abilities (`costa-giomi-1999`). Do it to learn the instrument. Sources: [`hyde-2009`](research-sources.md#hyde-2009), [`costa-giomi-1999`](research-sources.md#costa-giomi-1999).
 - **Notice:** Does the child return to the instrument unprompted?
+- **Safety:** Ordinary adult supervision.
+
+### Decide on formal lessons
+
+`music-lessons-decision` · adapted · about 15 min · practice 4-5 days a week once started
+
+- **Goal:** Starting individual instrument lessons at a point where they are likely to stick.
+- **Do:** Wait for signs: the child asks repeatedly, returns to an instrument unprompted, and can attend for 15 minutes. Then book a short trial term with a teacher who teaches young children. At home, practise little and often, and focus on how: slow down the hard bar, play it three times right, then put it back in the piece.
+- **Easier:** Keep exploring and group class; revisit in three months.
+- **Harder:** A full term with a small performance at the end; the child keeps a practice chart.
+- **Materials:** A teacher and an instrument sized for the child.
+- **Why:** Practice explains about a fifth of differences in music performance (`macnamara-2014`), and how beginners practise predicts progress more than how long (`mcpherson-2005`). Whether lessons help other skills is contested (`sala-2020` against `roman-caballero-2022`); do not start them for that. Sources: [`mcpherson-2005`](research-sources.md#mcpherson-2005), [`macnamara-2014`](research-sources.md#macnamara-2014), [`sala-2020`](research-sources.md#sala-2020), [`roman-caballero-2022`](research-sources.md#roman-caballero-2022).
+- **Notice:** Does the child practise without reminders after the first month?
 - **Safety:** Ordinary adult supervision.
 
 <a id="movement"></a>
@@ -440,7 +609,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Roll and trap; catch a balloon or a scarf; underhand toss into a bucket.
 - **Harder:** A tennis ball; a longer distance; a moving target; catching on the run; throwing with the other hand.
 - **Materials:** Balls of several sizes, a bucket or wall target.
-- **Why:** Fundamental movement skills improve with instruction and practice and did not improve with free play alone. Children who have them stay more active. Sources: [`logan-2012`](research-sources.md#logan-2012), [`stodden-2008`](research-sources.md#stodden-2008), [`robinson-2015`](research-sources.md#robinson-2015).
+- **Why:** Fundamental movement skills improve with instruction and practice and did not improve with free play alone. Children who have them stay more active. Sources: [`logan-2012`](research-sources.md#logan-2012), [`stodden-2008`](research-sources.md#stodden-2008), [`robinson-2015`](research-sources.md#robinson-2015), [`wick-2017`](research-sources.md#wick-2017).
 - **Notice:** Does the child step with the opposite foot? Do they trap the ball against the chest or catch with the hands?
 - **Safety:** Ordinary adult supervision.
 
@@ -505,7 +674,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Parent-and-child games with one rule; skill stations before any game.
 - **Harder:** Positions and passing; keeping score and handling a loss; a second sport in the same year.
 - **Materials:** A local recreation league or a few friends and a ball.
-- **Why:** Paediatric guidance favours fun, skills and several sports over early competition and specialization. Many children under 6 are not yet ready for team tactics, so expect to coach skills more than strategy. Sources: [`aap-sports-2019`](research-sources.md#aap-sports-2019), [`aap-specialization-2016`](research-sources.md#aap-specialization-2016), [`stodden-2008`](research-sources.md#stodden-2008).
+- **Why:** Paediatric guidance favours fun, skills and several sports over early competition and specialization. Many children under 6 are not yet ready for team tactics, so expect to coach skills more than strategy. Sources: [`aap-sports-2019`](research-sources.md#aap-sports-2019), [`aap-specialization-2016`](research-sources.md#aap-specialization-2016), [`stodden-2008`](research-sources.md#stodden-2008), [`eime-2013`](research-sources.md#eime-2013), [`visek-2015`](research-sources.md#visek-2015), [`gullich-2022`](research-sources.md#gullich-2022).
 - **Notice:** Does the child stay engaged when they do not have the ball? How do they take losing?
 - **Safety:** Ordinary adult supervision.
 
@@ -518,7 +687,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Low climbing and jumping with you nearby.
 - **Harder:** A taller tree; a steeper hill on the bike; using a real tool such as a hammer or a peeler with instruction.
 - **Materials:** Playground, trees, hills, loose logs, a bike.
-- **Why:** Risky outdoor play is associated with more physical activity and better social health, with no increase in fractures from play at height. The evidence is observational. Sources: [`brussoni-2015`](research-sources.md#brussoni-2015).
+- **Why:** Risky outdoor play is associated with more physical activity and better social health, with no increase in fractures from play at height. The evidence is observational. Sources: [`brussoni-2015`](research-sources.md#brussoni-2015), [`sandseter-2011`](research-sources.md#sandseter-2011).
 - **Notice:** Does the child assess before acting? Do they stop themselves at their own limit?
 - **Safety:** Remove hazards the child cannot see or judge (traffic, deep water, hard falls onto concrete). Risk the child can see and choose is the point.
 
@@ -535,7 +704,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Do the first step together, then stop.
 - **Harder:** A harder task chosen on purpose; the child states what they will try next before you say anything.
 - **Materials:** Any task at the edge of the child's ability.
-- **Why:** Four- and five-year-olds persisted less after an adult took over a hard task than after an adult taught or did nothing. Lab finding with immediate effects. Sources: [`leonard-2021`](research-sources.md#leonard-2021), [`vasquez-2016`](research-sources.md#vasquez-2016).
+- **Why:** Four- and five-year-olds persisted less after an adult took over a hard task than after an adult taught or did nothing (`leonard-2021`). Parents who kept directing an already engaged kindergartner had children with poorer self-regulation (`obradovic-2021`), and overcontrol at 2 predicted poorer regulation at 5 (`perry-2018`); those two are correlational. Sources: [`leonard-2021`](research-sources.md#leonard-2021), [`vasquez-2016`](research-sources.md#vasquez-2016), [`obradovic-2021`](research-sources.md#obradovic-2021), [`perry-2018`](research-sources.md#perry-2018).
 - **Notice:** How long does the child try before asking for help? Does that time grow?
 - **Safety:** Ordinary adult supervision.
 
@@ -548,7 +717,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** One specific comment a day.
 - **Harder:** Ask the child what they did that worked, so they say it themselves.
 - **Materials:** None.
-- **Why:** Praise for effort predicts later beliefs about ability in one small study. Mindset effects on achievement are very small, so treat this as a cheap habit, not a lever. Sources: [`gunderson-2013`](research-sources.md#gunderson-2013), [`sisk-2018`](research-sources.md#sisk-2018).
+- **Why:** Praise for intelligence led older children to persist less after failure than praise for effort (`mueller-dweck-1998`), but replications have failed (`li-bates-2019`) and mindset effects on achievement are very small (`sisk-2018`). Inflated praise backfired for children with low self-esteem (`brummelman-2014`). Treat specific, accurate praise as a cheap habit, not a lever. Sources: [`gunderson-2013`](research-sources.md#gunderson-2013), [`sisk-2018`](research-sources.md#sisk-2018), [`mueller-dweck-1998`](research-sources.md#mueller-dweck-1998), [`brummelman-2014`](research-sources.md#brummelman-2014), [`li-bates-2019`](research-sources.md#li-bates-2019).
 - **Notice:** Does the child start describing their own strategies?
 - **Safety:** Ordinary adult supervision.
 
@@ -580,14 +749,14 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 
 ### One small brave thing
 
-`sel-brave-thing` · plausible · about 5 min · weekly
+`sel-brave-thing` · adapted · about 5 min · weekly
 
 - **Goal:** Approaching something uncomfortable in small, chosen steps.
 - **Do:** With the child, pick one slightly scary thing to do this week: order their own food, say hello to a new child, ask a shop assistant a question, try a new food, go down the big slide. Agree the step beforehand, let them do it, and afterwards talk about how it felt before and after.
 - **Easier:** You do it together, or the child does only the first part.
 - **Harder:** The child chooses the challenge; the next step up the same ladder the week after.
 - **Materials:** None.
-- **Why:** No reviewed study tests this routine in typical children. It combines autonomy support with not taking over. Graded exposure is established for clinical anxiety, which this project has not reviewed. Sources: [`vasquez-2016`](research-sources.md#vasquez-2016), [`leonard-2021`](research-sources.md#leonard-2021).
+- **Why:** Teaching parents of very shy preschoolers to reduce overprotection and encourage gradual steps toward feared situations cut later anxiety diagnoses (`rapee-2005`), and a parent-only program that reduced accommodation of anxiety matched therapy for older children (`lebowitz-2020`). Both are trials in children selected for shyness or anxiety; the weekly routine for a typical child is an adaptation. Sources: [`vasquez-2016`](research-sources.md#vasquez-2016), [`leonard-2021`](research-sources.md#leonard-2021), [`rapee-2005`](research-sources.md#rapee-2005), [`lebowitz-2020`](research-sources.md#lebowitz-2020).
 - **Notice:** Does the before-and-after gap in fear shrink over repeats?
 - **Safety:** The child chooses and can decline. Do not force. Persistent, impairing fear is a question for the child's clinician.
 
@@ -604,6 +773,19 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Notice:** Does the child stick to the plan or notice when they change it?
 - **Safety:** Ordinary adult supervision.
 
+### Sample a new activity each season
+
+`sel-try-new-activity` · adapted · about 45 min · weekly, new taster each season
+
+- **Goal:** Breadth: trying unfamiliar activities before settling on a few.
+- **Do:** Each season, sign up for one short taster of something the child has not done: a sport, a dance style, an art class, a music class, a nature program, chess, swimming. Commit to finishing the taster, then decide together whether to continue.
+- **Easier:** A single drop-in session.
+- **Harder:** The child chooses from a list of three; keep one activity going while sampling another.
+- **Materials:** Community centre, library and parks programs.
+- **Why:** World-class athletes did more varied sport in childhood and specialised later than national-level ones (`gullich-2022`), and organised activities go with better outcomes while true over-scheduling is rare (`mahoney-2006`). Both are correlational and about older children. Sources: [`gullich-2022`](research-sources.md#gullich-2022), [`mahoney-2006`](research-sources.md#mahoney-2006), [`hidi-renninger-2006`](research-sources.md#hidi-renninger-2006).
+- **Notice:** Which activities does the child ask to go back to? Which do they want to stop, and why?
+- **Safety:** Check coach and instructor safety practices.
+
 <a id="practical-life"></a>
 
 ## Practical life and independence
@@ -617,7 +799,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** A job done alongside you.
 - **Harder:** A second job; a job with several steps (unload the cutlery and put it away); noticing it needs doing without a reminder.
 - **Materials:** Whatever the job needs, stored where the child can reach it.
-- **Why:** Chores in kindergarten are associated with later self-competence and prosocial behaviour. The evidence is correlational and not all studies agree. Sources: [`white-2019`](research-sources.md#white-2019), [`tepper-2022`](research-sources.md#tepper-2022).
+- **Why:** Chores in kindergarten are associated with later self-competence (`white-2019`), but not all studies agree. In experiments, asking children to 'be a helper' raised helping (`bryan-2014`) but made them give up more after a setback (`foster-hanson-2020`), and material rewards reduced toddlers' later helping (`warneken-2008`). So ask them to help, do not pay with things, and expect the job daily. Sources: [`white-2019`](research-sources.md#white-2019), [`tepper-2022`](research-sources.md#tepper-2022), [`bryan-2014`](research-sources.md#bryan-2014), [`foster-hanson-2020`](research-sources.md#foster-hanson-2020), [`warneken-2008`](research-sources.md#warneken-2008), [`randolph-2023`](research-sources.md#randolph-2023).
 - **Notice:** How many reminders does it take? Does the child check their own work?
 - **Safety:** Ordinary adult supervision.
 
@@ -673,7 +855,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Washing and tearing.
 - **Harder:** Peeling; cutting firmer foods with a real small knife under close supervision; making a whole salad or snack plate.
 - **Materials:** Child-safe knife, peeler, board, a stable step.
-- **Why:** Children who helped cook ate more of the meal, salad especially, in one experiment with 6-10-year-olds. Evidence at this age is thin. Sources: [`vanderhorst-2014`](research-sources.md#vanderhorst-2014), [`hersch-2014`](research-sources.md#hersch-2014).
+- **Why:** Children who helped cook ate more of the meal, salad especially, in one experiment with 6-10-year-olds. Evidence at this age is thin. Sources: [`vanderhorst-2014`](research-sources.md#vanderhorst-2014), [`hersch-2014`](research-sources.md#hersch-2014), [`allirot-2016`](research-sources.md#allirot-2016), [`decosta-2017`](research-sources.md#decosta-2017).
 - **Notice:** Does the child eat or at least taste what they prepared?
 - **Safety:** Close supervision with knives and peelers. Keep the child away from heat unless you are hands-on. Know the family's allergens.
 
@@ -705,14 +887,14 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 
 ### Taste and describe a new food
 
-`cooking-taste-new-foods` · plausible · about 5 min · 2-3 times a week
+`cooking-taste-new-foods` · tested · about 5 min · daily for two weeks, then a new food
 
 - **Goal:** Willingness to try unfamiliar foods, and words for taste and texture.
-- **Do:** Offer a small taste of one new or disliked food alongside familiar food. The child smells it, touches it, tastes it if willing, and describes it (crunchy, sour, bitter, soft). No pressure to finish, and offer it again another day.
+- **Do:** Pick one vegetable the child does not like. Offer a small taste of it every day for about two weeks, alongside familiar food. The child smells it, touches it, tastes it and describes it (crunchy, sour, bitter, soft). Do not pressure, bribe or ask them to finish it.
 - **Easier:** Smell and touch only.
 - **Harder:** Compare two varieties (two apples, two cheeses) and say which they prefer and why; choose a new vegetable at the shop to cook.
 - **Materials:** A small portion of one new food.
-- **Why:** Research on repeated tasting exists but has not been reviewed for this library, so no claim is made about how many tries it takes. Sources: [`hersch-2014`](research-sources.md#hersch-2014).
+- **Why:** In a randomised trial with children aged 2-6, a small daily taste of one vegetable for 14 days increased liking and intake of it, while nutrition information did nothing (`wardle-2003`). Pressure to eat reduced intake and caused negative comments (`galloway-2006`). Sources: [`hersch-2014`](research-sources.md#hersch-2014), [`wardle-2003`](research-sources.md#wardle-2003), [`galloway-2006`](research-sources.md#galloway-2006), [`decosta-2017`](research-sources.md#decosta-2017).
 - **Notice:** Does refusal soften over repeated offers?
 - **Safety:** Follow the family's allergy plan and cut foods to a safe size.
 
@@ -729,7 +911,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** Twenty minutes after school.
 - **Harder:** Two hours or more on weekend days; outdoors in rain and cold with the right clothes.
 - **Materials:** Clothes for the weather.
-- **Why:** An extra 40 minutes outdoors a day reduced new cases of short-sightedness in a three-year trial of six-year-olds in China. Other benefits of outdoor time rest on weaker evidence. Sources: [`he-2015`](research-sources.md#he-2015), [`dankiw-2020`](research-sources.md#dankiw-2020), [`who-2019`](research-sources.md#who-2019).
+- **Why:** More time outdoors in daylight reduces the onset of short-sightedness in school-age children in trials (`he-2015`, `wu-2018`, `xiong-2017`). More outdoor time at daycare went with better working memory and attention from 4 to 7 (`ulset-2017`), a correlational finding. Sources: [`he-2015`](research-sources.md#he-2015), [`dankiw-2020`](research-sources.md#dankiw-2020), [`who-2019`](research-sources.md#who-2019), [`wu-2018`](research-sources.md#wu-2018), [`xiong-2017`](research-sources.md#xiong-2017), [`ulset-2017`](research-sources.md#ulset-2017).
 - **Notice:** On which days does this not happen, and why?
 - **Safety:** Sun protection, and clothing for cold and wet.
 
@@ -791,14 +973,14 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 
 ### Build to match a model
 
-`building-copy-model` · adapted · about 10 min · 2-3 times a week
+`building-copy-model` · tested · about 10 min · 2-3 times a week
 
 - **Goal:** Analysing a structure into parts and their positions.
 - **Do:** Build a small structure from blocks or bricks behind a screen, or use a picture or the instruction booklet. The child builds one that matches exactly, then checks it against yours.
 - **Easier:** Four or five blocks, with the model in view and built in front of them.
 - **Harder:** More pieces; a picture in place of a real model; a model seen for ten seconds then hidden; building the mirror image.
 - **Materials:** Unit blocks, interlocking bricks or magnetic tiles.
-- **Why:** Copying block constructions is the spatial skill most directly linked to early math in preschoolers, and spatial skills improve with practice. Sources: [`verdine-2014`](research-sources.md#verdine-2014), [`uttal-2013`](research-sources.md#uttal-2013), [`hawes-2022`](research-sources.md#hawes-2022).
+- **Why:** A kindergarten block-building program, rated by the What Works Clearinghouse as a well-run randomised trial, improved spatial skills (`casey-2008`), and spatial training transfers to untrained spatial tasks (`uttal-2013`). Building from a model is related to early math (`verdine-2014`). Sources: [`verdine-2014`](research-sources.md#verdine-2014), [`uttal-2013`](research-sources.md#uttal-2013), [`hawes-2022`](research-sources.md#hawes-2022), [`casey-2008`](research-sources.md#casey-2008).
 - **Notice:** Does the child check the model piece by piece, or build from a general impression?
 - **Safety:** Small bricks are a choking hazard for younger siblings.
 
@@ -811,7 +993,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** 24 pieces with a clear picture.
 - **Harder:** 60-100 pieces; tangram or pattern-block pictures without internal lines; work without looking at the box.
 - **Materials:** Jigsaws, tangrams, pattern blocks.
-- **Why:** Puzzle play in the preschool years predicts later spatial skill, and spatial skills are trainable. The puzzle evidence is correlational. Sources: [`levine-2012`](research-sources.md#levine-2012), [`uttal-2013`](research-sources.md#uttal-2013).
+- **Why:** Puzzle play in the preschool years predicts later spatial skill, and spatial skills are trainable. The puzzle evidence is correlational. Sources: [`levine-2012`](research-sources.md#levine-2012), [`uttal-2013`](research-sources.md#uttal-2013), [`jirout-newcombe-2015`](research-sources.md#jirout-newcombe-2015).
 - **Notice:** Does the child rotate a piece in their head before trying it, or by trial and error?
 - **Safety:** Ordinary adult supervision.
 
@@ -867,7 +1049,7 @@ Source ids link to [research-sources.md](research-sources.md). For what the rese
 - **Easier:** One recurring playdate or class a week.
 - **Harder:** An immersion school or program; a trip or stay where only that language is used.
 - **Materials:** A fluent speaker.
-- **Why:** How well a language is learned depends on the amount and quality of live exposure. Starting before about 10 leaves native-like grammar within reach. Do this because the language matters to the family; a general cognitive benefit is not supported. Sources: [`byers-2013`](research-sources.md#byers-2013), [`kuhl-2003`](research-sources.md#kuhl-2003), [`hartshorne-2018`](research-sources.md#hartshorne-2018).
+- **Why:** How well a language is learned depends on the amount and quality of live exposure. Starting before about 10 leaves native-like grammar within reach. Do this because the language matters to the family; a general cognitive benefit is not supported. Sources: [`byers-2013`](research-sources.md#byers-2013), [`kuhl-2003`](research-sources.md#kuhl-2003), [`hartshorne-2018`](research-sources.md#hartshorne-2018), [`ferjan-ramirez-2017`](research-sources.md#ferjan-ramirez-2017), [`hoff-2012`](research-sources.md#hoff-2012).
 - **Notice:** Does the child understand without translation? Do they answer in the language?
 - **Safety:** Ordinary adult supervision.
 

@@ -40,7 +40,7 @@ Use this when a caregiver asks what to work on with a child of about 4 or 5, whi
 5. Give the **Notice** prompt and ask for one observation afterwards. Record it with `observe`. An observation is a caregiver's report, not a score or a milestone.
 6. Outside 48–71 months there is no reviewed library yet. Say so, and do not stretch these activities to another age without a reviewed adaptation.
 
-Findings in `data/research.json` are summarised from prior knowledge with each citation confirmed to exist. `full_text_read` is false throughout. Open the source before quoting a number, and tell the caregiver when a figure is unverified. Run `python scripts/skill_library.py validate` after any change to either data file, and `render` to refresh the two generated pages.
+Each citation in `data/research.json` was confirmed to exist. `finding_checked_against` says whether the finding was checked against the paper's abstract or text (`paper`), a secondary summary (`secondary`), or nothing (`none`, summarised from prior knowledge). `full_text_read` is false throughout. Open the source before quoting a number, and tell the caregiver when a figure is unverified. Run `python scripts/skill_library.py validate` after any change to either data file, and `render` to refresh the two generated pages.
 
 ## Scheduling
 

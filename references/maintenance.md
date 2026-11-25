@@ -18,7 +18,7 @@ Automation: a connected scheduled assistant may run the host workflow for an aut
 
 Edit `data/research.json` and `data/skill-activities.json`, then run `python scripts/skill_library.py render` and commit the regenerated pages with the data. Do not edit `references/research-sources.md` or `references/activity-catalog.md` by hand. `references/research-base.md` is written by hand and must cite only source ids that exist.
 
-- Before adding a source, confirm the citation exists and record the date. Set `full_text_read` to true only after reading it, and then correct the finding and limits against the text. Leave out volume and page numbers unless confirmed.
-- Reading the 71 current sources in full and correcting their summaries is the main outstanding work. Start with the ones whose `limits` say a figure was recalled from memory.
+- Before adding a source, confirm the citation exists and record the date. Set `finding_checked_against` to what you actually read, and `full_text_read` to true only after reading the whole paper; then correct the finding and limits against it. Leave out volume and page numbers unless confirmed.
+- 98 of 181 sources have `finding_checked_against: none`. Reading those and correcting their summaries is the main outstanding work. PubMed and PMC pages often refuse automated reading; publisher pages, repositories and clearinghouse pages usually work. Set the field to `paper` only when the paper's own abstract or text was read, and to `secondary` for a press release, database or clearinghouse summary.
 - Keep activity ids stable. Change a grade when the evidence changes, and say why in the changelog.
 - A new band needs its own research pass. Do not widen an existing band's months to cover it.

@@ -47,6 +47,13 @@ class SkillLibraryTests(unittest.TestCase):
             self.assertEqual(s['citation_checked_on'], self.research['checked_on'])
             self.assertFalse(s['full_text_read'], s['id'])
             self.assertNotRegex(s['citation'], r'\d+\(\d+\), \d+', s['id'])  # no unconfirmed volume/pages
+            self.assertIn(s['finding_checked_against'], lib.CHECKED, s['id'])
+
+    def test_unchecked_findings_say_so_in_the_generated_page(self):
+        page = (ROOT / 'references/research-sources.md').read_text(encoding='utf-8')
+        for key, text in lib.CHECKED.items():
+            if any(s['finding_checked_against'] == key for s in self.sources.values()):
+                self.assertIn(f'Finding checked against: {text}.', page)
 
     def test_summary_cites_only_known_sources_and_activities(self):
         text = (ROOT / 'references/research-base.md').read_text(encoding='utf-8')
