@@ -23,7 +23,8 @@ class BriefingTests(unittest.TestCase):
                     end='2026-11-24T10:00:00-06:00',**kwargs)
 
     def normalized(self):
-        return b.normalize_calendar(self.s,self.start,date(2026,11,30),'America/Chicago')
+        return b.normalize_calendar(self.s,self.start,date(2026,11,30),'America/Chicago',
+                                    as_of=b.aware('2026-11-23T00:00:00-06:00'))
 
     def test_reported_age_grows_without_inventing_dob(self):
         child=self.h['children'][0]
@@ -107,7 +108,8 @@ class BriefingTests(unittest.TestCase):
     def test_partial_calendar_enumeration_pagination_missing_calendar(self):
         self.s['enumeration_complete']=False
         self.s['calendars'][0]['next_page_token']='more'
-        events,warnings=b.normalize_calendar(self.s,self.start,date(2026,11,30),'America/Chicago',['not-returned'])
+        events,warnings=b.normalize_calendar(self.s,self.start,date(2026,11,30),'America/Chicago',['not-returned'],
+                                            as_of=b.aware('2026-11-23T00:00:00-06:00'))
         self.assertEqual(len(warnings),3)
         self.assertIn('INCOMPLETE',b.render(self.h,self.s,self.start))
 
@@ -116,6 +118,35 @@ class BriefingTests(unittest.TestCase):
         self.s['window_end']='2026-11-27'
         _,warnings=self.normalized()
         self.assertEqual(len(warnings),2)
+
+    def test_fresh_advance_preview_not_mislabeled_stale(self):
+        self.s.update(window_start='2026-11-30',window_end='2026-12-07',
+                      captured_at='2026-11-24T20:00:00-06:00')
+        _,warnings=b.normalize_calendar(self.s,date(2026,11,30),date(2026,12,7),'America/Chicago',
+                                        as_of=b.aware('2026-11-24T20:05:00-06:00'))
+        self.assertFalse(warnings)
+        _,warnings=b.normalize_calendar(self.s,date(2026,11,30),date(2026,12,7),'America/Chicago',
+                                        as_of=b.aware('2026-11-27T20:05:00-06:00'))
+        self.assertEqual(len(warnings),1)
+        self.assertIn('48 hours ago',warnings[0])
+
+    def test_birthdays_do_not_inflate_busy_day_note(self):
+        self.s['calendars'][0]['events']=[dict(id=f'birthday-{i}',summary='Fictional birthday',
+            start_date='2026-11-24',end_date='2026-11-25',transparency='transparent') for i in range(3)]
+        self.s['calendars'][0]['events'].append(self.event('appointment'))
+        self.assertNotIn('Several commitments are listed',b.render(self.h,self.s,self.start))
+
+    def test_three_timed_commitments_still_get_busy_day_note(self):
+        self.s['calendars'][0]['events']=[self.event(f'appointment-{i}') for i in range(3)]
+        self.assertIn('Several commitments are listed',b.render(self.h,self.s,self.start))
+
+    def test_ordinary_errand_is_not_a_pickup_deadline(self):
+        event=self.event('errand')
+        event['summary']='Pick up library books'
+        self.s['calendars'][0]['events']=[event]
+        self.assertNotIn('**Logistics:**',b.render(self.h,self.s,self.start))
+        event['summary']='Childcare early close — Pickup by 4:00pm'
+        self.assertIn('**Logistics:**',b.render(self.h,self.s,self.start))
 
     def test_missing_time_or_naive_time_disclosed_not_dropped(self):
         self.s['calendars'][0]['events']=[{'id':'tombstone','status':'cancelled'},{'id':'naive','start':'2026-11-24T09:00:00','end':'2026-11-24T10:00:00'}]
